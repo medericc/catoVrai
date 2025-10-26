@@ -27,18 +27,18 @@ export const metadata: Metadata = {
     'messe catholique',
     'tradition apostolique',
   ],
-  authors: [{ name: 'Catholicisme vs Hérésie', url: 'https://votre-site.fr' }],
+  authors: [{ name: 'Catholicisme vs Hérésie', url: 'cato-heresie.vercel.app' }],
   openGraph: {
     title: 'Catholicisme vs Hérésie — Défense de la Foi Catholique',
     description:
       'Analyse des différences entre la foi catholique et les doctrines protestantes. Bible, Tradition, Foi et Œuvres, Purgatoire expliqués avec clarté et fidélité à l’enseignement de l’Église.',
-    url: 'https://votre-site.fr',
+    url: 'cato-heresie.vercel.app',
     siteName: 'Catholicisme vs Hérésie',
     type: 'website',
     locale: 'fr_FR',
     images: [
       {
-        url: '/images/meta-cover.jpg',
+        url: '/preview.jpg',
         width: 1200,
         height: 630,
         alt: 'Catholicisme vs Hérésie — Défense de la Foi Catholique',
@@ -51,10 +51,10 @@ export const metadata: Metadata = {
     description:
       'Découvrez la foi catholique véritable : la Bible, la Tradition, et l’enseignement de l’Église unis pour la vérité du Christ.',
     creator: '@votre_compte',
-    images: ['/images/meta-cover.jpg'],
+    images: ['/preview.jpg'],
   },
   alternates: {
-    canonical: 'https://votre-site.fr',
+    canonical: 'cato-heresie.vercel.app',
   },
 };
 
@@ -73,6 +73,8 @@ export default function RootLayout({
           content="votre-code-de-verification-google"
         />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="apple-mobile-web-app-title" content="Hérétique" />
+      <meta name="google-site-verification" content="KIssfeT7ogtaHZ_L9xPCYHsk1VK4jjH1JHtdGGPMg_E" />
       </head>
       <body className="bg-slate-50 text-slate-800 antialiased">
         <header
