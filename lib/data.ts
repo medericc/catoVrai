@@ -238,111 +238,276 @@ Le prêtre est sa voix et ses mains.`
       id: "tradition",
       titre: "Bible seule ? Tradition ? Église ?",
       questions: [
-        {
-          id: "bible-seule",
-          question: "Il faut croire seulement ce qui est écrit dans la Bible.",
-          reponse: `La Bible ne dit jamais que seule l’Écriture est l’autorité.
+       {
+
+    
+      id: "bible-seule",
+      question: "Il faut croire seulement ce qui est écrit dans la Bible.",
+      reponse: `La Bible ne dit jamais que seule l’Écriture est l’autorité.
 Au contraire, elle parle aussi de la Tradition transmise oralement (2 Thess 2,15).
 → Jésus n’a pas écrit un livre : il a fondé une Église (Mt 16,18).`,
-          scripture: ["2 Thess 2:15", "Mt 16:18"]
-        },
-        {
-          id: "tradition-biblique",
-          question: "La Tradition, ce n’est pas biblique !",
-          reponse: `Saint Paul dit :
+      scripture: ["2 Thess 2:15", "Mt 16:18"]
+    },
+    {
+      id: "tradition-biblique",
+      question: "La Tradition, ce n’est pas biblique !",
+      reponse: `Saint Paul dit :
 « Tenez fermes les traditions, par la parole ou par la lettre » (2 Thess 2,15).
 → La Tradition apostolique = orale + écrite.`,
-          scripture: ["2 Thess 2:15"]
-        },
-        {
-          id: "enseignement-oral",
-          question: "Mais Paul aurait tout écrit dans la Bible.",
-          reponse: `Non.
+      scripture: ["2 Thess 2:15"]
+    },
+    {
+      id: "enseignement-oral",
+      question: "Mais Paul aurait tout écrit dans la Bible.",
+      reponse: `Non.
 Il dit qu’il a enseigné des choses non écrites (2 Thess 2,5).
 → Il existe un enseignement oral venant des apôtres.`,
-          scripture: ["2 Thess 2:5"]
-        },
-        {
-          id: "interpretation",
-          question: "Chacun peut interpréter la Bible.",
-          reponse: `La Bible dit que les ignorants tordent les Écritures (2 Pierre 3,16).
+      scripture: ["2 Thess 2:5"]
+    },
+    {
+      id: "interpretation",
+      question: "Chacun peut interpréter la Bible.",
+      reponse: `La Bible dit que les ignorants tordent les Écritures (2 Pierre 3,16).
 Elle demande une interprétation authentique (1 Tim 3,15).
 → Cette mission appartient à l’Église, pas à l’individu isolé.`,
-          scripture: ["2 Pierre 3:16", "1 Tim 3:15"]
-        },
-        {
-          id: "eglise-bible",
-          question: "L’Église n’a rien à voir avec la Bible.",
-          reponse: `La Bible est née dans l’Église, par l’Église et pour l’Église.
+      scripture: ["2 Pierre 3:16", "1 Tim 3:15"]
+    },
+    {
+      id: "eglise-bible",
+      question: "L’Église n’a rien à voir avec la Bible.",
+      reponse: `La Bible est née dans l’Église, par l’Église et pour l’Église.
 Sans l’Église, il n’y aurait aucun canon biblique.`
-        },
-        {
-          id: "canon-juif",
-          question: "Le canon biblique vient des Juifs.",
-          reponse: `Jésus et les apôtres utilisaient la Septante, pas la Bible juive postérieure.
+    },
+    {
+      id: "canon-juif",
+      question: "Le canon biblique vient des Juifs.",
+      reponse: `Jésus et les apôtres utilisaient la Septante, pas la Bible juive postérieure.
 La Septante contient les 7 livres que les protestants ont retirés.
 → Jésus cite cette version et la lit à la synagogue.`
-        },
-        {
-          id: "livres-ajoutes",
-          question: "Les catholiques ont ajouté des livres.",
-          reponse: `Faux.
+    },
+    {
+      id: "livres-ajoutes",
+      question: "Les catholiques ont ajouté des livres.",
+      reponse: `Faux.
 Ce sont les réformateurs (XVIe siècle) qui ont supprimé 7 livres,
 pour justifier leurs doctrines (ex : Romains 3,28 modifié par Luther).`
-        },
-        {
-          id: "autorite",
-          question: "Mais seul Dieu est l’autorité !",
-          reponse: `Oui, et Dieu a confié cette autorité à l’Église :
+    },
+    {
+      id: "autorite",
+      question: "Mais seul Dieu est l’autorité !",
+      reponse: `Oui, et Dieu a confié cette autorité à l’Église :
 « L’Église est la colonne et l’appui de la vérité. » (1 Tim 3,15)`,
-          scripture: ["1 Tim 3:15"]
-        },
-        {
-          id: "pierre",
-          question: "Pierre n’avait pas de rôle spécial.",
-          reponse: `Jésus lui confie les clefs (Mt 16,18-19),
+      scripture: ["1 Tim 3:15"]
+    },
+    {
+      id: "pierre",
+      question: "Pierre n’avait pas de rôle spécial.",
+      reponse: `Jésus lui confie les clefs (Mt 16,18-19),
 lui dit : « Pais mes brebis » (Jn 21,17),
 et dans les Actes, Pierre agit en premier (Actes 1-10).
 → Il est le berger visible de l’Église.`,
-          scripture: ["Mt 16:18-19", "Jn 21:17", "Actes 1-10"]
-        },
-        {
-          id: "pape",
-          question: "Le pape, ça n’existe pas dans la Bible.",
-          reponse: `Le pape = successeur de Pierre.
+      scripture: ["Mt 16:18-19", "Jn 21:17", "Actes 1-10"]
+    },
+    {
+      id: "pape",
+      question: "Le pape, ça n’existe pas dans la Bible.",
+      reponse: `Le pape = successeur de Pierre.
 Pierre meurt à Rome → son siège est Rome.
 L’unité apostolique passe par cette succession.`
-        },
-        {
-          id: "eglise-hierarchie",
-          question: "La foi primitive était simple, sans Église hiérarchique.",
-          reponse: `Dès Actes 15, il y a un concile pour discerner la doctrine.
+    },
+    {
+      id: "eglise-hierarchie",
+      question: "La foi primitive était simple, sans Église hiérarchique.",
+      reponse: `Dès Actes 15, il y a un concile pour discerner la doctrine.
 Dès Actes 1, Pierre organise la succession apostolique.
 → L’Église est structurée dès le début.`,
-          scripture: ["Actes 1", "Actes 15"]
-        },
-        {
-          id: "sola-scriptura",
-          question: "La Sola Scriptura est la foi des premiers chrétiens.",
-          reponse: `Aucun chrétien avant Luther (XVIᵉ siècle) n’a enseigné cela.
+      scripture: ["Actes 1", "Actes 15"]
+    },
+    {
+      id: "rejeter-apotres",
+      question: "Rejeter les apôtres, ce n’est pas rejeter Jésus ?",
+      reponse: `Jésus dit : « Qui vous rejette, me rejette. » (Lc 10,16)
+→ Refuser l’autorité apostolique = refuser le Christ lui-même.`,
+      scripture: ["Luc 10:16"]
+    },
+    {
+      id: "eglise-apotres",
+      question: "L’Église, c’est juste une communauté symbolique.",
+      reponse: `Non. Jésus fonde une Église visible et missionnaire :
+« Comme le Père m’a envoyé, moi aussi je vous envoie. » (Jn 20,21)
+→ Elle agit avec l’autorité du Christ.`,
+      scripture: ["Jn 20:21"]
+    },
+
+    {
+      id: "unite",
+      question: "Pourquoi une seule Église ?",
+      reponse: `Jésus prie pour que tous soient un (Jn 17,21).
+Une seule foi, un seul baptême, un seul Corps (Éph 4,5).
+→ La division contredit la prière du Christ.`,
+      scripture: ["Jn 17:21", "Eph 4:5"]
+    },
+    {
+  id: "eglise-universelle",
+  question: "Pourquoi l’Église catholique se dit universelle ?",
+  reponse: `Le mot “catholique” vient du grec *katholikos* = “universel”.  
+Jésus a fondé **une seule Église**, envoyée à toutes les nations (Mt 28,19).  
+→ L’Église catholique est la seule présente partout dans le monde, avec la même foi, les mêmes sacrements et la même messe — signe de son unité voulue par le Christ.`,
+  scripture: ["Matthieu 28:19", "Jean 17:21", "Éphésiens 4:4-5"]
+},
+    {
+      id: "sola-scriptura",
+      question: "La Sola Scriptura est la foi des premiers chrétiens.",
+      reponse: `Aucun chrétien avant Luther (XVIᵉ siècle) n’a enseigné cela.
 La Sola Scriptura est non biblique, non historique, non apostolique.`
-        },
-        {
-          id: "resume",
-          question: "Résumé clair",
-          reponse: `La foi chrétienne repose sur :
+    },
+    {
+      id: "resume",
+      question: "Résumé clair",
+      reponse: `La foi chrétienne repose sur :
 Écriture (Parole écrite),
 Tradition (Parole transmise),
 Magistère (Église qui garde et interprète).
 Séparées = division.
 Unies = foi apostolique.`
-        },
-
+    },
 
    
     
   ] 
 },
+
+
+{
+  id: "oeuvre-et-purgatoire",
+  titre: "Foi, œuvres et purification après la mort",
+  questions: [
+    {
+      id: "foi-seule",
+      question: "Sommes-nous sauvés par la foi seule ?",
+      reponse: `Non. L’Écriture dit : « L’homme est justifié par les œuvres et non par la foi seulement » (Jac 2,24).
+→ La foi sauve si elle est vivante, c’est-à-dire agissante par la charité (Gal 5,6).`,
+      scripture: ["Jacques 2:24", "Galates 5:6"]
+    },
+    {
+      id: "foi-oeuvres",
+      question: "Mais les œuvres ne servent à rien pour être sauvés ?",
+      reponse: `Les œuvres ne "gagnent" pas le salut, elles en sont la preuve.
+→ « La foi sans les œuvres est morte » (Jac 2,26).`,
+      scripture: ["Jacques 2:26"]
+    },
+    {
+      id: "jugement",
+      question: "Jésus ne juge-t-il pas selon la foi ?",
+      reponse: `Au jugement dernier, Jésus sépare selon les œuvres de charité :
+« J’avais faim, et vous m’avez donné à manger… » (Mt 25,35).`,
+      scripture: ["Matthieu 25:35"]
+    },
+    {
+      id: "romains",
+      question: "Mais Paul dit que la foi suffit (Rom 3,28) !",
+      reponse: `Paul parle des œuvres de la Loi, pas des œuvres de charité.
+→ Le salut vient de la grâce, mais se vit dans l’amour concret.`,
+      scripture: ["Romains 3:28"]
+    },
+    {
+      id: "cooperation",
+      question: "Si tout vient de Dieu, pourquoi coopérer ?",
+      reponse: `« Travaillez à votre salut... car c’est Dieu qui agit en vous. » (Ph 2,12-13)
+→ Dieu sauve, mais sans notre réponse libre, la grâce reste stérile.`,
+      scripture: ["Philippiens 2:12-13"]
+    },
+    {
+      id: "foi-morte",
+      question: "Une foi sans amour peut-elle sauver ?",
+      reponse: `Non. « Si je n’ai pas la charité, je ne suis rien. » (1 Cor 13,2)
+→ La foi véritable se traduit en amour et en actes.`,
+      scripture: ["1 Corinthiens 13:2"]
+    },
+    {
+      id: "purgatoire-definition",
+      question: "Qu’est-ce que le purgatoire ?",
+      reponse: `Ce n’est pas une deuxième chance, mais une purification pour les âmes sauvées,
+afin qu’elles soient entièrement purifiées avant de voir Dieu.`,
+      scripture: ["Catéchisme §1030"]
+    },
+    {
+      id: "purgatoire-bible",
+      question: "Le purgatoire est-il biblique ?",
+      reponse: `Oui. « Il sera sauvé, mais comme à travers le feu. » (1 Cor 3,15)
+→ Une purification après la mort pour ceux qui sont sauvés.`,
+      scripture: ["1 Corinthiens 3:15"]
+    },
+    {
+      id: "priere-morts",
+      question: "Pourquoi prier pour les morts ?",
+      reponse: `« C’est une pensée sainte et pieuse de prier pour les morts. » (2 Macc 12,46)
+→ La prière aide les âmes en purification.`,
+      scripture: ["2 Maccabées 12:46"]
+    },
+    {
+      id: "monde-avenir",
+      question: "Y a-t-il un pardon possible après la mort ?",
+      reponse: `Jésus dit : « Certains péchés ne seront pardonnés ni en ce monde ni dans l’autre. » (Mt 12,32)
+→ Donc, d’autres peuvent l’être dans l’autre monde.`,
+      scripture: ["Matthieu 12:32"]
+    },
+    {
+      id: "purete",
+      question: "Pourquoi une purification est-elle nécessaire ?",
+      reponse: `« Rien d’impur n’entrera dans la cité de Dieu. » (Ap 21,27)
+→ Le purgatoire rend l’âme parfaitement pure pour le Ciel.`,
+      scripture: ["Apocalypse 21:27"]
+    },
+    {
+      id: "grace-croix",
+      question: "Le purgatoire diminue-t-il la croix du Christ ?",
+      reponse: `Non. Il en applique la grâce purificatrice.
+→ Jésus sauve, le purgatoire sanctifie totalement.`,
+      scripture: ["Hébreux 12:14"]
+    },
+    {
+      id: "anciens-temoins",
+      question: "Les premiers chrétiens croyaient-ils au purgatoire ?",
+      reponse: `Oui. Tertullien, Cyprien et Augustin parlaient déjà de prières et de purification pour les défunts.`,
+      scripture: ["Tradition des Pères de l'Église"]
+    },
+    {
+      id: "justice-imputee",
+      question: "Les protestants disent : 'Dieu nous couvre, sans nous changer'.",
+      reponse: `La Bible enseigne une justice transformante, pas seulement déclarée.
+→ Le salut nous rend saints réellement, non juste “couverts”.`,
+      scripture: ["2 Corinthiens 5:17", "Hébreux 12:14"]
+    },
+    {
+      id: "foi-oeuvres-resume",
+      question: "Foi et œuvres, comment les unir ?",
+      reponse: `Nous ne sommes pas sauvés par nos œuvres,
+mais nous ne serons pas sauvés sans elles.
+→ La foi ouvre le cœur, les œuvres le remplissent d’amour.`,
+      scripture: ["Jacques 2:26", "Galates 5:6"]
+    },
+    {
+      id: "purgatoire-spirituel",
+      question: "Le purgatoire, est-ce une punition ?",
+      reponse: `Non. C’est une miséricorde.
+→ Les âmes y souffrent, mais vont à Dieu avec joie (St François de Sales).`,
+      scripture: ["Saint François de Sales"]
+    } ] },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  {
       id: "bapteme-enfants",
@@ -503,12 +668,13 @@ Unies = foi apostolique.`
           reponse: `Oui. Moïse intercède pour le peuple (Ex 32,11-14), les anges présentent les prières (Tobie 12,15), et les saints au ciel offrent les prières des fidèles devant Dieu (Ap 5,8). La Bible montre l’intercession, elle ne la condamne pas.`,
           scripture: ["Ex 32:11-14", "Tobie 12:15", "Ap 5:8"]
         },
-        {
-          id: "saints-morts",
-          question: "Mais les saints sont morts, non ?",
-          reponse: `Non, ils vivent en Dieu. Romains 8,38-39 : “Rien ne nous séparera de l’amour du Christ — ni la mort.” Les saints sont vivants auprès de Dieu, donc leur prière est puissante.`,
-          scripture: ["Romains 8:38-39"]
-        },
+      {
+  id: "saints-morts",
+  question: "Mais les saints sont morts, non ?",
+  reponse: `Non : ils vivent en Dieu. Jésus dit que Dieu n’est pas le Dieu des morts, mais des vivants (Lc 20,38) — donc pour Dieu tous sont vivants. Jean 3,15 rappelle que croire donne la vie éternelle. Et Romains 8,38-39 affirme que rien ne nous sépare de l’amour du Christ. Les saints sont donc vivants auprès de Dieu et leurs prières ont valeur dans la communion des saints.`,
+  scripture: ["Luc 20:38", "Jean 3:15", "Romains 8:38-39"]
+}
+,
         {
           id: "priere-juste",
           question: "La Bible encourage-t-elle la prière les uns pour les autres ?",
