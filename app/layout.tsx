@@ -69,12 +69,11 @@ export default function RootLayout({
         {/* SEO additionnel */}
         <meta name="robots" content="index, follow" />
         <meta
-          name="google-site-verification"
-          content="votre-code-de-verification-google"
-        />
+    name="google-site-verification"
+    content="KIssfeT7ogtaHZ_L9xPCYHsk1VK4jjH1JHtdGGPMg_E"
+  />
         <link rel="icon" href="/favicon.ico" />
         <meta name="apple-mobile-web-app-title" content="Hérétique" />
-      <meta name="google-site-verification" content="KIssfeT7ogtaHZ_L9xPCYHsk1VK4jjH1JHtdGGPMg_E" />
       </head>
       <body className="bg-slate-50 text-slate-800 antialiased">
         <header
