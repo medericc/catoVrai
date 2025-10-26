@@ -1,3 +1,5 @@
+import Link from 'next/link'; // 👈 N'oubliez pas l'importation
+
 export default function Footer() {
   return (
     <footer className="bg-blue-900 text-blue-100">
@@ -12,30 +14,30 @@ export default function Footer() {
 
           {/* Liens obligatoires */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-1 sm:gap-6 text-sm text-blue-200">
-            <a
+            <Link // 👈 Remplacement de <a> par Link
               href="/politique-confidentialite"
               className="hover:text-white transition-colors duration-200"
             >
               Politique de confidentialité
-            </a>
-            <a
+            </Link>
+            <Link // 👈 Remplacement de <a> par Link
               href="/mentions-legales"
               className="hover:text-white transition-colors duration-200"
             >
               Mentions légales
-            </a>
-            <a
+            </Link>
+            <Link // 👈 Remplacement de <a> par Link
               href="/cookies"
               className="hover:text-white transition-colors duration-200"
             >
               Gestion des cookies
-            </a>
-            <a
+            </Link>
+            <Link // 👈 Remplacement de <a> par Link
               href="/contact"
               className="hover:text-white transition-colors duration-200"
             >
               Contact
-            </a>
+            </Link>
           </div>
 
           {/* Copyright */}

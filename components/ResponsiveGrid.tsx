@@ -11,11 +11,11 @@ interface ResponsiveGridProps {
 export default function ResponsiveGrid({ themes }: ResponsiveGridProps) {
   const [searchTerm, setSearchTerm] = useState('');
 
-  const filteredThemes = themes.filter((theme) =>
-    theme.titre.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    theme.description.toLowerCase().includes(searchTerm.toLowerCase())
-  );
-
+const filteredThemes = themes.filter((theme) =>
+  theme.titre.toLowerCase().includes(searchTerm.toLowerCase()) ||
+  // Correction: Utilisez (theme.description ?? '') pour garantir que vous avez une chaîne
+  (theme.description ?? '').toLowerCase().includes(searchTerm.toLowerCase())
+);
   return (
     <div className="space-y-6">
       {/* Barre de recherche */}

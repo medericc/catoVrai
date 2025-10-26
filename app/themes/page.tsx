@@ -14,23 +14,24 @@ export default function ThemeSearchPage() {
 
     const lowerQuery = query.toLowerCase();
 
-    return themes.flatMap((theme) =>
-      theme.domaines.flatMap((domaine) =>
-        domaine.questions
-          .filter(
-            (q) =>
-              q.question.toLowerCase().includes(lowerQuery) ||
-              q.reponse.toLowerCase().includes(lowerQuery) ||
-              domaine.titre.toLowerCase().includes(lowerQuery) ||
-              theme.titre.toLowerCase().includes(lowerQuery)
-          )
-          .map((q) => ({
-            ...q,
-            domaineTitre: domaine.titre,
-            themeTitre: theme.titre,
-            themeId: theme.id,
-            domaineId: domaine.id,
-          }))
+   return themes.flatMap((theme) =>
+      (theme.domaines ?? []).flatMap((domaine) =>
+        // 💡 Correction 2 : Utilisation de '?? []' pour garantir un tableau sur domaine.questions
+        (domaine.questions ?? [])
+          .filter(
+            (q) =>
+              q.question.toLowerCase().includes(lowerQuery) ||
+              q.reponse.toLowerCase().includes(lowerQuery) ||
+              domaine.titre.toLowerCase().includes(lowerQuery) ||
+              theme.titre.toLowerCase().includes(lowerQuery)
+          )
+          .map((q) => ({
+            ...q,
+            domaineTitre: domaine.titre,
+            themeTitre: theme.titre,
+            themeId: theme.id,
+            domaineId: domaine.id,
+          }))
       )
     );
   }, [query]);
@@ -56,7 +57,7 @@ export default function ThemeSearchPage() {
               d="M15 19l-7-7 7-7"
             />
           </svg>
-          Retour à l'accueil
+          Retour à l&apos;accueil
         </Link>
       </nav>
 

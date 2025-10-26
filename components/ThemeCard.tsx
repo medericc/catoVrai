@@ -20,9 +20,10 @@ export default function ThemeCard({ theme }: ThemeCardProps) {
 
       {/* Contenu */}
       <div className="p-4">
-        <p className="text-slate-700 text-sm mb-4 line-clamp-3">
-          {theme.domaines.length} domaine{theme.domaines.length > 1 ? 's' : ''}
-        </p>
+       <p className="text-slate-700 text-sm mb-4 line-clamp-3">
+          {/* Correction ici : utilise (theme.domaines ?? []) pour garantir un tableau */}
+          {(theme.domaines ?? []).length} domaine{(theme.domaines ?? []).length > 1 ? 's' : ''}
+        </p>
 
         {/* Footer */}
         <div className="flex justify-end items-center pt-3 border-t border-gray-100">

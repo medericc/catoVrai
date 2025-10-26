@@ -62,33 +62,36 @@ if (!domaine) return notFound();
         </p>
       </div>
 
-      {/* Liste des questions */}
-      <div className="space-y-6">
-        {domaine.questions.map((question) => (
-          <ExpandableQuestion
-            key={question.id}
-            question={question.question}
-            reponse={question.reponse}
-            scripture={question.scripture}
-          />
-        ))}
-      </div>
+     {/* Liste des questions */}
+<div className="space-y-6">
+  {(domaine.questions ?? []).map((question) => (
+    <ExpandableQuestion
+      key={question.id}
+      question={question.question}
+      reponse={question.reponse}
+      scripture={question.scripture}
+    />
+  ))}
+</div>
 
-      {/* Pied de page */}
-      <div className="mt-12 text-center">
-        <p className="text-slate-500 text-sm">
-          {domaine.questions.length} question
-          {domaine.questions.length > 1 ? 's' : ''} dans ce domaine
-        </p>
-      </div>
+{/* Pied de page */}
+<div className="mt-12 text-center">
+  <p className="text-slate-500 text-sm">
+    {(domaine.questions?.length ?? 0)} question
+    {(domaine.questions?.length ?? 0) > 1 ? 's' : ''} dans ce domaine
+  </p>
+</div>
+
     </main>
   );
 }
 
+
+
 export function generateStaticParams() {
-  // Génère les routes statiques pour chaque domaine
+  // Génère les routes statiques pour chaque domaine (si présents)
   return themes.flatMap((theme) =>
-    theme.domaines.map((domaine) => ({
+    (theme.domaines ?? []).map((domaine) => ({
       themeId: theme.id,
       slug: domaine.id,
     }))
@@ -98,7 +101,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props) {
   const { themeId, slug } = await params;
   const theme = themes.find((t) => t.id === themeId);
-  const domaine = theme?.domaines.find((d) => d.id === slug);
+  const domaine = theme?.domaines?.find((d) => d.id === slug);
 
   return {
     title: domaine
@@ -106,3 +109,4 @@ export async function generateMetadata({ params }: Props) {
       : 'Domaine non trouvé',
   };
 }
+
