@@ -32,7 +32,7 @@ export default async function ThemePage({ params }: { params: Promise<{ themeId:
           >
             <h2 className="text-xl font-semibold text-blue-800 mb-2">{domaine.titre}</h2>
             <p className="text-slate-600 text-sm">
-              {(domaine.questions?.length ?? 0)} question
+              {(domaine.questions?.length ?? 0)} objection
               {(domaine.questions?.length ?? 0) > 1 ? 's' : ''}
             </p>
           </Link>
