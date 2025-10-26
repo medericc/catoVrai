@@ -4,9 +4,58 @@ import './globals.css';
 import Navigation from '@/components/Navigation';
 import Link from 'next/link';
 import Footer from '@/components/Footer';
+
 export const metadata: Metadata = {
-  title: 'Catholicisme vs Hérésie',
-  description: 'Comprendre la foi catholique face aux objections',
+  title: 'Catholicisme vs Hérésie — Défense de la Foi Catholique, Tradition et Vérité',
+  description:
+    'Découvrez la foi catholique authentique face aux erreurs doctrinales : Bible, Tradition, Église, Foi et Œuvres, Purgatoire. Études bibliques, histoire, et apologétique catholique pour comprendre et aimer la vérité du Christ.',
+  keywords: [
+    'catholicisme',
+    'foi catholique',
+    'Bible et Tradition',
+    'Église catholique',
+    'protestantisme',
+    'apologétique catholique',
+    'purgatoire',
+    'foi et œuvres',
+    'sola scriptura',
+    'sola fide',
+    'Jean-Paul II',
+    'Vatican',
+    'histoire de l’Église',
+    'Pères de l’Église',
+    'messe catholique',
+    'tradition apostolique',
+  ],
+  authors: [{ name: 'Catholicisme vs Hérésie', url: 'https://votre-site.fr' }],
+  openGraph: {
+    title: 'Catholicisme vs Hérésie — Défense de la Foi Catholique',
+    description:
+      'Analyse des différences entre la foi catholique et les doctrines protestantes. Bible, Tradition, Foi et Œuvres, Purgatoire expliqués avec clarté et fidélité à l’enseignement de l’Église.',
+    url: 'https://votre-site.fr',
+    siteName: 'Catholicisme vs Hérésie',
+    type: 'website',
+    locale: 'fr_FR',
+    images: [
+      {
+        url: '/images/meta-cover.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Catholicisme vs Hérésie — Défense de la Foi Catholique',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Catholicisme vs Hérésie',
+    description:
+      'Découvrez la foi catholique véritable : la Bible, la Tradition, et l’enseignement de l’Église unis pour la vérité du Christ.',
+    creator: '@votre_compte',
+    images: ['/images/meta-cover.jpg'],
+  },
+  alternates: {
+    canonical: 'https://votre-site.fr',
+  },
 };
 
 export default function RootLayout({
@@ -16,24 +65,45 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
-      <body className="bg-slate-50 text-slate-800">
-        <header className="bg-blue-900 text-white shadow-lg sticky top-0 z-50">
+      <head>
+        {/* SEO additionnel */}
+        <meta name="robots" content="index, follow" />
+        <meta
+          name="google-site-verification"
+          content="votre-code-de-verification-google"
+        />
+        <link rel="icon" href="/favicon.ico" />
+      </head>
+      <body className="bg-slate-50 text-slate-800 antialiased">
+        <header
+          className="bg-blue-900 text-white shadow-lg sticky top-0 z-50"
+          role="banner"
+        >
           <div className="container mx-auto">
             <div className="flex justify-between items-center p-4">
               {/* Logo/Titre */}
               <div className="flex items-center space-x-4">
-                <Link href="/" className="flex items-center space-x-3">
+                <Link
+                  href="/"
+                  className="flex items-center space-x-3"
+                  aria-label="Retour à l'accueil"
+                >
                   <div className="bg-white text-blue-900 p-2 rounded-lg">
-                    <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-                      <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+                    <svg
+                      className="w-6 h-6"
+                      fill="currentColor"
+                      viewBox="0 0 24 24"
+                      aria-hidden="true"
+                    >
+                      <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
                     </svg>
                   </div>
                   <div>
-                    <h1 className="text-xl font-serif font-bold">
+                    <h1 className="text-xl font-serif font-bold leading-tight">
                       Catholicisme vs Hérésie
                     </h1>
                     <p className="text-blue-200 text-xs hidden sm:block">
-                      Vérité catholique à travers les siècles
+                      Défense de la foi catholique à travers les siècles
                     </p>
                   </div>
                 </Link>
@@ -44,8 +114,12 @@ export default function RootLayout({
             </div>
           </div>
         </header>
-        <main className="flex-1">
-        {children}</main> <Footer />
+
+        <main id="main-content" className="flex-1 min-h-screen">
+          {children}
+        </main>
+
+        <Footer />
       </body>
     </html>
   );
