@@ -13,8 +13,9 @@ export default async function DomainePage({ params }: Props) {
   const theme = themes.find((t) => t.id === themeId);
   if (!theme) return notFound();
 
-  const domaine = theme.domaines.find((d) => d.id === slug);
-  if (!domaine) return notFound();
+ const domaine = theme.domaines?.find((d) => d.id === slug);
+if (!domaine) return notFound();
+
 
   // Texte d’introduction selon le thème parent
   const getContextText = (themeId: string) => {
