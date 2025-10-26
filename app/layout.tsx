@@ -4,7 +4,7 @@ import './globals.css';
 import Navigation from '@/components/Navigation';
 import Link from 'next/link';
 import Footer from '@/components/Footer';
-
+import { Analytics } from "@vercel/analytics/next";
 export const metadata: Metadata = {
   title: 'Catholicisme vs Hérésie — Défense de la Foi Catholique, Tradition et Vérité',
   description:
@@ -121,6 +121,7 @@ export default function RootLayout({
         </main>
 
         <Footer />
+             <Analytics />
       </body>
     </html>
   );
