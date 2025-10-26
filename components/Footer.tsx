@@ -6,11 +6,23 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-8">
         <div className="text-center space-y-6">
           {/* Citation */}
-          <div className="flex items-center justify-center space-x-3">
-            <h3 className="text-lg font-serif font-bold text-blue-100">
-              &quot;La vérité vous rendra libres&quot; - Jean 8:32
-            </h3>
-          </div>
+         <div className="flex items-center justify-center">
+  {/* Version bureau/tablette */}
+  <div className="hidden sm:flex items-center justify-center space-x-2">
+    <h3 className="text-lg font-serif font-bold text-blue-100">
+      &quot;La vérité vous rendra libres&quot; - Jean 8:32
+    </h3>
+  </div>
+
+  {/* Version mobile */}
+  <div className="flex flex-col sm:hidden items-center justify-center">
+    <h3 className="text-lg font-serif font-bold text-blue-100">
+      &quot;La vérité vous rendra libres&quot;
+    </h3>
+    <span className="text-blue-100 text-sm mt-1">Jean 8:32</span>
+  </div>
+</div>
+
 
           {/* Liens obligatoires */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-1 sm:gap-6 text-sm text-blue-200">
