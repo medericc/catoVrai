@@ -705,23 +705,19 @@ mais nous ne serons pas sauvés sans elles.
         {
           id: "pudeur-quoi",
           question: "Qu'est-ce que la pudeur et quel est son rôle ?",
-          reponse: `La pudeur est la vertu qui honore la dignité de la personne, corps et âme unis dans le même mystère. 
-Elle protège le mystère des personnes et de leur amour, invite à la patience et à la modération dans les relations humaines, et exige une pureté du cœur.
-Le Catéchisme de l'Église catholique (CEC §2521-2524) l'enseigne comme gardien de la chasteté et respect de soi et d'autrui.`,
+          reponse: `La pudeur est la vertu qui honore la dignité de la personne, corps et âme unis dans le même mystère. Elle protège le mystère des personnes et de leur amour, invite à la patience et à la modération dans les relations humaines, et exige une pureté du cœur. Le Catéchisme de l'Église catholique (CEC §2521-2524) l'enseigne comme gardien de la chasteté et respect de soi et d'autrui.`,
           scripture: ["1 Cor 6:19-20", "Gen 3:7"]
         },
         {
           id: "pudeur-importance",
           question: "Pourquoi la pudeur est-elle essentielle à la vie chrétienne ?",
-          reponse: `La pudeur protège l'intimité et la dignité de la personne, aide à orienter le corps vers la chasteté et la beauté intérieure, et empêche l'usage égoïste du corps. 
-Elle est le reflet du respect de soi et d'autrui, et participe à la sanctification du corps.`,
+          reponse: `La pudeur protège l'intimité et la dignité de la personne, aide à orienter le corps vers la chasteté et la beauté intérieure, et empêche l'usage égoïste du corps. Elle est le reflet du respect de soi et d'autrui, et participe à la sanctification du corps.`,
           scripture: ["1 Cor 6:19-20"]
         },
         {
           id: "pudeur-mystere",
           question: "Comment la pudeur manifeste-t-elle le mystère humain ?",
-          reponse: `La pudeur reconnaît le corps comme don de Dieu, non comme objet. 
-Elle protège le mystère de la personne et de son amour, et est un moyen de glorifier Dieu par le corps.`,
+          reponse: `La pudeur reconnaît le corps comme don de Dieu, non comme objet. Elle protège le mystère de la personne et de son amour, et est un moyen de glorifier Dieu par le corps.`,
           scripture: ["Gen 3:7", "1 Cor 6:19-20"]
         }
       ,
@@ -729,17 +725,13 @@ Elle protège le mystère de la personne et de son amour, et est un moyen de glo
       
           id: "pudeur-protection",
           question: "Comment la pudeur préserve-t-elle l'intimité et la dignité ?",
-          reponse: `La pudeur consiste à protéger l'intimité et à ne pas livrer ce qui doit rester secret, 
-en orientant le corps vers la chasteté et la beauté intérieure. 
-Saint Augustin disait : "Là où la pudeur se perd, la dignité de l'homme s'éteint."`,
+          reponse: `La pudeur consiste à protéger l'intimité et à ne pas livrer ce qui doit rester secret, en orientant le corps vers la chasteté et la beauté intérieure. Saint Augustin disait : "Là où la pudeur se perd, la dignité de l'homme s'éteint."`,
           scripture: ["Gen 3:7", "1 Cor 6:19-20"]
         },
         {
           id: "pudeur-respect",
           question: "Quel lien existe entre pudeur et respect d'autrui ?",
-          reponse: `La pudeur exprime le respect de la personne, de son corps et de son âme. 
-Elle empêche de réduire autrui à un simple objet de désir ou de curiosité. 
-Elle éduque le regard, le cœur et les gestes pour que les relations humaines demeurent dans la vérité et la charité.`,
+          reponse: `La pudeur exprime le respect de la personne, de son corps et de son âme. Elle empêche de réduire autrui à un simple objet de désir ou de curiosité. Elle éduque le regard, le cœur et les gestes pour que les relations humaines demeurent dans la vérité et la charité.`,
           scripture: ["Mt 5:8", "1 Th 4:3-5"]
         }
     ]
