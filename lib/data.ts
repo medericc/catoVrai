@@ -1026,34 +1026,19 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
     },
     {
       "id": "jesus-vie-et-salut",
-      "question": "Pourquoi dire 'Jésus est la Vie' et en tirer une opposition à l'avortement ?",
-      "reponse": "Jésus s'est donné pour la vie humaine (Jn 10:10; Jn 14:6). Affirmer 'Jésus est la Vie' signifie reconnaître que toute vie humaine a une valeur inestimable et que les chrétiens sont appelés à la défendre. Cela inspire l'engagement pour protéger les plus vulnérables et à promouvoir des alternatives concrètes à l'élimination de la vie.",
+      "question": "Peut-on dire non à la Vie alors que 'Jésus est la Vie' ?",
+      "reponse": "Jésus déclare qu'il est « le Chemin, la Vérité et la Vie ». On reconnaît qu’en Lui réside toute la valeur et la dignité de la vie humaine. Croire cela, c’est s’engager à défendre chaque vie, surtout la plus fragile, et à témoigner de l’amour qui fait vivre.",
       "scripture": ["Jn 10:10", "Jn 14:6"]
     },
-    {
-      "id": "action-non-violente",
-      "question": "Que faire concrètement pour défendre la vie sans tomber dans la violence ?",
-      "reponse": "Agir par la prière, l'accompagnement des femmes (centres d'accueil, aides sociales), la prévention (éducation, contraception si on considère cela acceptable), la pression politique pacifique, le témoignage public et les actions légales pour protéger les plus vulnérables. La non-violence créative et la charité sont les voies évangéliques pour construire une culture de la vie.",
-      "scripture": ["Mt 5:9", "Rom 12:17-21"]
-    },
-     {
-      "id": "pierre-simon-contraception",
-      "question": "Qui était Pierre Simon et quel rôle a-t-il joué dans l’histoire de la contraception en France ?",
-      "reponse": "Pierre Félix Simon (1925-2008), gynécologue et endocrinologue, est un pionnier de la contraception en France. Il a introduit et popularisé le terme de stérilet, présenté les méthodes contraceptives à la presse dès les années 1950, et promu des cours universitaires de contraception à Lyon et Tours en 1964. Il a aussi été engagé dans les débats sur la procréation médicalement assistée et la fin de vie (droit de mourir dans la dignité). Son action a fortement influencé la législation et la culture contraceptive française.",
-      "scripture": []
-    },
+
+  
     {
       "id": "influence-maçonnerie",
-      "question": "Quel lien entre Pierre Simon, la franc-maçonnerie et les débats sociétaux (contraception, avortement, vie) ?",
-      "reponse": "Pierre Simon fut deux fois Grand Maître de la Grande Loge de France (GLDF). Sous son impulsion, la GLDF s’est engagée dans des réflexions sociétales, contraception, définition de la vie, droit à la mort, qu’elle présente comme un espace de débat public. Le fait qu’un acteur influent dans le domaine médical ait aussi une position maçonnique montre l’interaction entre idéologies, médecine et symbolisme républicain dans le changement culturel.",
+      "question": "Quel lien entre la franc-maçonnerie et les lois anti-vie ?",
+      "reponse": "Pierre Simon fut deux fois Grand Maître de la Grande Loge de France (GLDF). Sous son impulsion, la GLDF s’est engagée dans des réflexions sociétales, contraception, définition de la vie, droit à la mort, qu’elle présente comme un espace de débat public. Il s’en est suivi la parution de livres à bas prix, destinés à façonner la pensée du peuple et à propager cette vision du monde. Le 5 mai 2025, Emmanuel Macron a remercié publiquement la GLDF devant ses membres, dans le débat sur l'IVG ou encore l'euthanasie.",
       "scripture": []
     },
-    {
-      "id": "macron-remerciements",
-      "question": "Pourquoi Emmanuel Macron a-t-il remercié la Grande Loge de France en 2025, et que cela implique-t-il dans le débat sur l’avortement ?",
-      "reponse": "Le 5 mai 2025, Emmanuel Macron a remercié publiquement la GLDF devant ses membres. Ce geste symbolique souligne l’influence que certaines loges ou courants maçonniques peuvent avoir sur les élites politiques. Dans le débat sur l’avortement, cela peut être interprété comme un soutien implicite aux positions progressistes sur la liberté de choix reproductif, ou comme un signe de connivence entre le pouvoir politique et certaines idéologies laïques.",
-      "scripture": []
-    },
+   
     {
       "id": "rapport-simon-kinsey",
       "question": "Qu’est-ce que le « Rapport Simon » et pourquoi est-il comparé à Kinsey ?",
@@ -1066,12 +1051,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
       "reponse": "Quand des médecins, des loges idéologiques ou des personnalités politiques influentes s’allient pour imposer une vision de la sexualité et de la vie, cela peut biaiser le débat démocratique. Les décisions de santé publique doivent s’appuyer sur la science, l’éthique, la délibération citoyenne et le respect de la dignité humaine, et non sur des alliances informelles ou des pressions intellectuelles occultes.",
       "scripture": []
     },
-    {
-      "id": "transparence-historique",
-      "question": "Pourquoi est-il utile de connaître ces acteurs et cette histoire dans le débat pro-vie en France ?",
-      "reponse": "Connaître l’histoire de la contraception et des influences idéologiques permet de comprendre les racines des lois actuelles, de discerner les stratégies d’influence et de mieux défendre une vision de la dignité humaine. Cela aide aussi à contester la prétention de neutralité : toute loi a des philosophies sous-jacentes. Être informé, c’est ne pas tomber dans la manipulation.",
-      "scripture": []
-    },
+  
       {
       "id": "contraception-definition",
       "question": "La contraception permet aux femmes de ne plus subir la biologie ?",
@@ -1105,7 +1085,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
     {
       "id": "contraception-et-ordre-naturel",
       "question": "Pourquoi la contraception est-elle contraire à l’ordre naturel ?",
-      "reponse": "L’ordre naturel unit les fonctions du corps à leur finalité. Neutraliser la fécondité, c’est introduire une rupture dans cet ordre. Ce n’est pas une question de biologie froide, mais de vérité : chaque acte sexuel a un sens, celui d’un amour ouvert à la vie. Le nier, c’est désordonner l’amour lui-même.",
+      "reponse": "L’ordre naturel unit les fonctions du corps à leur finalité. Neutraliser la fécondité, c’est introduire une rupture dans cet ordre. Ce n’est pas une question de biologie froide, mais de vérité : chaque acte a un sens, l'acte sexuel celui celui d’un amour ouvert à la vie. Le nier, c’est désordonner l’amour lui-même.",
       "scripture": ["Rm 1:26-27", "Sg 13:1-3"]
     },
     {
