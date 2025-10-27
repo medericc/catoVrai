@@ -824,7 +824,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
   "questions": [
     {
       "id": "histoire-ideologique",
-      "question": "Quel lien historique entre idéologies révolutionnaires (ex. Lénine, Staline) et la légalisation de l'avortement ?",
+      "question": "Quel lien historique entre idéologies révolutionnaires et la légalisation de l'avortement ?",
       "reponse": "Certaines révolutions antireligieuses ont promu des réformes familiales pour modifier les mœurs et affaiblir l’influence de l’Église. Lénine, dans le contexte bolchevik, a soutenu l’émancipation des femmes en rupture avec l’ordre traditionnel ; Staline a ensuite corrigé certains excès pour favoriser la natalité. Ces changements montrent que la légalisation peut être instrumentalisée politiquement, pour des motifs démographiques, idéologiques ou anti-religieux, et qu’il faut donc regarder les conséquences humaines, pas seulement l’idéologie qui la promeut.",
       "scripture": []
     },
