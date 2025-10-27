@@ -74,13 +74,7 @@ if (!domaine) return notFound();
   ))}
 </div>
 
-{/* Pied de page */}
-<div className="mt-12 text-center">
-  <p className="text-slate-500 text-sm">
-    {(domaine.questions?.length ?? 0)} objection
-    {(domaine.questions?.length ?? 0) > 1 ? 's' : ''} dans ce domaine
-  </p>
-</div>
+
 
     </main>
   );
