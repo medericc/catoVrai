@@ -189,7 +189,7 @@ export const themes: Domaine[] = [
     },
     {
       id: "enseignement-oral",
-      question: "Mais Paul aurait tout écrit dans la Bible.",
+      question: "Mais Paul dit qu'il y a tout écrit dans la Bible.",
       reponse: `Non. Il dit qu’il a enseigné des choses non écrites (2 Thess 2,5). Il existe un enseignement oral venant des apôtres.`,
       scripture: ["2 Thess 2:5"]
     },
@@ -262,6 +262,19 @@ export const themes: Domaine[] = [
   reponse: `Le mot “catholique” vient du grec *katholikos* = “universel”. Jésus a fondé **une seule Église**, envoyée à toutes les nations (Mt 28,19). L’Église catholique est la seule présente partout dans le monde, avec la même foi, les mêmes sacrements et la même messe, signe de son unité voulue par le Christ.`,
   scripture: ["Matthieu 28:19", "Jean 17:21", "Éphésiens 4:4-5"]
 },
+{
+  id: "appeler-pere",
+  question: "« N’appelez personne père. » Pourquoi appeller les prêtres “père” ?", 
+  reponse: `Jésus ne condamnait pas l’usage du mot “père”, mais l’orgueil de ceux qui veulent prendre la place de Dieu. Lui-même utilise ce mot : « Abraham, notre père », ou encore dans la parabole du fils prodigue. Saint Paul écrit : « Je suis votre père en Jésus-Christ, car c’est moi qui vous ai engendrés par l’Évangile ».   
+Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, non un rival de Dieu. Toute paternité vient du Père éternel.`, 
+  scripture: [
+    "Matthieu 23:9",
+    "Jean 8:56",
+    "Luc 15:11-32",
+    "1 Corinthiens 4:15",
+    "Éphésiens 3:14-15"
+  ]
+} ,
     {
       id: "sola-scriptura",
       question: "La Sola Scriptura est la foi des premiers chrétiens.",
@@ -769,12 +782,12 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "scripture": []
     },
    
-  {
+ {
   "id": "providence-universelle",
   "question": "La providence divine peut-elle vraiment agir sur tous ?",
-  "reponse": "Oui. Dieu agit dans tous les cœurs. Jésus lui-même avertit souvent les riches dans les Évangiles, rappelant qu’il est difficile pour celui qui met sa confiance dans ses biens d’entrer dans le Royaume des cieux. Sainte Bathilde, vendue comme esclave avant de devenir reine et protectrice des pauvres, et Sainte Joséphine Bakhita, arrachée à sa terre puis élevée à la sainteté, transformant la souffrance en chemin de lumière et de rédemption.",
-  "scripture": ["Luc 1:52", "Romains 8:28", "Matthieu 19:23"]
-},
+  "reponse": "Oui. Dieu agit dans tous les cœurs, même à travers la souffrance. Jésus lui-même avertit souvent les riches, rappelant qu’il est difficile pour celui qui met sa confiance dans ses biens d’entrer dans le Royaume des cieux. Sainte Bathilde, vendue comme esclave avant de devenir reine, et Sainte Joséphine Bakhita, arrachée à sa terre puis élevée à la sainteté, ont vu leur douleur devenir lumière. Sainte Rose de Lima voyait dans la souffrance une purification, comme Marie le dit à Bernadette : « Tu souffriras sur la terre, mais au Paradis tu seras heureuse. » La souffrance fait partie du chemin de foi : acceptée avec amour, elle unit à la croix du Christ et ouvre à la vraie joie.", 
+  "scripture": ["Luc 1:52", "Romains 8:28", "Matthieu 19:23", "Colossiens 1:24"]
+} ,
   
     {
       "id": "argument-hypothese-marie",
@@ -993,7 +1006,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "creation-image-dieu",
       "question": "Que signifie être créés à l'image de Dieu ?",
-      "reponse": "Chaque être humain porte en lui la dignité divine, car il reflète Dieu dans son intelligence, sa liberté et sa capacité d'aimer. Cela fonde l'égalité de tous les peuples.",
+      "reponse": "Chaque être humain participe à la dignité divine, car il reflète Dieu dans son intelligence, sa liberté et sa capacité d'aimer. Cela fonde l'égalité de tous les peuples.",
       "scripture": ["Gn 1:26-27"]
     },
     {
@@ -1095,7 +1108,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "femmes-et-foi",
       "question": "Quel rôle les femmes ont-elles eu dans la foi populaire ?",
-      "reponse": "Dans des provinces comme le Labourd, elles furent élues cheffes de paroisse, mais exclues par des Parisiens autoproclamés. Leur effacement par idéologie a appauvri la vie chrétienne.",
+      "reponse": "Dans des provinces comme le Labourd, elles furent élues cheffes de paroisse, mais exclues par des Parisiens autoproclamés. Leur effacement par idéologie de cette tradition est une atteinte à la race basque.",
       "scripture": []
     },
     {
@@ -1107,7 +1120,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "ame-des-peuples",
       "question": "Chaque peuple a-t-il une 'âme' selon Pie XII ?",
-      "reponse": "Oui, dans Summi Pontificatus, il enseigne que chaque nation possède une vocation spirituelle propre. Détruire cela, c’est blesser l’ordre voulu par Dieu.",
+      "reponse": "Oui, dans Summi Pontificatus, il enseigne que chaque nation possède une vocation spirituelle propre. La diversité des peuples et des cultures est voulue par Dieu. Détruire cela, c’est blesser l’ordre voulu par Dieu.",
       "scripture": []
     }
   ]
@@ -1159,7 +1172,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
         {
           id: "tertullien-trinite",
           question: "Tertullien a inventé la Trinité ?",
-          reponse: `Non, il n’a pas inventé la doctrine, il a seulement inventé le mot “Trinitas” pour exprimer ce que les chrétiens croyaient déjà. La foi trinitaire précède son vocabulaire. L'invetion du mot "oxygène" ne marque pas la naissance de l'oxygène.`,
+          reponse: `Non, il n’a pas inventé la doctrine, il a seulement inventé le mot “Trinitas” pour exprimer ce que les chrétiens croyaient déjà. La foi trinitaire précède son vocabulaire. L'invention du mot "oxygène" ne marque pas la naissance de l'oxygène.`,
         },
         {
           id: "nicee-jesus-dieu",

@@ -29,8 +29,8 @@ export default function AProposPage() {
             À propos de mes projets
           </h1>
           <p className="text-lg text-blue-100 leading-relaxed">
-            Voici quelques <strong>autres sites</strong> que j'ai créés en rapport avec le catholicisme, 
-            l'histoire chrétienne et la spiritualité.
+            Voici quelques <strong>autres sites</strong> que j&apos;ai créés en rapport avec le catholicisme, 
+            l&apos;histoire chrétienne et la spiritualité.
           </p>
         </div>
       </section>
