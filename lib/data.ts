@@ -816,7 +816,344 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
           scripture: []
         }
       ]
+    },
+
+    {
+  "id": "avortement-partie1",
+  "titre": "Questions-Réponses — arguments et enjeux (partie 1)",
+  "questions": [
+    {
+      "id": "histoire-ideologique",
+      "question": "Quel lien historique entre idéologies révolutionnaires (ex. Lénine, Staline) et la légalisation de l'avortement ?",
+      "reponse": "Certaines révolutions antireligieuses ont promu des réformes familiales pour modifier les mœurs et affaiblir l’influence de l’Église. Lénine, dans le contexte bolchevik, a soutenu l’émancipation des femmes en rupture avec l’ordre traditionnel ; Staline a ensuite corrigé certains excès pour favoriser la natalité. Ces changements montrent que la légalisation peut être instrumentalisée politiquement — pour des motifs démographiques, idéologiques ou anti-religieux — et qu’il faut donc regarder les conséquences humaines, pas seulement l’idéologie qui la promeut.",
+      "scripture": []
+    },
+    {
+      "id": "biologie-embryon",
+      "question": "L’embryon a-t-il une vie biologique distincte dès la fécondation ?",
+      "reponse": "Oui : dès la fécondation apparaît un être vivant biologiquement autonome (zygote) ayant un patrimoine génétique unique et un programme de développement. Sur le plan biologique, il s’agit d’un organisme humain en développement, ce qui fonde l’argument de protection de sa vie dès ses premiers stades.",
+      "scripture": []
+    },
+    {
+      "id": "personne-seuil",
+      "question": "La personne se définit-elle par la conscience ou l’autonomie ? Peut-on poser un « seuil » arbitraire pour la personne ?",
+      "reponse": "Définir la personne uniquement par la présence de conscience, d’autonomie ou de relations sociales conduit à des critères fluctuants et discriminatoires. Historiquement et moralement, beaucoup soutiennent que la dignité humaine est intrinsèque — elle ne dépend pas d’un stade psychologique. Poser un seuil arbitraire (ex. 10–12 semaines) a une logique pratique en droit, mais éthiquement il pose le problème de hiérarchiser la valeur d’une vie selon son âge ou ses capacités, ouvrant potentiellement la porte à d’autres exclusions.",
+      "scripture": ["Gen 1:27"]
+    },
+    {
+      "id": "dignite-intrinseque",
+      "question": "Pourquoi affirmer que la dignité humaine est intrinsèque et non graduée ?",
+      "reponse": "Si la dignité dépend d’un état (conscience, autonomie, âge), alors des nouveau-nés, des personnes handicapées ou des malades en état végétatif pourraient perdre cette dignité. L’affirmation d’une dignité intrinsèque protège contre ces dérives : toute vie humaine, quel que soit le stade, mérite une protection et un respect fondamentaux.",
+      "scripture": ["Ps 139:13-16"]
+    },
+    {
+      "id": "comparaison-nourrisson-coma",
+      "question": "Un nourrisson sans conscience ou un adulte dans le coma : pourquoi les protéger si l’embryon n’a 'pas encore' la conscience ?",
+      "reponse": "La société protège déjà des êtres qui ont des degrés variables de conscience parce que la dignité humaine n’est pas subordonnée à l’état mental. Protéger le nouveau-né et la personne en coma mais refuser la même protection à l’embryon crée une incohérence morale : la continuité du développement humain plaide pour une protection fondée sur la nature humaine, non sur des seuils de conscience.",
+      "scripture": ["Mt 18:10"]
+    },
+    {
+      "id": "seuils-legaux",
+      "question": "Les seuils légaux (10–12 semaines, viabilité, etc.) sont-ils acceptables ?",
+      "reponse": "Les seuils légaux sont des compromis pratiques visant à concilier libertés et protection. Ils peuvent paraître nécessaires pour le droit positif, mais ils n’effacent pas le débat moral : un seuil ne résout pas la question de principe sur la valeur de la vie. Il faut donc que la société accompagne ces seuils d’une forte politique de prévention, d’aide sociale et d’alternatives à l’avortement.",
+      "scripture": []
+    },
+    {
+      "id": "liberte-femme",
+      "question": "Que dire du droit de la femme à disposer de son corps face au droit à la vie de l’embryon ?",
+      "reponse": "La liberté de la femme est réelle et précieuse, mais elle s’exerce dans un cadre où l’on reconnaît aussi la dignité d’un autre être humain. Dire « ma liberté s’arrête où commence celle d’autrui » résume la tension : la société doit protéger la personne la plus vulnérable (l’enfant à naître) tout en assurant à la femme des soutiens matériels, médicaux et sociaux pour que la contrainte ne devienne pas la seule solution.",
+      "scripture": ["Mt 22:39"]
+    },
+    {
+      "id": "instrumentalisation-corps",
+      "question": "Obliger une femme à porter un enfant contre sa volonté, n’est-ce pas la traiter comme un moyen ?",
+      "reponse": "Forcer quelqu’un à assumer une grossesse contre sa volonté serait moralement inacceptable ; mais considérer l’avortement comme la solution automatique réduit l’enfant à naître à un obstacle à la liberté. La réponse éthique requiert des choix qui respectent la personne de la mère et de l’enfant : accueil, assistance sociale, adoption, accompagnement médical et psychologique, et des dispositifs qui rendent la maternité possible sans violences.",
+      "scripture": []
+    },
+    {
+      "id": "glissement-exclusions",
+      "question": "Pourquoi la légalisation de l’avortement risque-t-elle d’entraîner d’autres exclusions ?",
+      "reponse": "Admettre la suppression d’une vie sur la base de critères de capacité, d’âge ou d’utilité ouvre une logique utilitariste : si la valeur dépend des fonctions, alors d’autres groupes (nouveau-nés vulnérables, personnes handicapées, personnes âgées dépendantes) peuvent être dévalorisés. La protection inconditionnelle de la vie humaine est un rempart contre ce glissement.",
+      "scripture": ["Prov 31:8-9"]
+    },
+    {
+      "id": "ressources-theologiques",
+      "question": "Quelles références doctrinales et magistérielles appuient la protection de l’embryon ?",
+      "reponse": "Sur le plan catholique, l’argument trouve un appui fort dans la tradition et le magistère moderne : par exemple les encycliques et prises de position rappelant la dignité de toute vie humaine et la gravité de l’avortement (cf. *Evangelium Vitae* de Jean-Paul II). Les Pères et la liturgie ancienne témoignent aussi d’un respect pour la vie naissante. Ces sources insistent sur la cohérence morale et l’appel à protéger les vulnérables.",
+      "scripture": []
+    },
+    {
+      "id": "mortalite-avant-legalisation",
+      "question": "Avant la légalisation, les avortements clandestins faisaient-ils beaucoup de victimes parmi les femmes ?",
+      "reponse": "Oui : historiquement, l’interdiction n’a pas supprimé la pratique mais l’a rendue dangereuse. Des milliers de femmes mouraient ou étaient mutilées à cause d’avortements clandestins pratiqués dans de mauvaises conditions. Cet argument sanitaire a pesé lourd dans les débats législatifs : la dépénalisation visait à protéger la santé et la vie des femmes en rendant l’intervention sûre et médicalisée.",
+      "scripture": []
+    },
+    {
+      "id": "priorite-sante-femme",
+      "question": "Faut-il prioriser la santé et l’avenir des femmes plutôt qu’une notion abstraite d’embryon ?",
+      "reponse": "Protéger la santé, la vie et l’avenir des femmes est impératif. Le débat éthique porte sur la manière de concilier cette protection avec la reconnaissance d’une identité propre du fœtus. Beaucoup considèrent que l’État doit tout faire pour éviter que des femmes ne risquent leur vie ou leur santé ; d’autres insistent pour que cette exigence n’éclipse pas la protection de la vie humaine naissante. La plupart des lois cherchent un équilibre (délais, conditions médicales, aide sociale).",
+      "scripture": []
+    },
+    {
+      "id": "gardienne-pas-proprietaire",
+      "question": "La mère est-elle gardienne de la vie de l’embryon ou son propriétaire ?",
+      "reponse": "Dire que la mère est “gardienne” souligne que, même si le fœtus dépend biologiquement d’elle, il ne devient pas une propriété à disposer à sa guise. La responsabilité morale appelle à protéger et à accompagner la vie en gestation. Simultanément, la réalité corporelle et psychologique de la femme rend nécessaire une prise en compte de sa liberté et de ses droits, d’où la complexité du jugement éthique et juridique.",
+      "scripture": []
+    },
+    {
+      "id": "potentiel-acte",
+      "question": "Un embryon est-il un être humain 'en puissance' et qu'est-ce que ça implique ?",
+      "reponse": "L’embryon est un être humain en développement, doté d’un programme biologique orienté vers la vie humaine mature. Le fait qu’il soit encore en devenir (potentia) n’élimine pas sa nature ontologique d’être humain. Reconnaître cette potentialité conduit beaucoup à lui accorder une protection dès le début, car stopper ce développement revient à interrompre ce devenir humain voulu par la nature biologique.",
+      "scripture": []
+    },
+    {
+      "id": "analogie-gland-chene",
+      "question": "L’analogie 'gland ≠ chêne' est-elle valide pour comparer embryon et enfant ?",
+      "reponse": "L’analogie illustre une progression naturelle, mais elle simplifie trop : un gland est déjà une partie d’un chêne et dépend d’un arbre déjà formé ; l’embryon est un individu humain distinct avec son propre patrimoine génétique et un développement autonome. L’analogie biologique ne permet donc pas de réduire l’embryon à un simple 'potentiel' sans statut moral.",
+      "scripture": []
+    },
+    {
+      "id": "pratique-illlegale-argument",
+      "question": "L’argument 'ça se pratique illégalement, dépénalisons' est-il suffisant ?",
+      "reponse": "Ce raisonnement est pragmatique mais insuffisant en soi. Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant. La question est plutôt : quelle réponse publique protège au mieux la vie, la santé et la dignité des personnes impliquées ? La dépénalisation peut réduire les risques sanitaires, mais doit être accompagnée d’un soutien social, médical et éducatif.",
+      "scripture": []
+    },
+    {
+      "id": "violation-viol",
+      "question": "Que dire des cas de viol ?",
+      "reponse": "Les cas de viol posent une tragédie morale et humaine particulière : la victime subit une violence grave et mérite toute la compassion, l’aide et la protection. Les réponses varient : certaines juridictions prévoient des exceptions motivées par le traumatisme et la santé physique/psychologique de la femme ; d’autres insistent sur des alternatives (soutien, adoption) sans recourir à l’élimination de la vie en gestation. Il faut avant tout écouter et accompagner la victime, sans l'abandonner au jugement seul.",
+      "scripture": []
+    },
+    {
+      "id": "revenir-mal-par-mal",
+      "question": "Répondre au mal par un autre mal (ex. vengeance) est-il justifiable ?",
+      "reponse": "Non : la justice légitime n’implique pas de commettre un tort contre un innocent pour répondre à une violence. Moralement, punir ou réagir doit viser la réparation, la prévention et la protection des victimes, pas l’instrumentalisation d’un tiers innocent comme moyen de vengeance.",
+      "scripture": []
+    },
+    {
+      "id": "couts-sociaux",
+      "question": "Les coûts d’un accouchement pèsent-ils sur la société et peuvent-ils justifier l’avortement ?",
+      "reponse": "Les coûts de la maternité existent et sont réels, mais réduire la question humaine à un calcul économique est réducteur. Une société digne considère la personne comme un sujet et non comme une charge ; elle investit dans l’accompagnement des familles, la santé maternelle et l’aide aux plus vulnérables pour que la grossesse ne devienne pas une condamnation socio-économique.",
+      "scripture": []
+    },
+    {
+      "id": "impact-travail",
+      "question": "L’avortement facilite-t-il l’intégration des femmes au travail ou les réduit-il à des 'rouages' économiques ?",
+      "reponse": "Sur le court terme, l’accès à la contraception et à l’IVG peut diminuer les interruptions de carrière imprévues. Mais considérer cela comme principal objectif risque de réduire la maternité à une variable économique. Une vraie politique de justice sociale doit concilier la dignité du travail, l’accompagnement familial (congés, garde d’enfants, sécurité sociale) et le respect de la vie, afin que la femme ne soit ni forcée à la grossesse, ni incitée à la supprimer pour 'fonctionner' économiquement.",
+      "scripture": []
+    },
+    {
+      "id": "moins-enfants-non-desires",
+      "question": "La légalisation réduit-elle les enfants non désirés et la précarité ?",
+      "reponse": "La prévention et l’éducation peuvent réduire le nombre d’enfants non désirés. La légalisation seule n’est pas suffisante : il faut aussi des politiques d’accueil, d’aide matérielle et d’accompagnement pour que chaque enfant ait des conditions dignes. L’objectif moral est de diminuer la souffrance sans sacrifier la protection de la vie humaine.",
+      "scripture": []
+    },
+    {
+      "id": "philanthropie-contraception",
+      "question": "Les financements internationaux (Gates, Rockefeller, etc.) cherchent-ils à imposer la contraception aux pays pauvres ?",
+      "reponse": "De grandes fondations ont investi massivement dans la santé reproductive, la contraception et la planification familiale, en présentant cela comme un levier de santé publique et de lutte contre la pauvreté. Les critiques dénoncent parfois une forme d’imposition technocratique plutôt que d’aide structurelle (écoles, hôpitaux). Le débat porte sur les priorités de l’aide et sur le respect des souverainetés et des valeurs locales : il est légitime d’interroger les effets et motivations des politiques démographiques internationales.",
+      "scripture": []
+    },
+    {
+      "id": "ideologie-et-non-dignite",
+      "question": "Certaines voix disent que la promotion massive de contraception/avortement nie la dignité. Est-ce crédible ?",
+      "reponse": "Oui, si la stratégie de santé publique ou de planification se fonde sur une logique utilitariste (réduction des populations 'coûteuses') plutôt que sur le respect de chaque personne, elle peut effectivement entrer en contradiction avec la dignité intrinsèque. C’est pourquoi il faut toujours scruter les finalités et veiller à ce que la protection des plus vulnérables reste centrale.",
+      "scripture": []
+    },
+    {
+      "id": "exemples-humains",
+      "question": "Peut-on donner des exemples humains pour rappeler la valeur de la vie et de la maternité ?",
+      "reponse": "Oui : des figures comme Sainte Joséphine Bakhita témoignent que la dignité humaine, même dans l’épreuve, dépasse les calculs utilitaristes. Raconter des parcours de femmes qui ont choisi la vie malgré la difficulté aide à réhumaniser le débat et à montrer que l’accueil et la solidarité transforment des existences.",
+      "scripture": []
+    },
+     {
+      "id": "influence-exterieure",
+      "question": "Des acteurs extérieurs (philanthropes, ONG) cherchent-ils à imposer une politique reproductive à d'autres pays ?",
+      "reponse": "Il est documenté que des fondations et des ONG financent des programmes de santé reproductive, contraception et accès à l'IVG dans divers pays. Cela peut aider en santé publique, mais soulève aussi des questions légitimes de souveraineté, d'éthique et de priorité d'aide (infrastructures, éducation, hôpitaux). Il faut une vigilance sur les modalités et le respect des cadres nationaux : la coopération internationale ne doit pas se transformer en imposition de politiques contraires aux choix culturels et moraux des populations concernées.",
+      "scripture": []
+    },
+    {
+      "id": "business-avortement",
+      "question": "Y a-t-il un 'business' de la contraception et de l'IVG ?",
+      "reponse": "Des intérêts économiques existent dans le secteur pharmaceutique et associatif ; produire et distribuer contraceptifs ou pratiquer des IVG implique des acteurs payés. Cela ne rend pas automatiquement moral une pratique : la présence d'un marché appelle à la transparence, à la régulation et à vérifier qu'on ne priorise pas le profit sur la dignité humaine. Le critère éthique reste la valeur intrinsèque de la personne et le bien commun.",
+      "scripture": []
+    },
+    {
+      "id": "plannned-parenthood-faits",
+      "question": "Les chiffres et financements de Planned Parenthood montrent-ils un conflit d'intérêts ?",
+      "reponse": "Des organisations comme Planned Parenthood publient des rapports annuels sur leurs activités et leurs financements ; elles reçoivent aussi des subventions publiques pour des services de santé reproductive. Des allégations de pratiques frauduleuses ont été portées devant des tribunaux et doivent être traitées au cas par cas. D'un point de vue moral, la transparence financière et la reddition de comptes sont nécessaires pour éviter toute instrumentalisation des personnes au profit d'intérêts financiers.",
+      "scripture": []
+    },
+    {
+      "id": "denoncer-ideologie",
+      "question": "La promotion massive de contraception/IVG est-elle une idéologie niant la dignité humaine ?",
+      "reponse": "Si une politique considère la vie humaine comme un simple instrument démographique ou économique, elle tombe dans l'utilitarisme et nie la dignité intrinsèque. Mais il existe aussi des acteurs qui visent sincèrement à réduire la mortalité maternelle ou la pauvreté. L'analyse doit distinguer les intentions, les moyens et les effets, et exiger que la dignité humaine reste le critère premier.",
+      "scripture": []
+    },
+    {
+      "id": "temoignages-et-saints",
+      "question": "Pourquoi citer des figures chrétiennes (Sainte Gianna, Mère Teresa, Joséphine Bakhita) dans le débat ?",
+      "reponse": "Ces témoignages humains illustrent une vision de la dignité et de la providence : femmes et hommes qui, face à la souffrance, ont choisi de protéger la vie ou d’accueillir la vulnérabilité. Ils montrent qu’il existe des alternatives fondées sur la solidarité et la protection des plus faibles. Ces exemples ne suffisent pas à seuls argumenter juridiquement, mais humanisent le débat et inspirent des politiques d'accueil.",
+      "scripture": []
+    },
+    {
+      "id": "simone-veil",
+      "question": "Simone Veil et la gravité de l'acte : que retenir de son témoignage ?",
+      "reponse": "Simone Veil a porté la loi sur l'IVG en France dans un contexte où la clandestinité tuait des femmes ; elle a aussi déclaré que l'avortement reste un drame et gardait la gravité morale de l'acte à l'esprit. Son témoignage rappelle la tension entre la réalité sociale douloureuse et la valeur de la vie : il invite à chercher des solutions qui réduisent la souffrance sans banaliser la suppression d'une vie.",
+      "scripture": []
+    },
+    {
+      "id": "argument-hypothese-marie",
+      "question": "Si l'on admettait l'IVG, 'aurait-on tué Dieu' dans le cas de Marie et Jean-Baptiste? (argument rhétorique)",
+      "reponse": "Cet argument rhétorique souligne la portée sacrée de la naissance dans la foi chrétienne (Jean-Baptiste reconnut le Messie in utero, cf. Luc 1,41-44). Théologiquement, la Révélation affirme que toute vie humaine est connue de Dieu dès la conception (Ps 139). Mais la discussion morale porte sur la valeur de la vie humaine et la responsabilité envers les plus vulnérables, pas sur des accusations personnelles. L'argument vise surtout à réveiller la conscience morale.",
+      "scripture": ["Luke 1:41-44", "Ps 139:13-16"]
+    },
+    {
+      "id": "langage-injurieux",
+      "question": "Est-ce productif de traiter les personnes favorables à l'avortement par des attaques du type 'tu veux qu'on te tue'? ",
+      "reponse": "Non : la rhétorique agressive ferme le dialogue et radicalise les positions. Pour convaincre, il est préférable d'exposer des raisons rationnelles, des preuves et des propositions concrètes d'accompagnement (aide sociale, prévention, alternatives). Le respect et l'écoute sont des conditions d'un débat public fructueux et d'une persuasion morale authentique.",
+      "scripture": []
+    },
+    {
+      "id": "politique-sentiment",
+      "question": "Le 'politique des sentiments' est-il un bon guide éthique ?",
+      "reponse": "Les émotions éclairent la morale, mais ne suffisent pas à fonder des lois. Les décisions politiques doivent concilier compassion et principes, et être soutenues par des politiques publiques (santé, éducation, aides familiales) qui répondent aux causes sociales du recours à l'IVG.",
+      "scripture": []
+    },
+    {
+      "id": "proposition-humaniste",
+      "question": "Quelles alternatives proposer pour répondre aux causes profondes (pauvreté, manque d'accompagnement) ?",
+      "reponse": "Renforcer les politiques familiales (congé parental, gardes d'enfants), développer les centres d'accueil maternel, améliorer l'accès à la formation et à l'emploi, garantir un accompagnement médical et psychologique, soutenir les adoptants : ce sont des réponses qui protègent la femme tout en valorisant la vie de l'enfant à naître.",
+      "scripture": []
+    },
+    {
+      "id": "ethique-et-transparence",
+      "question": "Quel cadre éthique proposer face aux enjeux financiers et d'influence ?",
+      "reponse": "Exiger transparence des financements, audits indépendants des ONG et des structures de santé, séparation claire entre activités lucratives et missions sociales, contrôle public des fonds publics : ces mesures réduisent les risques d'instrumentalisation et réorientent les politiques vers le bien commun.",
+      "scripture": []
+    },
+    {
+      "id": "dialogue-meurtre-womb",
+      "question": "Comment répondre à l'image 'tu m'aurais tué dans le ventre de ma mère' dans un débat avec quelqu'un qui soutient l'IVG ?",
+      "reponse": "Cette image est puissante parce qu'elle humanise l'embryon. Pour dialoguer, il vaut mieux rester calme, rappeler la réalité biologique et morale de la vie naissante, et poser des questions ouvertes : « Que penses-tu de la dignité de l'enfant à naître ? » Proposer des témoignages et des alternatives concrètes (aide sociale, maternités d'accueil) facilite la conversion des cœurs mieux que l'attaque personnelle.",
+      "scripture": ["Ps 139:13-16", "Mt 25:40"]
+    },
+    {
+      "id": "embryon-choisit-vivre",
+      "question": "L’embryon 'choisit' de vivre : sens et validité de cette affirmation ?",
+      "reponse": "On ne peut pas attribuer à l'embryon une volonté indépendante, mais biologiquement il manifeste un mouvement vital et un développement orienté vers la vie. Spirituellement, dire que l'embryon 'choisit' de vivre renforce l'intuition que la vie humaine a sa propre vocation et mérite protection. La responsabilité humaine est d'accompagner ce chemin de vie.",
+      "scripture": ["Jer 1:5"]
+    },
+    {
+      "id": "liberte-corps-vie",
+      "question": "Si mon corps 'veut' vivre, est-ce un argument contre l'avortement ?",
+      "reponse": "L'argument souligne que la vie est l'état naturel et bon de l'être humain ; s'opposer à la vie exige toujours une justification morale forte. Mais la législation et l'accompagnement doivent aussi tenir compte de la liberté et de la situation concrète de la femme : l'enjeu est d'articuler protection de la vie et soutien réel à la mère.",
+      "scripture": ["Jn 10:10"]
+    },
+    {
+      "id": "si-tu-donnes-pas-vie-pourquoi-dieu",
+      "question": "Si l'homme refuse de donner la vie, pourquoi Dieu continuerait-Il à donner la vie ?",
+      "reponse": "Théologiquement, Dieu est source et don gratuit de la vie ; la réponse humaine peut accepter ou rejeter ce don. Le fait que certaines personnes n'accueillent pas la vie ne contredit pas la bonté divine ni la vocation universelle à la vie ; il appelle plutôt la conversion et la charité pour aider les faibles à choisir la vie.",
+      "scripture": ["Jn 3:16", "Acts 17:25"]
+    },
+    {
+      "id": "abby-johnson-reference",
+      "question": "Qui est Abby Johnson et pourquoi la citer ?",
+      "reponse": "Abby Johnson est une ancienne employée d'une clinique IVG devenue militante pro-vie. Son témoignage personnel est souvent cité comme exemple de conversion et d'alerte sur certaines pratiques internes des structures pro-IVG. Les témoignages individuels peuvent éclairer, mais ils ne remplacent pas l'analyse objective des institutions et des politiques publiques.",
+      "scripture": []
+    },
+    {
+      "id": "loi-et-definitions",
+      "question": "La loi d'un État peut-elle définir moralement ce qui est meurtre ?",
+      "reponse": "La loi positive définit le cadre juridique, mais elle n'établit pas automatiquement la vérité morale. Beaucoup de lois injustes ont existé. Les chrétiens sont appelés à discerner et, si nécessaire, à obéir à Dieu plutôt qu'aux hommes (Actes 5:29) tout en travaillant pacifiquement à changer les lois injustes par les voies civiques.",
+      "scripture": ["Acts 5:29", "Mt 22:21"]
+    },
+    {
+      "id": "etat-machine-a-tuer",
+      "question": "Peut-on dire que 'la république est une machine à tuer' quand elle légalise l'IVG ou l'euthanasie ?",
+      "reponse": "C'est une formule forte mais reductrice. Les États prennent parfois des lois contraires à la morale ; cela justifie la critique et la résistance non violente. Toutefois, il faut distinguer les institutions (qui peuvent être amendées) des personnes, et agir par l'engagement civique, l'éducation et la solidarité plutôt que par la haine.",
+      "scripture": []
+    },
+    {
+      "id": "decider-pour-autrui",
+      "question": "Qui es-tu pour décider de la vie des autres ?",
+      "reponse": "La conviction pro-vie affirme que la vie humaine a une dignité intrinsèque qui fonde une responsabilité collective : protéger les vulnérables n'est pas une arrogance mais une obligation morale. L'appel est à la responsabilité commune — État, société, familles — pour défendre ceux qui ne peuvent se défendre eux-mêmes.",
+      "scripture": ["Prov 31:8-9"]
+    },
+    {
+      "id": "vie-est-choix",
+      "question": "La vie est-elle un choix ?",
+      "reponse": "La vie est avant tout un don reçu. Les choix humains interviennent dans la manière dont on la reçoit, la protège ou la rejette. La foi chrétienne voit la vie comme une vocation confiée par Dieu : elle n'est pas une marchandise ou un simple 'choix' isolé, mais un bien à accueillir et à soutenir.",
+      "scripture": ["Jn 14:6"]
+    },
+    {
+      "id": "republqiue-raisonnement-circulaire",
+      "question": "Les institutions modernes (république, droits de l'homme) sont-elles défendables sans raisonnement circulaire ?",
+      "reponse": "Les institutions se justifient par des principes (dignité, égalité, liberté) qui trouvent des fondements philosophiques et religieux. Leur critique est légitime quand elles dévient du bien commun. La voie chrétienne est de questionner, corriger et proposer des alternatives conformes à la dignité humaine, plutôt que de rejeter systématiquement tout l'édifice institutionnel.",
+      "scripture": ["Rom 13:1-7"]
+    },
+    {
+      "id": "racisme-et-deni",
+      "question": "Nier le racisme, est-ce ne pas détruire des identités ?",
+      "reponse": "Nier l'existence du racisme, ou inverser les termes, ne résout rien. La justice chrétienne appelle à la reconnaissance de la dignité de chaque personne et à la lutte contre toute forme d'injustice ou d'effacement des peuples. Le débat politique doit protéger la diversité humaine sans tomber dans la haine.",
+      "scripture": ["Gal 3:28"]
+    },
+    {
+      "id": "voter-et-responsabilite",
+      "question": "Voter pour une république qui légifère sur la vie, est-ce consentir à l'avortement ?",
+      "reponse": "Le vote engage la conscience. Être citoyen responsable implique d'examiner les programmes, de s'engager pour des lois qui protègent la vie et d'appuyer des politiques d'accueil. Si une loi injuste existe, la responsabilité chrétienne n'est pas le nihilisme mais l'action : légale, éducative et caritative pour changer les choses.",
+      "scripture": ["Mt 5:13-16"]
+    },
+    {
+      "id": "jesus-vie-et-salut",
+      "question": "Pourquoi dire 'Jésus est la Vie' et en tirer une opposition à l'avortement ?",
+      "reponse": "Jésus s'est donné pour la vie humaine (Jn 10:10; Jn 14:6). Affirmer 'Jésus est la Vie' signifie reconnaître que toute vie humaine a une valeur inestimable et que les chrétiens sont appelés à la défendre. Cela inspire l'engagement pour protéger les plus vulnérables et à promouvoir des alternatives concrètes à l'élimination de la vie.",
+      "scripture": ["Jn 10:10", "Jn 14:6"]
+    },
+    {
+      "id": "action-non-violente",
+      "question": "Que faire concrètement pour défendre la vie sans tomber dans la violence ?",
+      "reponse": "Agir par la prière, l'accompagnement des femmes (centres d'accueil, aides sociales), la prévention (éducation, contraception si on considère cela acceptable), la pression politique pacifique, le témoignage public et les actions légales pour protéger les plus vulnérables. La non-violence créative et la charité sont les voies évangéliques pour construire une culture de la vie.",
+      "scripture": ["Mt 5:9", "Rom 12:17-21"]
+    },
+     {
+      "id": "pierre-simon-contraception",
+      "question": "Qui était Pierre Simon et quel rôle a-t-il joué dans l’histoire de la contraception en France ?",
+      "reponse": "Pierre Félix Simon (1925-2008), gynécologue et endocrinologue, est un pionnier de la contraception en France. Il a introduit et popularisé le terme de stérilet, présenté les méthodes contraceptives à la presse dès les années 1950, et promu des cours universitaires de contraception à Lyon et Tours en 1964. Il a aussi été engagé dans les débats sur la procréation médicalement assistée et la fin de vie (droit de mourir dans la dignité). Son action a fortement influencé la législation et la culture contraceptive française.",
+      "scripture": []
+    },
+    {
+      "id": "influence-maçonnerie",
+      "question": "Quel lien entre Pierre Simon, la franc-maçonnerie et les débats sociétaux (contraception, avortement, vie) ?",
+      "reponse": "Pierre Simon fut deux fois Grand Maître de la Grande Loge de France (GLDF). Sous son impulsion, la GLDF s’est engagée dans des réflexions sociétales — contraception, définition de la vie, droit à la mort — qu’elle présente comme un espace de débat public. Le fait qu’un acteur influent dans le domaine médical ait aussi une position maçonnique montre l’interaction entre idéologies, médecine et symbolisme républicain dans le changement culturel.",
+      "scripture": []
+    },
+    {
+      "id": "macron-remerciements",
+      "question": "Pourquoi Emmanuel Macron a-t-il remercié la Grande Loge de France en 2025, et que cela implique-t-il dans le débat sur l’avortement ?",
+      "reponse": "Le 5 mai 2025, Emmanuel Macron a remercié publiquement la GLDF devant ses membres. Ce geste symbolique souligne l’influence que certaines loges ou courants maçonniques peuvent avoir sur les élites politiques. Dans le débat sur l’avortement, cela peut être interprété comme un soutien implicite aux positions progressistes sur la liberté de choix reproductif, ou comme un signe de connivence entre le pouvoir politique et certaines idéologies laïques.",
+      "scripture": []
+    },
+    {
+      "id": "rapport-simon-kinsey",
+      "question": "Qu’est-ce que le « Rapport Simon » et pourquoi est-il comparé à Kinsey ?",
+      "reponse": "Le « Rapport Simon » est une étude commandée en France dans les années 1970 sur la sexualité, la contraception et les mœurs. On le qualifie parfois de « Kinsey à la française » en référence aux recherches sexuelles d’Alfred Kinsey aux États-Unis. Le rapport contribua à légitimer l’ouverture de la société aux méthodes contraceptives et à préparer le terrain pour une législation plus libérale en matière de sexualité et de reproduction.",
+      "scripture": []
+    },
+    {
+      "id": "influence-medicale-politique",
+      "question": "Quel est le danger ou l’enjeu d’un mélange entre acteurs médicaux, idéologiques et politiques dans les lois sur l’avortement ?",
+      "reponse": "Quand des médecins, des loges idéologiques ou des personnalités politiques influentes s’allient pour imposer une vision de la sexualité et de la vie, cela peut biaiser le débat démocratique. Les décisions de santé publique doivent s’appuyer sur la science, l’éthique, la délibération citoyenne et le respect de la dignité humaine, et non sur des alliances informelles ou des pressions intellectuelles occultes.",
+      "scripture": []
+    },
+    {
+      "id": "transparence-historique",
+      "question": "Pourquoi est-il utile de connaître ces acteurs et cette histoire dans le débat pro-vie en France ?",
+      "reponse": "Connaître l’histoire de la contraception et des influences idéologiques permet de comprendre les racines des lois actuelles, de discerner les stratégies d’influence et de mieux défendre une vision de la dignité humaine. Cela aide aussi à contester la prétention de neutralité : toute loi a des philosophies sous-jacentes. Être informé, c’est ne pas tomber dans la manipulation.",
+      "scripture": []
     }
+  ]
+}
   ]
 },
 
