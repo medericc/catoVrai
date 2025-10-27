@@ -65,7 +65,7 @@ En appelant Marie Theotokos, l’Église affirmait qu’il n’y a qu’une seul
           id: "cana",
           question: "Pourquoi Marie intercède à Cana ? Jésus n’a-t-il pas dit que son heure n’était pas venue ?",
           reponse: `Oui, mais il agit par sa demande (Jean 2,3-5).
-Elle ne commande pas à Dieu — elle intercède et conduit à Jésus :
+Elle ne commande pas à Dieu, elle intercède et conduit à Jésus :
 « Faites tout ce qu’il vous dira. »
 C’est toute sa mission spirituelle : mener au Christ.`,
           scripture: ["Jean 2:3-5"]
@@ -134,7 +134,7 @@ Les premiers chrétiens ont toujours distingué culte d’adoration (latrie) et 
           reponse: `Parce que Dieu a choisi de venir par elle.
 Son « Oui » a permis l’Incarnation (Luc 1,38).
 Et comme elle a ouvert la voie à Jésus, elle ouvre encore nos cœurs à Lui.
-« Par Marie, Jésus est venu au monde, et par Marie, Il doit régner. » — Saint Louis de Montfort.`,
+« Par Marie, Jésus est venu au monde, et par Marie, Il doit régner. », Saint Louis de Montfort.`,
           scripture: ["Luc 1:38"]
         },
         {
@@ -352,7 +352,7 @@ Une seule foi, un seul baptême, un seul Corps (Éph 4,5).
   question: "Pourquoi l’Église catholique se dit universelle ?",
   reponse: `Le mot “catholique” vient du grec *katholikos* = “universel”.  
 Jésus a fondé **une seule Église**, envoyée à toutes les nations (Mt 28,19).  
-→ L’Église catholique est la seule présente partout dans le monde, avec la même foi, les mêmes sacrements et la même messe — signe de son unité voulue par le Christ.`,
+→ L’Église catholique est la seule présente partout dans le monde, avec la même foi, les mêmes sacrements et la même messe, signe de son unité voulue par le Christ.`,
   scripture: ["Matthieu 28:19", "Jean 17:21", "Éphésiens 4:4-5"]
 },
     {
@@ -522,7 +522,7 @@ mais nous ne serons pas sauvés sans elles.
         {
           id: "bebe-foi-communaute",
           question: "Mais si un bébé ne croit pas, comment peut-il être baptisé ?",
-          reponse: `Au baptême, la foi est professée par la communauté chrétienne — parents et parrains — jusqu’à ce que l’enfant puisse la confirmer lui-même à la confirmation.`
+          reponse: `Au baptême, la foi est professée par la communauté chrétienne, parents et parrains, jusqu’à ce que l’enfant puisse la confirmer lui-même à la confirmation.`
         },
         {
           id: "jesus-foi-bapteme",
@@ -609,12 +609,12 @@ mais nous ne serons pas sauvés sans elles.
         {
           id: "prier-statues",
           question: "Les catholiques prient les statues !",
-          reponse: `Non. Les catholiques ne prient pas les statues, ils prient Dieu. La statue rappelle celui ou celle qu’elle représente — comme une photo.`
+          reponse: `Non. Les catholiques ne prient pas les statues, ils prient Dieu. La statue rappelle celui ou celle qu’elle représente, comme une photo.`
         },
         {
           id: "exode-images",
           question: "Mais Exode 20,4 interdit les images !",
-          reponse: `Exode 20,4 interdit les idoles (eidolon) — c’est-à-dire adorer une image à la place de Dieu. L’Église n’adore que Dieu (adoration = latrie).`,
+          reponse: `Exode 20,4 interdit les idoles (eidolon), c’est-à-dire adorer une image à la place de Dieu. L’Église n’adore que Dieu (adoration = latrie).`,
           scripture: ["Exode 20:4"]
         },
         {
@@ -671,7 +671,7 @@ mais nous ne serons pas sauvés sans elles.
       {
   id: "saints-morts",
   question: "Mais les saints sont morts, non ?",
-  reponse: `Non : ils vivent en Dieu. Jésus dit que Dieu n’est pas le Dieu des morts, mais des vivants (Lc 20,38) — donc pour Dieu tous sont vivants. Jean 3,15 rappelle que croire donne la vie éternelle. Et Romains 8,38-39 affirme que rien ne nous sépare de l’amour du Christ. Les saints sont donc vivants auprès de Dieu et leurs prières ont valeur dans la communion des saints.`,
+  reponse: `Non : ils vivent en Dieu. Jésus dit que Dieu n’est pas le Dieu des morts, mais des vivants (Lc 20,38), donc pour Dieu tous sont vivants. Jean 3,15 rappelle que croire donne la vie éternelle. Et Romains 8,38-39 affirme que rien ne nous sépare de l’amour du Christ. Les saints sont donc vivants auprès de Dieu et leurs prières ont valeur dans la communion des saints.`,
   scripture: ["Luc 20:38", "Jean 3:15", "Romains 8:38-39"]
 }
 ,
@@ -825,7 +825,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
     {
       "id": "histoire-ideologique",
       "question": "Quel lien historique entre idéologies révolutionnaires (ex. Lénine, Staline) et la légalisation de l'avortement ?",
-      "reponse": "Certaines révolutions antireligieuses ont promu des réformes familiales pour modifier les mœurs et affaiblir l’influence de l’Église. Lénine, dans le contexte bolchevik, a soutenu l’émancipation des femmes en rupture avec l’ordre traditionnel ; Staline a ensuite corrigé certains excès pour favoriser la natalité. Ces changements montrent que la légalisation peut être instrumentalisée politiquement — pour des motifs démographiques, idéologiques ou anti-religieux — et qu’il faut donc regarder les conséquences humaines, pas seulement l’idéologie qui la promeut.",
+      "reponse": "Certaines révolutions antireligieuses ont promu des réformes familiales pour modifier les mœurs et affaiblir l’influence de l’Église. Lénine, dans le contexte bolchevik, a soutenu l’émancipation des femmes en rupture avec l’ordre traditionnel ; Staline a ensuite corrigé certains excès pour favoriser la natalité. Ces changements montrent que la légalisation peut être instrumentalisée politiquement, pour des motifs démographiques, idéologiques ou anti-religieux, et qu’il faut donc regarder les conséquences humaines, pas seulement l’idéologie qui la promeut.",
       "scripture": []
     },
     {
@@ -837,7 +837,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
     {
       "id": "personne-seuil",
       "question": "La personne se définit-elle par la conscience ou l’autonomie ? Peut-on poser un « seuil » arbitraire pour la personne ?",
-      "reponse": "Définir la personne uniquement par la présence de conscience, d’autonomie ou de relations sociales conduit à des critères fluctuants et discriminatoires. Historiquement et moralement, beaucoup soutiennent que la dignité humaine est intrinsèque — elle ne dépend pas d’un stade psychologique. Poser un seuil arbitraire (ex. 10–12 semaines) a une logique pratique en droit, mais éthiquement il pose le problème de hiérarchiser la valeur d’une vie selon son âge ou ses capacités, ouvrant potentiellement la porte à d’autres exclusions.",
+      "reponse": "Définir la personne uniquement par la présence de conscience, d’autonomie ou de relations sociales conduit à des critères fluctuants et discriminatoires. Historiquement et moralement, beaucoup soutiennent que la dignité humaine est intrinsèque, elle ne dépend pas d’un stade psychologique. Poser un seuil arbitraire (ex. 10–12 semaines) a une logique pratique en droit, mais éthiquement il pose le problème de hiérarchiser la valeur d’une vie selon son âge ou ses capacités, ouvrant potentiellement la porte à d’autres exclusions.",
       "scripture": ["Gen 1:27"]
     },
     {
@@ -1072,7 +1072,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
     {
       "id": "decider-pour-autrui",
       "question": "Qui es-tu pour décider de la vie des autres ?",
-      "reponse": "La conviction pro-vie affirme que la vie humaine a une dignité intrinsèque qui fonde une responsabilité collective : protéger les vulnérables n'est pas une arrogance mais une obligation morale. L'appel est à la responsabilité commune — État, société, familles — pour défendre ceux qui ne peuvent se défendre eux-mêmes.",
+      "reponse": "La conviction pro-vie affirme que la vie humaine a une dignité intrinsèque qui fonde une responsabilité collective : protéger les vulnérables n'est pas une arrogance mais une obligation morale. L'appel est à la responsabilité commune, État, société, familles, pour défendre ceux qui ne peuvent se défendre eux-mêmes.",
       "scripture": ["Prov 31:8-9"]
     },
     {
@@ -1120,7 +1120,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
     {
       "id": "influence-maçonnerie",
       "question": "Quel lien entre Pierre Simon, la franc-maçonnerie et les débats sociétaux (contraception, avortement, vie) ?",
-      "reponse": "Pierre Simon fut deux fois Grand Maître de la Grande Loge de France (GLDF). Sous son impulsion, la GLDF s’est engagée dans des réflexions sociétales — contraception, définition de la vie, droit à la mort — qu’elle présente comme un espace de débat public. Le fait qu’un acteur influent dans le domaine médical ait aussi une position maçonnique montre l’interaction entre idéologies, médecine et symbolisme républicain dans le changement culturel.",
+      "reponse": "Pierre Simon fut deux fois Grand Maître de la Grande Loge de France (GLDF). Sous son impulsion, la GLDF s’est engagée dans des réflexions sociétales, contraception, définition de la vie, droit à la mort, qu’elle présente comme un espace de débat public. Le fait qu’un acteur influent dans le domaine médical ait aussi une position maçonnique montre l’interaction entre idéologies, médecine et symbolisme républicain dans le changement culturel.",
       "scripture": []
     },
     {
@@ -1412,7 +1412,7 @@ Le concile a clarifié, pas inventé.`,
           question: "L’Esprit-Saint n’est-il qu’une force ?",
           reponse: `Non.
 Jean 14,26 : le Père envoie l’Esprit au nom du Fils, et l’Esprit enseigne.
-→ Il agit, parle, guide — c’est une Personne divine.`,
+→ Il agit, parle, guide, c’est une Personne divine.`,
           scripture: ["Jn 14:26"]
         },
         {
@@ -1474,7 +1474,7 @@ C’est Dieu manifesté visiblement.`,
           question: "Jésus pardonne les péchés, mais les prophètes aussi non ?",
           reponse: `Non. Les prophètes demandaient à Dieu le pardon.
 Jésus dit : « Tes péchés sont pardonnés » par sa propre autorité (Marc 2,5).
-Les scribes réagissent : « Qui peut pardonner les péchés, sinon Dieu seul ? » — ils ont compris.`,
+Les scribes réagissent : « Qui peut pardonner les péchés, sinon Dieu seul ? », ils ont compris.`,
           scripture: ["Mc 2:5"]
         },
         {
@@ -1523,12 +1523,12 @@ Saint Irénée (vers 180) affirme que toutes les Églises doivent s’accorder a
           id: "constantin-doctrine",
           question: "Constantin a imposé la doctrine chrétienne ?",
           reponse: `Non. Il a seulement légalisé le christianisme (Édit de Milan, 313).
-Le Concile de Nicée a été dirigé par les évêques, pas par lui — il n’était même pas baptisé.`,
+Le Concile de Nicée a été dirigé par les évêques, pas par lui, il n’était même pas baptisé.`,
         },
         {
           id: "constantin-catholique",
           question: "Constantin était catholique alors ?",
-          reponse: `Il a été baptisé sur son lit de mort par un arien — un hérétique.
+          reponse: `Il a été baptisé sur son lit de mort par un arien, un hérétique.
 Donc il n’était pas modèle de doctrine catholique.`,
         },
         {
