@@ -44,7 +44,7 @@ export const themes: Domaine[] = [
         {
           id: "mere-de-dieu",
           question: "Marie n’est pas Mère de Dieu, elle est juste mère de Jésus.",
-          reponse: `Élisabeth la nomme : « Mère de mon Seigneur » (Luc 1,43). Or Kyrios (« Seigneur ») désigne Dieu dans la Bible grecque. → Si Jésus est Dieu fait homme, Marie est Mère de Dieu (Theotokos), non par antériorité, mais par incarnation.`,
+          reponse: `Élisabeth la nomme : « Mère de mon Seigneur » (Luc 1,43). Or Kyrios (« Seigneur ») désigne Dieu dans la Bible grecque. Si Jésus est Dieu fait homme, Marie est Mère de Dieu (Theotokos), non par antériorité, mais par incarnation.`,
           scripture: ["Luc 1:43"]
         },
         {
@@ -72,7 +72,7 @@ export const themes: Domaine[] = [
         {
           id: "prières-anciennes",
           question: "Les prières à Marie ont été inventées au Moyen Âge.",
-          reponse: `Non. La plus ancienne prière connue, Sub tuum praesidium, date du IIIᵉ siècle, bien avant la clôture de la Bible. Des fresques des catacombes montrent déjà Marie priée comme Mère de Dieu. → La dévotion mariale est apostolique et ancienne.`
+          reponse: `Non. La plus ancienne prière connue, Sub tuum praesidium, date du IIIᵉ siècle, bien avant la clôture de la Bible. Des fresques des catacombes montrent déjà Marie priée comme Mère de Dieu. La dévotion mariale est apostolique et ancienne.`
         },
         {
           id: "culte-jésus",
@@ -82,7 +82,7 @@ export const themes: Domaine[] = [
         {
           id: "peres-mediation",
           question: "Les Pères de l’Église croyaient-ils à la médiation de Marie ?",
-          reponse: `Oui. Saint Irénée (IIᵉ s.) : « Par une vierge, la vie est venue. » Saint Éphrem (IVᵉ s.) : « Ô Marie, médiatrice du monde entier. » → La médiation maternelle de Marie est reconnue dès les premiers siècles.`
+          reponse: `Oui. Saint Irénée (IIᵉ s.) : « Par une vierge, la vie est venue. » Saint Éphrem (IVᵉ s.) : « Ô Marie, médiatrice du monde entier. » La médiation maternelle de Marie est reconnue dès les premiers siècles.`
         },
         {
           id: "autre-mediatrice",
@@ -92,7 +92,7 @@ export const themes: Domaine[] = [
         {
           id: "idolatrie",
           question: "La vénération de Marie est de l’idolâtrie.",
-          reponse: `L’Église ne l’adore pas (adoration = réservée à Dieu). Elle la vénère comme Mère du Seigneur (Luc 1,43). Les premiers chrétiens ont toujours distingué culte d’adoration (latrie) et culte de vénération (dulie). → Honorer Marie, c’est honorer l’œuvre de Dieu en elle.`,
+          reponse: `L’Église ne l’adore pas (adoration = réservée à Dieu). Elle la vénère comme Mère du Seigneur (Luc 1,43). Les premiers chrétiens ont toujours distingué culte d’adoration (latrie) et culte de vénération (dulie). Honorer Marie, c’est honorer l’œuvre de Dieu en elle.`,
           scripture: ["Luc 1:43"]
         },
         {
@@ -116,12 +116,12 @@ export const themes: Domaine[] = [
         {
           id: "directement-a-dieu",
           question: "Je peux demander pardon directement à Dieu. Pourquoi un prêtre ?",
-          reponse: `Oui, Dieu seul pardonne. Mais Jésus a voulu que son pardon soit transmis visiblement, par les apôtres et leurs successeurs. → Le prêtre n’est pas un obstacle : il est l’instrument du pardon du Christ.`
+          reponse: `Oui, Dieu seul pardonne. Mais Jésus a voulu que son pardon soit transmis visiblement, par les apôtres et leurs successeurs. Le prêtre n’est pas un obstacle : il est l’instrument du pardon du Christ.`
         },
         {
           id: "pouvoir-pardon",
           question: "Où Jésus a-t-il donné ce pouvoir ? Montre-moi dans la Bible.",
-          reponse: `Jean 20,22-23 : « Ceux à qui vous remettrez les péchés, ils leur seront remis. » → Jésus donne réellement le pouvoir de pardonner, lié à l’Esprit Saint.`,
+          reponse: `Jean 20,22-23 : « Ceux à qui vous remettrez les péchés, ils leur seront remis. » Jésus donne réellement le pouvoir de pardonner, lié à l’Esprit Saint.`,
           scripture: ["Jean 20:22-23"]
         },
         {
@@ -132,13 +132,13 @@ export const themes: Domaine[] = [
         {
           id: "lier-delier",
           question: "Lier et délier, ça ne veut rien dire.",
-          reponse: `Matthieu 18,18 : « Tout ce que vous lierez sur la terre sera lié au ciel. » Dans la tradition juive, lier/délier = condamner/absoudre. → Jésus donne une autorité morale et spirituelle.`,
+          reponse: `Matthieu 18,18 : « Tout ce que vous lierez sur la terre sera lié au ciel. » Dans la tradition juive, lier/délier = condamner/absoudre. Jésus donne une autorité morale et spirituelle.`,
           scripture: ["Matthieu 18:18"]
         },
         {
           id: "confession-biblique",
           question: "La confession orale n’est pas biblique.",
-          reponse: `Jacques 5,16 : « Confessez vos péchés les uns aux autres. » Jacques 5,14-15 : Appeler les prêtres pour obtenir le pardon des péchés. → La confession avec un prêtre est explicitement biblique.`,
+          reponse: `Jacques 5,16 : « Confessez vos péchés les uns aux autres. » Jacques 5,14-15 : Appeler les prêtres pour obtenir le pardon des péchés. La confession avec un prêtre est explicitement biblique.`,
           scripture: ["Jacques 5:14-16"]
         },
         {
@@ -178,25 +178,25 @@ export const themes: Domaine[] = [
     
       id: "bible-seule",
       question: "Il faut croire seulement ce qui est écrit dans la Bible.",
-      reponse: `La Bible ne dit jamais que seule l’Écriture est l’autorité. Au contraire, elle parle aussi de la Tradition transmise oralement (2 Thess 2,15). → Jésus n’a pas écrit un livre : il a fondé une Église (Mt 16,18).`,
+      reponse: `La Bible ne dit jamais que seule l’Écriture est l’autorité. Au contraire, elle parle aussi de la Tradition transmise oralement (2 Thess 2,15). Jésus n’a pas écrit un livre : il a fondé une Église (Mt 16,18).`,
       scripture: ["2 Thess 2:15", "Mt 16:18"]
     },
     {
       id: "tradition-biblique",
       question: "La Tradition, ce n’est pas biblique !",
-      reponse: `Saint Paul dit : « Tenez fermes les traditions, par la parole ou par la lettre » (2 Thess 2,15). → La Tradition apostolique = orale + écrite.`,
+      reponse: `Saint Paul dit : « Tenez fermes les traditions, par la parole ou par la lettre » (2 Thess 2,15). La Tradition apostolique = orale + écrite.`,
       scripture: ["2 Thess 2:15"]
     },
     {
       id: "enseignement-oral",
       question: "Mais Paul aurait tout écrit dans la Bible.",
-      reponse: `Non. Il dit qu’il a enseigné des choses non écrites (2 Thess 2,5). → Il existe un enseignement oral venant des apôtres.`,
+      reponse: `Non. Il dit qu’il a enseigné des choses non écrites (2 Thess 2,5). Il existe un enseignement oral venant des apôtres.`,
       scripture: ["2 Thess 2:5"]
     },
     {
       id: "interpretation",
       question: "Chacun peut interpréter la Bible.",
-      reponse: `La Bible dit que les ignorants tordent les Écritures (2 Pierre 3,16). Elle demande une interprétation authentique (1 Tim 3,15). → Cette mission appartient à l’Église, pas à l’individu isolé.`,
+      reponse: `La Bible dit que les ignorants tordent les Écritures (2 Pierre 3,16). Elle demande une interprétation authentique (1 Tim 3,15). Cette mission appartient à l’Église, pas à l’individu isolé.`,
       scripture: ["2 Pierre 3:16", "1 Tim 3:15"]
     },
     {
@@ -207,7 +207,7 @@ export const themes: Domaine[] = [
     {
       id: "canon-juif",
       question: "Le canon biblique vient des Juifs.",
-      reponse: `Jésus et les apôtres utilisaient la Septante, pas la Bible juive postérieure. La Septante contient les 7 livres que les protestants ont retirés. → Jésus cite cette version et la lit à la synagogue.`
+      reponse: `Jésus et les apôtres utilisaient la Septante, pas la Bible juive postérieure. La Septante contient les 7 livres que les protestants ont retirés. Jésus cite cette version et la lit à la synagogue.`
     },
     {
       id: "livres-ajoutes",
@@ -223,43 +223,43 @@ export const themes: Domaine[] = [
     {
       id: "pierre",
       question: "Pierre n’avait pas de rôle spécial.",
-      reponse: `Jésus lui confie les clefs (Mt 16,18-19), lui dit : « Pais mes brebis » (Jn 21,17), et dans les Actes, Pierre agit en premier (Actes 1-10). → Il est le berger visible de l’Église.`,
+      reponse: `Jésus lui confie les clefs (Mt 16,18-19), lui dit : « Pais mes brebis » (Jn 21,17), et dans les Actes, Pierre agit en premier (Actes 1-10). Il est le berger visible de l’Église.`,
       scripture: ["Mt 16:18-19", "Jn 21:17", "Actes 1-10"]
     },
     {
       id: "pape",
       question: "Le pape, ça n’existe pas dans la Bible.",
-      reponse: `Le pape = successeur de Pierre. Pierre meurt à Rome → son siège est Rome. L’unité apostolique passe par cette succession.`
+      reponse: `Le pape = successeur de Pierre. Pierre meurt à Rome, son siège est Rome. L’unité apostolique passe par cette succession.`
     },
     {
       id: "eglise-hierarchie",
       question: "La foi primitive était simple, sans Église hiérarchique.",
-      reponse: `Dès Actes 15, il y a un concile pour discerner la doctrine. Dès Actes 1, Pierre organise la succession apostolique. → L’Église est structurée dès le début.`,
+      reponse: `Dès Actes 15, il y a un concile pour discerner la doctrine. Dès Actes 1, Pierre organise la succession apostolique. L’Église est structurée dès le début.`,
       scripture: ["Actes 1", "Actes 15"]
     },
     {
       id: "rejeter-apotres",
       question: "Rejeter les apôtres, ce n’est pas rejeter Jésus ?",
-      reponse: `Jésus dit : « Qui vous rejette, me rejette. » (Lc 10,16). → Refuser l’autorité apostolique = refuser le Christ lui-même.`,
+      reponse: `Jésus dit : « Qui vous rejette, me rejette. » (Lc 10,16). Refuser l’autorité apostolique = refuser le Christ lui-même.`,
       scripture: ["Luc 10:16"]
     },
     {
       id: "eglise-apotres",
       question: "L’Église, c’est juste une communauté symbolique.",
-      reponse: `Non. Jésus fonde une Église visible et missionnaire : « Comme le Père m’a envoyé, moi aussi je vous envoie. » (Jn 20,21) → Elle agit avec l’autorité du Christ.`,
+      reponse: `Non. Jésus fonde une Église visible et missionnaire : « Comme le Père m’a envoyé, moi aussi je vous envoie. » (Jn 20,21) Elle agit avec l’autorité du Christ.`,
       scripture: ["Jn 20:21"]
     },
 
     {
       id: "unite",
       question: "Pourquoi une seule Église ?",
-      reponse: `Jésus prie pour que tous soient un (Jn 17,21). Une seule foi, un seul baptême, un seul Corps (Éph 4,5). → La division contredit la prière du Christ.`,
+      reponse: `Jésus prie pour que tous soient un (Jn 17,21). Une seule foi, un seul baptême, un seul Corps (Éph 4,5). La division contredit la prière du Christ.`,
       scripture: ["Jn 17:21", "Eph 4:5"]
     },
     {
   id: "eglise-universelle",
   question: "Pourquoi l’Église catholique se dit universelle ?",
-  reponse: `Le mot “catholique” vient du grec *katholikos* = “universel”. Jésus a fondé **une seule Église**, envoyée à toutes les nations (Mt 28,19). → L’Église catholique est la seule présente partout dans le monde, avec la même foi, les mêmes sacrements et la même messe, signe de son unité voulue par le Christ.`,
+  reponse: `Le mot “catholique” vient du grec *katholikos* = “universel”. Jésus a fondé **une seule Église**, envoyée à toutes les nations (Mt 28,19). L’Église catholique est la seule présente partout dans le monde, avec la même foi, les mêmes sacrements et la même messe, signe de son unité voulue par le Christ.`,
   scripture: ["Matthieu 28:19", "Jean 17:21", "Éphésiens 4:4-5"]
 },
     {
@@ -281,18 +281,18 @@ export const themes: Domaine[] = [
 
 {
   id: "oeuvre-et-purgatoire",
-  titre: "Foi, œuvres et purification après la mort",
+  titre: "Foi, œuvres et purification",
   questions: [
     {
       id: "foi-seule",
       question: "Sommes-nous sauvés par la foi seule ?",
-      reponse: `Non. L’Écriture dit : « L’homme est justifié par les œuvres et non par la foi seulement » (Jac 2,24). → La foi sauve si elle est vivante, c’est-à-dire agissante par la charité (Gal 5,6).`,
+      reponse: `Non. L’Écriture dit : « L’homme est justifié par les œuvres et non par la foi seulement » (Jac 2,24). La foi sauve si elle est vivante, c’est-à-dire agissante par la charité (Gal 5,6).`,
       scripture: ["Jacques 2:24", "Galates 5:6"]
     },
     {
       id: "foi-oeuvres",
       question: "Mais les œuvres ne servent à rien pour être sauvés ?",
-      reponse: `Les œuvres ne "gagnent" pas le salut, elles en sont la preuve. → « La foi sans les œuvres est morte » (Jac 2,26).`,
+      reponse: `Les œuvres ne "gagnent" pas le salut, elles en sont la preuve. « La foi sans les œuvres est morte » (Jac 2,26).`,
       scripture: ["Jacques 2:26"]
     },
     {
@@ -304,19 +304,19 @@ export const themes: Domaine[] = [
     {
       id: "romains",
       question: "Mais Paul dit que la foi suffit (Rom 3,28) !",
-      reponse: `Paul parle des œuvres de la Loi, pas des œuvres de charité. → Le salut vient de la grâce, mais se vit dans l’amour concret.`,
+      reponse: `Paul parle des œuvres de la Loi, pas des œuvres de charité. Le salut vient de la grâce, mais se vit dans l’amour concret.`,
       scripture: ["Romains 3:28"]
     },
     {
       id: "cooperation",
       question: "Si tout vient de Dieu, pourquoi coopérer ?",
-      reponse: `« Travaillez à votre salut... car c’est Dieu qui agit en vous. » (Ph 2,12-13) → Dieu sauve, mais sans notre réponse libre, la grâce reste stérile.`,
+      reponse: `« Travaillez à votre salut... car c’est Dieu qui agit en vous. » (Ph 2,12-13) Dieu sauve, mais sans notre réponse libre, la grâce reste stérile.`,
       scripture: ["Philippiens 2:12-13"]
     },
     {
       id: "foi-morte",
       question: "Une foi sans amour peut-elle sauver ?",
-      reponse: `Non. « Si je n’ai pas la charité, je ne suis rien. » (1 Cor 13,2) → La foi véritable se traduit en amour et en actes.`,
+      reponse: `Non. « Si je n’ai pas la charité, je ne suis rien. » (1 Cor 13,2) La foi véritable se traduit en amour et en actes.`,
       scripture: ["1 Corinthiens 13:2"]
     },
     {
@@ -328,31 +328,31 @@ export const themes: Domaine[] = [
     {
       id: "purgatoire-bible",
       question: "Le purgatoire est-il biblique ?",
-      reponse: `Oui. « Il sera sauvé, mais comme à travers le feu. » (1 Cor 3,15) → Une purification après la mort pour ceux qui sont sauvés.`,
+      reponse: `Oui. « Il sera sauvé, mais comme à travers le feu. » (1 Cor 3,15) Une purification après la mort pour ceux qui sont sauvés.`,
       scripture: ["1 Corinthiens 3:15"]
     },
     {
       id: "priere-morts",
       question: "Pourquoi prier pour les morts ?",
-      reponse: `« C’est une pensée sainte et pieuse de prier pour les morts. » (2 Macc 12,46) → La prière aide les âmes en purification.`,
+      reponse: `« C’est une pensée sainte et pieuse de prier pour les morts. » (2 Macc 12,46) La prière aide les âmes en purification.`,
       scripture: ["2 Maccabées 12:46"]
     },
     {
       id: "monde-avenir",
       question: "Y a-t-il un pardon possible après la mort ?",
-      reponse: `Jésus dit : « Certains péchés ne seront pardonnés ni en ce monde ni dans l’autre. » (Mt 12,32) → Donc, d’autres peuvent l’être dans l’autre monde.`,
+      reponse: `Jésus dit : « Certains péchés ne seront pardonnés ni en ce monde ni dans l’autre. » (Mt 12,32) Donc, d’autres peuvent l’être dans l’autre monde.`,
       scripture: ["Matthieu 12:32"]
     },
     {
       id: "purete",
       question: "Pourquoi une purification est-elle nécessaire ?",
-      reponse: `« Rien d’impur n’entrera dans la cité de Dieu. » (Ap 21,27) → Le purgatoire rend l’âme parfaitement pure pour le Ciel.`,
+      reponse: `« Rien d’impur n’entrera dans la cité de Dieu. » (Ap 21,27) Le purgatoire rend l’âme parfaitement pure pour le Ciel.`,
       scripture: ["Apocalypse 21:27"]
     },
     {
       id: "grace-croix",
       question: "Le purgatoire diminue-t-il la croix du Christ ?",
-      reponse: `Non. Il en applique la grâce purificatrice. → Jésus sauve, le purgatoire sanctifie totalement.`,
+      reponse: `Non. Il en applique la grâce purificatrice. Jésus sauve, le purgatoire sanctifie totalement.`,
       scripture: ["Hébreux 12:14"]
     },
     {
@@ -364,19 +364,19 @@ export const themes: Domaine[] = [
     {
       id: "justice-imputee",
       question: "Les protestants disent : 'Dieu nous couvre, sans nous changer'.",
-      reponse: `La Bible enseigne une justice transformante, pas seulement déclarée. → Le salut nous rend saints réellement, non juste “couverts”.`,
+      reponse: `La Bible enseigne une justice transformante, pas seulement déclarée. Le salut nous rend saints réellement, non juste “couverts”.`,
       scripture: ["2 Corinthiens 5:17", "Hébreux 12:14"]
     },
     {
       id: "foi-oeuvres-resume",
       question: "Foi et œuvres, comment les unir ?",
-      reponse: `Nous ne sommes pas sauvés par nos œuvres, mais nous ne serons pas sauvés sans elles. → La foi ouvre le cœur, les œuvres le remplissent d’amour.`,
+      reponse: `Nous ne sommes pas sauvés par nos œuvres, mais nous ne serons pas sauvés sans elles. La foi ouvre le cœur, les œuvres le remplissent d’amour.`,
       scripture: ["Jacques 2:26", "Galates 5:6"]
     },
     {
       id: "purgatoire-spirituel",
       question: "Le purgatoire, est-ce une punition ?",
-      reponse: `Non. C’est une miséricorde.→ Les âmes y souffrent, mais vont à Dieu avec joie (St François de Sales).`,
+      reponse: `Non. C’est une miséricorde. Les âmes y souffrent, mais vont à Dieu avec joie (St François de Sales).`,
       scripture: ["Saint François de Sales"]
     } ] },
 
@@ -483,7 +483,7 @@ export const themes: Domaine[] = [
         {
           id: "eglise-et-religion",
           question: "Et l’Église catholique dit quoi ?",
-          reponse: `Le Catéchisme (n°2095) : “La vraie religion consiste en adoration, prière, sacrifice, fidélité à Dieu.” Et (n°44) : “L’homme est religieux par nature, Dieu l’attire vers Lui.” 👉 La relation fait partie de la religion, elle ne s’y oppose pas.`
+          reponse: `Le Catéchisme (n°2095) : “La vraie religion consiste en adoration, prière, sacrifice, fidélité à Dieu.” Et (n°44) : “L’homme est religieux par nature, Dieu l’attire vers Lui.” La relation fait partie de la religion, elle ne s’y oppose pas.`
         }
       ]
     },
@@ -505,7 +505,7 @@ export const themes: Domaine[] = [
         {
           id: "images-bible",
           question: "La Bible interdit-elle vraiment les images religieuses ?",
-          reponse: `Non. Dieu lui-même ordonne des images sacrées : chérubins dans le Temple (1 Rois 6,23-29) et sur l’Arche (Ex 25,18-22). Si Dieu interdit les images, pourquoi en ordonner ? → Ce qui est interdit, c’est l’idolâtrie, pas l’art sacré.`,
+          reponse: `Non. Dieu lui-même ordonne des images sacrées : chérubins dans le Temple (1 Rois 6,23-29) et sur l’Arche (Ex 25,18-22). Si Dieu interdit les images, pourquoi en ordonner ? Ce qui est interdit, c’est l’idolâtrie, pas l’art sacré.`,
           scripture: ["1 Rois 6:23-29", "Exode 25:18-22"]
         },
         {
@@ -534,7 +534,7 @@ export const themes: Domaine[] = [
     }, 
  {
       id: "mediations-saints",
-      titre: "Il n’y a qu’un seul médiateur, Jésus-Christ ! Pourquoi prier les saints ?",
+      titre: "Pourquoi prier les saints ?",
       questions: [
         {
           id: "seul-mediateur",
@@ -569,7 +569,7 @@ export const themes: Domaine[] = [
         {
           id: "eglise-intercession",
           question: "Que dit l’Église ?",
-          reponse: `Catéchisme n°956 : “Les saints nous aident par leur intercession fraternelle.” 👉 Ils ne prennent pas la place du Christ, ils participent à son amour.`
+          reponse: `Catéchisme n°956 : “Les saints nous aident par leur intercession fraternelle.” Ils ne prennent pas la place du Christ, ils participent à son amour.`
         }
       ]
     }
@@ -657,7 +657,7 @@ export const themes: Domaine[] = [
 🟢 Foi révélée (de fide) : doctrine révélée et enseignée unanimement → adhésion obligatoire
 🟡 Conclusion certaine : doctrine solidement appuyée sur la Révélation → adhésion ferme
 🟠 Opinion commune : largement partagée mais non obligatoire → adhésion prudente
-⚪ Opinion personnelle : vue individuelle → libre examen`,
+⚪ Opinion personnelle : vue individuelle, libre examen`,
           scripture: []
         },
         {
@@ -999,7 +999,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "origine-commune",
       "question": "Pourquoi peut-on dire que tous les peuples sont frères ?",
-      "reponse": "Tous viennent d’un même Père, Dieu, qui a fait sortir d’un seul homme toute la race humaine. Cela exclut toute forme de racisme ou de mépris.",
+      "reponse": "Tous viennent d’un même Père, Dieu, qui a fait sortir d’un seul homme toute la race humaine.",
       "scripture": ["Ac 17:26"]
     },
     {
@@ -1065,7 +1065,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "bearn-et-autonomie",
       "question": "Comment le Béarn illustre-t-il le respect d’une identité locale ?",
-      "reponse": "Depuis Fébus et Jeanne d’Albret, le Béarn vivait libre sous Dieu. Sa fidélité à la foi et à ses institutions montre qu’un peuple peut rester lui-même tout en servant Dieu.",
+      "reponse": "Sous Fébus ou Jeanne d’Albret, le Béarn n'était tenu que de Dieu. Fidèle à sa foi et à ses institutions, il montrait qu’un peuple pouvait servir Dieu sans renier son identité. Mais lorsque, sous l’influence maçonnique, les États de Béarn décidèrent de rattacher le pays à la France, tout changea : l’institution des maisons fut détruite, la langue uniformisée, et des politiques anticatholiques et anti-vie furent imposées au Béarn.",
       "scripture": []
     },
     {
@@ -1095,7 +1095,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "femmes-et-foi",
       "question": "Quel rôle les femmes ont-elles eu dans la foi populaire ?",
-      "reponse": "Dans des provinces comme le Béarn, elles furent cheffes de paroisse et gardiennes de la foi. Leur effacement par idéologie a appauvri la vie chrétienne.",
+      "reponse": "Dans des provinces comme le Labourd, elles furent élues cheffes de paroisse, mais exclues par des Parisiens autoproclamés. Leur effacement par idéologie a appauvri la vie chrétienne.",
       "scripture": []
     },
     {
@@ -1136,7 +1136,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
         {
           id: "jesus-prie",
           question: "Quand Jésus prie, il parle à Lui-même ?",
-          reponse: `Non. Si Jésus parle au Père, c’est qu’il n’est pas le Père mais le Fils. Jean 17,5 : « Glorifie-moi de la gloire que j’avais auprès de toi avant que le monde soit. » → Cela implique deux personnes distinctes en relation.`,
+          reponse: `Non. Si Jésus parle au Père, c’est qu’il n’est pas le Père mais le Fils. Jean 17,5 : « Glorifie-moi de la gloire que j’avais auprès de toi avant que le monde soit. » Cela implique deux personnes distinctes en relation.`,
           scripture: ["Jn 17:5"]
         },
         {
@@ -1159,7 +1159,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
         {
           id: "tertullien-trinite",
           question: "Tertullien a inventé la Trinité ?",
-          reponse: `Non, il n’a pas inventé la doctrine, il a seulement inventé le mot “Trinitas” pour exprimer ce que les chrétiens croyaient déjà. La foi trinitaire précède son vocabulaire.`,
+          reponse: `Non, il n’a pas inventé la doctrine, il a seulement inventé le mot “Trinitas” pour exprimer ce que les chrétiens croyaient déjà. La foi trinitaire précède son vocabulaire. L'invetion du mot "oxygène" ne marque pas la naissance de l'oxygène.`,
         },
         {
           id: "nicee-jesus-dieu",
@@ -1169,7 +1169,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
         {
           id: "esprit-saint",
           question: "L’Esprit-Saint n’est-il qu’une force ?",
-          reponse: `Non. Jean 14,26 : le Père envoie l’Esprit au nom du Fils, et l’Esprit enseigne. → Il agit, parle, guide, c’est une Personne divine.`,
+          reponse: `Non. Jean 14,26 : le Père envoie l’Esprit au nom du Fils, et l’Esprit enseigne. Il agit, parle, guide, c’est une Personne divine.`,
           scripture: ["Jn 14:26"]
         },
         {
@@ -1197,7 +1197,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
         {
           id: "unite-pere",
           question: "Jésus et le Père ne sont-ils pas seulement unis symboliquement ?",
-          reponse: `Non. Jésus dit : « Moi et le Père, nous sommes un » (Jean 10,30). Les Juifs répondent : « Tu te fais Dieu », et veulent le tuer → preuve qu’ils avaient bien compris la revendication divine.`,
+          reponse: `Non. Jésus dit : « Moi et le Père, nous sommes un » (Jean 10,30). Les Juifs répondent : « Tu te fais Dieu », et veulent le tuer, preuve qu’ils avaient bien compris la revendication divine.`,
           scripture: ["Jn 10:30"]
         },
         {
@@ -1226,12 +1226,12 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
         {
           id: "foi-premiers-chretiens",
           question: "Où est la preuve que les premiers chrétiens croyaient cela ?",
-          reponse: `La Didachè, Saint Ignace, Justin Martyr, Irénée, tous professent : → Le Christ est Dieu fait homme. Cette foi est apostolique, pas une invention tardive.`,
+          reponse: `La Didachè, Saint Ignace, Justin Martyr, Irénée, tous professent : Le Christ est Dieu fait homme. Cette foi est apostolique, pas une invention tardive.`,
         },
         {
           id: "tradition",
           question: "La Bible suffit, pas besoin de Tradition !",
-          reponse: `La Bible provient de la Tradition apostolique. Saint Paul dit : « Tenez fermes les traditions reçues, soit par notre parole, soit par notre lettre » (2 Th 2,15). → Il y a Écriture + Tradition, pas Écriture seule.`,
+          reponse: `La Bible provient de la Tradition apostolique. Saint Paul dit : « Tenez fermes les traditions reçues, soit par notre parole, soit par notre lettre » (2 Th 2,15). Il y a Écriture + Tradition, pas Écriture seule.`,
           scripture: ["2 Th 2:15"]
         }
       ]
@@ -1257,7 +1257,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
         },
         {
           id: "constantin-catholique",
-          question: "Constantin était catholique alors ?",
+          question: "Constantin était un modèle catholique ?",
           reponse: `Il a été baptisé sur son lit de mort par un arien, un hérétique. Donc il n’était pas modèle de doctrine catholique.`,
         },
         {
