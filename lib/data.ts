@@ -822,12 +822,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
   "id": "avortement-partie1",
   "titre": "Contre la fermeture du cœur : l’amour dans la vérité",
   "questions": [
-    {
-      "id": "histoire-ideologique",
-      "question": "Quel lien historique entre idéologies révolutionnaires et la légalisation de l'avortement ?",
-      "reponse": "Certaines révolutions antireligieuses ont promu des réformes familiales pour modifier les mœurs et affaiblir l’influence de l’Église. Lénine, dans le contexte bolchevik, a soutenu l’émancipation des femmes en rupture avec l’ordre traditionnel ; Staline a ensuite corrigé certains excès pour favoriser la natalité. Ces changements montrent que la légalisation peut être instrumentalisée politiquement, pour des motifs démographiques, idéologiques ou anti-religieux, et qu’il faut donc regarder les conséquences humaines, pas seulement l’idéologie qui la promeut.",
-      "scripture": []
-    },
+   
     {
       "id": "biologie-embryon",
       "question": "L’embryon a-t-il une vie biologique distincte dès la fécondation ?",
@@ -1207,6 +1202,12 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
       "question": "Existe-t-il une alternative morale à la contraception ?",
       "reponse": "Oui, les méthodes naturelles respectent à la fois le corps, la liberté et la vérité du mariage. Elles demandent dialogue, discipline et respect mutuel, vertus qui fortifient le couple. Là où la contraception sépare, la chasteté unit.",
       "scripture": ["1 Co 13:4-7", "Mt 19:6"]
+    },
+     {
+      "id": "histoire-ideologique",
+      "question": "Quel lien historique entre idéologies révolutionnaires et la légalisation de l'avortement ?",
+      "reponse": "Certaines révolutions antireligieuses ont promu des réformes familiales pour modifier les mœurs et affaiblir l’influence de l’Église. Lénine, dans le contexte bolchevik, a soutenu l’émancipation des femmes en rupture avec l’ordre traditionnel ; Staline a ensuite corrigé certains excès pour favoriser la natalité. Ces changements montrent que la légalisation peut être instrumentalisée politiquement, pour des motifs démographiques, idéologiques ou anti-religieux, et qu’il faut donc regarder les conséquences humaines, pas seulement l’idéologie qui la promeut.",
+      "scripture": []
     }
   ]
 },
