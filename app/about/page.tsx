@@ -4,19 +4,19 @@ export default function AProposPage() {
       id: 'ecrits-catholiques',
       titre: '📚 Écrits Catholiques',
       description: "Découvrez les textes des Pères et Docteurs de l'Église, méditations et enseignements pour approfondir la foi.",
-      url: 'https://tesite-ecrits-catholiques.com',
+      url: 'https://www.sourcetheologique.com/',
     },
     {
       id: 'bearn',
       titre: '🏰 Le Béarn Chrétien',
       description: "Plongez dans l'histoire chrétienne du Béarn, ses églises, traditions et patrimoine spirituel.",
-      url: 'https://tesite-bearn.com',
+      url: 'https://bearn.vercel.app/',
     },
     {
       id: 'youtube-catholicisme',
       titre: '🎬 Chaîne YouTube Catholicisme',
       description: "Films, histoires et vidéos sur la foi catholique, pour partager et comprendre la spiritualité chrétienne.",
-      url: 'https://www.youtube.com/c/tachaine',
+      url: 'https://www.youtube.com/@france_jeunesse',
     },
   ];
 
