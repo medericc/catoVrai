@@ -744,32 +744,25 @@ mais nous ne serons pas sauvés sans elles.
         {
           id: "pères-definition-1",
           question: "Qui sont les Pères de l'Église et quel rôle jouent-ils ?",
-          reponse: `Les Pères de l'Église sont des écrivains ecclésiastiques des premiers siècles, reconnus pour leur doctrine orthodoxe, leur sainteté de vie et leur fidélité à la Tradition apostolique. 
-Ils transmettent la foi reçue des Apôtres, souvent de manière orale et liturgique, avant même la fixation du canon biblique. 
-Certains sont reconnus explicitement, d'autres implicitement par l'usage constant de leurs écrits.`,
+          reponse: `Les Pères de l'Église sont des écrivains ecclésiastiques des premiers siècles, reconnus pour leur doctrine orthodoxe, leur sainteté de vie et leur fidélité à la Tradition apostolique. Ils transmettent la foi reçue des Apôtres, souvent de manière orale et liturgique, avant même la fixation du canon biblique. Certains sont reconnus explicitement, d'autres implicitement par l'usage constant de leurs écrits.`,
           scripture: []
         },
         {
           id: "pères-autorité-1",
           question: "Quelle est l'autorité des Pères de l'Église ?",
-          reponse: `Les Pères sont des témoins autorisés de la foi, mais non infaillibles individuellement. 
-Saint Augustin et saint Thomas d'Aquin enseignent que leurs écrits doivent être interprétés avec révérence et sous l'autorité de l'Église. 
-Leur accord unanime dans la foi manifeste la Tradition vivante de l'Église.`,
+          reponse: `Les Pères sont des témoins autorisés de la foi, mais non infaillibles individuellement. Saint Augustin et saint Thomas d'Aquin enseignent que leurs écrits doivent être interprétés avec révérence et sous l'autorité de l'Église. Leur accord unanime dans la foi manifeste la Tradition vivante de l'Église.`,
           scripture: []
         },
         {
           id: "consensus-patrum-1",
           question: "Qu'est-ce que le consensus patrum et comment se manifeste-t-il ?",
-          reponse: `Le consensus patrum est l'accord unanime des Pères sur un point de foi ou de morale, signe certain de la Tradition apostolique.
-Méthode directe : accord explicite sur un point de foi.
-Méthode indirecte : réception universelle dans l'Église par la liturgie, la catéchèse ou les conciles locaux.`,
+          reponse: `Le consensus patrum est l'accord unanime des Pères sur un point de foi ou de morale, signe certain de la Tradition apostolique. Méthode directe : accord explicite sur un point de foi. Méthode indirecte : réception universelle dans l'Église par la liturgie, la catéchèse ou les conciles locaux.`,
           scripture: []
         },
         {
           id: "consensus-domaine",
           question: "Quel est le domaine du consensus des Pères ?",
-          reponse: `Le consensus patrum concerne uniquement la foi et la morale, ce qui touche au salut et à la vie chrétienne. 
-Il ne s'applique pas aux opinions personnelles sur des sujets temporels comme la géographie ou la science.`,
+          reponse: `Le consensus patrum concerne uniquement la foi et la morale, ce qui touche au salut et à la vie chrétienne. Il ne s'applique pas aux opinions personnelles sur des sujets temporels comme la géographie ou la science.`,
           scripture: []
         },
         {
@@ -785,26 +778,20 @@ Il ne s'applique pas aux opinions personnelles sur des sujets temporels comme la
         {
           id: "magistere-equilibre-1",
           question: "Comment l'Église équilibre-t-elle le rôle des Pères et le Magistère ?",
-          reponse: `Le Magistère ne remplace pas les Pères mais interprète leur témoignage. 
-Les Pères sont les témoins de la foi apostolique, le Magistère en garantit l'authenticité et l'interprétation, comme le rappelle saint Vincent de Lérins : "Tenir ce qui a été cru partout, toujours et par tous."`,
+          reponse: `Le Magistère ne remplace pas les Pères mais interprète leur témoignage. Les Pères sont les témoins de la foi apostolique, le Magistère en garantit l'authenticité et l'interprétation, comme le rappelle saint Vincent de Lérins : "Tenir ce qui a été cru partout, toujours et par tous."`,
           scripture: []
         },
         {
           id: "parole-de-dieu-1",
           question: "Comment l'Écriture, la Tradition et le Magistère se complètent-ils ?",
-          reponse: `La Parole de Dieu se trouve dans la Sainte Écriture, la Tradition et le Magistère. 
-- L'Écriture : parole écrite inspirée
-- La Tradition : parole transmise oralement et vécue depuis les apôtres
-- Le Magistère : interprète authentique, au service de la Parole
+          reponse: `La Parole de Dieu se trouve dans la Sainte Écriture (parole écrite inspirée), la Tradition (parole transmise oralement et vécue depuis les apôtres) et le Magistère (interprète authentique, au service de la Parole). 
 Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
           scripture: ["1 Tim 3:15"]
         },
         {
           id: "consensus-synthese-1",
           question: "Que nous enseigne le consensus des Pères de l'Église ?",
-          reponse: `Le consensus des Pères n'est pas une autorité concurrente du Magistère, mais un témoignage de la Tradition vivante.
-Les Pères témoignent, le Magistère interprète, l'Église enseigne, et l'Esprit Saint garde la vérité. 
-Ainsi, la foi catholique est la continuité historique et spirituelle de la foi des Apôtres.`,
+          reponse: `Le consensus des Pères n'est pas une autorité concurrente du Magistère, mais un témoignage de la Tradition vivante. Les Pères témoignent, le Magistère interprète, l'Église enseigne, et l'Esprit Saint garde la vérité. Ainsi, la foi catholique est la continuité historique et spirituelle de la foi des Apôtres.`,
           scripture: []
         }
       ]
