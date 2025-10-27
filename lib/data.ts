@@ -1068,12 +1068,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
       "reponse": "La loi positive définit le cadre juridique, mais elle n'établit pas automatiquement la vérité morale. Beaucoup de lois injustes ont existé. Les chrétiens sont appelés à discerner et, si nécessaire, à obéir à Dieu plutôt qu'aux hommes (Actes 5:29) tout en travaillant pacifiquement à changer les lois injustes par les voies civiques.",
       "scripture": ["Acts 5:29", "Mt 22:21"]
     },
-    {
-      "id": "etat-machine-a-tuer",
-      "question": "Peut-on dire que 'la république est une machine à tuer' quand elle légalise l'IVG ou l'euthanasie ?",
-      "reponse": "C'est une formule forte mais reductrice. Les États prennent parfois des lois contraires à la morale ; cela justifie la critique et la résistance non violente. Toutefois, il faut distinguer les institutions (qui peuvent être amendées) des personnes, et agir par l'engagement civique, l'éducation et la solidarité plutôt que par la haine.",
-      "scripture": []
-    },
+   
     {
       "id": "decider-pour-autrui",
       "question": "Qui es-tu pour décider de la vie des autres ?",
@@ -1151,6 +1146,67 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
       "question": "Pourquoi est-il utile de connaître ces acteurs et cette histoire dans le débat pro-vie en France ?",
       "reponse": "Connaître l’histoire de la contraception et des influences idéologiques permet de comprendre les racines des lois actuelles, de discerner les stratégies d’influence et de mieux défendre une vision de la dignité humaine. Cela aide aussi à contester la prétention de neutralité : toute loi a des philosophies sous-jacentes. Être informé, c’est ne pas tomber dans la manipulation.",
       "scripture": []
+    },
+      {
+      "id": "contraception-definition",
+      "question": "La contraception permet aux femmes de ne plus subir la biologie ?",
+      "reponse": "En réalité, c’est une rébellion contre l’ordre naturel voulu pour la fécondité. Le corps féminin n’est pas une prison, mais un don. Vouloir le neutraliser revient à nier le sens même de la sexualité, qui unit amour et vie.",
+      "scripture": ["Gen 1:27-28", "Ps 139:13-16"]
+    },
+    {
+      "id": "sexualite-procreation",
+      "question": "Quel est le lien entre sexualité et procréation ?",
+      "reponse": "La sexualité n’est pas un simple plaisir, elle a un sens : l’union des époux et la transmission de la vie. Séparer volontairement sexualité et procréation, c’est détourner ce don de son but. C’est comme manger sans faim ou se gaver de gâteau sans raison : un désordre moral qui finit par asservir plutôt que libérer.",
+      "scripture": ["Gn 2:24", "1 Co 6:18-20"]
+    },
+    {
+      "id": "emancipation-femme",
+      "question": "La pilule, un instrument d’émancipation ?",
+      "reponse": "Elle a souvent servi à conformer les femmes à un modèle masculin de performance et de productivité, au lieu de valoriser leur maternité. La vraie liberté, ce n’est pas d’effacer sa nature, mais de l’aimer et de l’ordonner à la vérité du don de soi.",
+      "scripture": ["Jn 8:32"]
+    },
+    {
+      "id": "pudeur-respect",
+      "question": "La contraception protège-t-elle la dignité de la femme ?",
+      "reponse": "En banalisant la sexualité, la contraception favorise la promiscuité et le détachement. Là où la chasteté élève, la contraception réduit. Le respect du corps et de l’amour passe par la maîtrise de soi, non par la chimie.",
+      "scripture": ["1 Th 4:3-5", "Mt 5:8"]
+    },
+    {
+      "id": "enfant-don",
+      "question": "Pourquoi dire que l’enfant est un don et non un projet ?",
+      "reponse": "L’enfant n’est pas un produit planifié selon la convenance des adultes. Chaque vie est voulue par Dieu, unique, et porte une vocation. Le réduire à un objet revient à s’ériger en maître de la vie. Accueillir la vie, même imprévue, c’est accueillir Dieu Lui-même, source de toute existence.",
+      "scripture": ["Ps 127:3", "Jn 1:4"]
+    },
+    {
+      "id": "contraception-et-ordre-naturel",
+      "question": "Pourquoi la contraception est-elle contraire à l’ordre naturel ?",
+      "reponse": "L’ordre naturel unit les fonctions du corps à leur finalité. Neutraliser la fécondité, c’est introduire une rupture dans cet ordre. Ce n’est pas une question de biologie froide, mais de vérité : chaque acte sexuel a un sens, celui d’un amour ouvert à la vie. Le nier, c’est désordonner l’amour lui-même.",
+      "scripture": ["Rm 1:26-27", "Sg 13:1-3"]
+    },
+    {
+      "id": "protection-sante",
+      "question": "Les préservatifs ne sont-ils pas nécessaires pour éviter les maladies ?",
+      "reponse": " Le remède aux infections, c’est la fidélité et la chasteté. Remplacer la responsabilité par le latex, c’est traiter la conséquence, pas la cause. La santé du corps passe aussi par la santé de l’âme.",
+      "scripture": ["1 Co 6:19-20"]
+    },
+    {
+      "id": "controle-naissance-societe",
+      "question": "Limiter les naissances n’aide-t-il pas à réduire la pauvreté ?",
+      "reponse": "Cette logique vient d’une vision matérialiste où la personne devient un fardeau économique. Mais chaque vie humaine est une richesse spirituelle et sociale. Les sociétés qui rejettent la fécondité se condamnent à la stérilité morale et démographique. Aider les pauvres, ce n’est pas leur interdire d’avoir des enfants, c’est soutenir leurs familles.",
+      "scripture": ["Mt 6:33", "Ps 127:1-5"]
+    },
+   
+    {
+      "id": "vie-spirituelle",
+      "question": "Quel impact la contraception a-t-elle sur la vie spirituelle ?",
+      "reponse": "En supprimant la fécondité, elle ferme le cœur à la providence. La fécondité naturelle apprend la confiance en Dieu, la maîtrise de soi, et la coopération à la création. En refusant cette ouverture, on réduit l’amour à un calcul et on perd la joie de la dépendance à Dieu. Le refus de la vie est un refus de Dieu Lui-même.",
+      "scripture": ["Dt 30:19", "Jn 10:10"]
+    },
+    {
+      "id": "chastete-naturelle",
+      "question": "Existe-t-il une alternative morale à la contraception ?",
+      "reponse": "Oui, les méthodes naturelles respectent à la fois le corps, la liberté et la vérité du mariage. Elles demandent dialogue, discipline et respect mutuel, vertus qui fortifient le couple. Là où la contraception sépare, la chasteté unit.",
+      "scripture": ["1 Co 13:4-7", "Mt 19:6"]
     }
   ]
 }
