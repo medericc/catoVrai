@@ -820,7 +820,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
 
     {
   "id": "avortement-partie1",
-  "titre": "Questions-Réponses — arguments et enjeux (partie 1)",
+  "titre": "Contre la fermeture du cœur : l’amour dans la vérité",
   "questions": [
     {
       "id": "histoire-ideologique",
@@ -1209,7 +1209,137 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
       "scripture": ["1 Co 13:4-7", "Mt 19:6"]
     }
   ]
+},
+
+{
+  "id": "unite-et-diversite-des-peuples",
+  "titre": "Contre la discrimination : l’unité dans la diversité",
+  "questions": [
+    {
+      "id": "creation-image-dieu",
+      "question": "Que signifie être créés à l'image de Dieu ?",
+      "reponse": "Chaque être humain porte en lui la dignité divine, car il reflète Dieu dans son intelligence, sa liberté et sa capacité d'aimer. Cela fonde l'égalité de tous les peuples.",
+      "scripture": ["Gn 1:26-27"]
+    },
+    {
+      "id": "origine-commune",
+      "question": "Pourquoi peut-on dire que tous les peuples sont frères ?",
+      "reponse": "Tous viennent d’un même Père, Dieu, qui a fait sortir d’un seul homme toute la race humaine. Cela exclut toute forme de racisme ou de mépris.",
+      "scripture": ["Ac 17:26"]
+    },
+    {
+      "id": "diversite-sanctifiee",
+      "question": "Comment Dieu sanctifie-t-il la diversité des peuples ?",
+      "reponse": "À la Pentecôte, Dieu ne supprime pas les langues mais les unit dans l'Esprit Saint. L’unité chrétienne ne détruit pas la diversité, elle la transfigure.",
+      "scripture": ["Ac 2:1-11"]
+    },
+    {
+      "id": "vocation-des-peuples",
+      "question": "Chaque peuple a-t-il une vocation propre ?",
+      "reponse": "Oui, chaque peuple possède une mission unique dans l’histoire du salut, enracinée dans sa culture, sa langue et sa foi héritée.",
+      "scripture": []
+    },
+    {
+      "id": "egalite-et-diversite",
+      "question": "Comment concilier égalité et diversité ?",
+      "reponse": "Tous sont égaux en dignité, mais différents dans leur mission. Dieu ne copie pas, il crée. L’unité chrétienne est communion, non uniformité.",
+      "scripture": ["Ga 3:28"]
+    },
+    {
+      "id": "eglise-et-cultures",
+      "question": "L’Église cherche-t-elle à effacer les cultures ?",
+      "reponse": "Non, elle les baptise. Elle purifie ce qui est contraire à l’Évangile et fait porter du fruit à ce qui est bon et beau dans chaque culture.",
+      "scripture": ["Mt 28:19"]
+    },
+    {
+      "id": "foi-et-raison",
+      "question": "Comment la foi s’accorde-t-elle avec la raison et les cultures ?",
+      "reponse": "La foi éclaire la raison sans la détruire, comme l’a rappelé Benoît XVI à Ratisbonne : la lumière du Christ transfigure les cultures sans les nier.",
+      "scripture": []
+    },
+    {
+      "id": "eglise-et-nations",
+      "question": "Que disent les textes du Concile Vatican II sur les nations ?",
+      "reponse": "Gaudium et Spes et Nostra Aetate affirment la dignité de chaque peuple et la valeur de ses traditions, car Dieu agit dans toutes les cultures.",
+      "scripture": []
+    },
+    {
+      "id": "justice-et-domination",
+      "question": "Que dit la Bible sur la domination injuste entre les peuples ?",
+      "reponse": "Les prophètes condamnent toute oppression et toute exploitation. La domination d’un peuple sur un autre est un péché contre la justice divine.",
+      "scripture": ["Is 10:1-3", "Am 5:11-15"]
+    },
+    {
+      "id": "eglise-et-totalitarismes",
+      "question": "Comment l'Église a-t-elle réagi face aux totalitarismes et génocides ?",
+      "reponse": "Elle les a dénoncés comme des atteintes à l’image de Dieu dans les peuples : Holodomor, Vendée, colonisations destructrices, déportations basques…",
+      "scripture": []
+    },
+    {
+      "id": "peche-contre-les-nations",
+      "question": "Que veut dire 'péché structurel contre la vie des nations' ?",
+      "reponse": "Jean-Paul II dénonçait toute idéologie qui détruit la mémoire, la langue ou la foi d’un peuple : c’est un péché contre l’ordre voulu par Dieu.",
+      "scripture": []
+    },
+    {
+      "id": "imperialisme-et-racisme",
+      "question": "Pourquoi le racisme et l'impérialisme sont-ils liés ?",
+      "reponse": "Parce qu’ils veulent effacer l’identité d’un peuple pour imposer une vision unique. C’est une forme de haine de l’altérité et de l’image divine.",
+      "scripture": []
+    },
+    {
+      "id": "bearn-et-autonomie",
+      "question": "Comment le Béarn illustre-t-il le respect d’une identité locale ?",
+      "reponse": "Depuis Fébus et Jeanne d’Albret, le Béarn vivait libre sous Dieu. Sa fidélité à la foi et à ses institutions montre qu’un peuple peut rester lui-même tout en servant Dieu.",
+      "scripture": []
+    },
+    {
+      "id": "droit-des-peuples",
+      "question": "Pourquoi le droit des peuples à exister est-il chrétien ?",
+      "reponse": "Jean XXIII, dans Pacem in Terris, affirme que chaque nation a droit à la vie, à la culture et à la liberté dans la vérité.",
+      "scripture": []
+    },
+    {
+      "id": "memoire-et-laicite",
+      "question": "Pourquoi l’effacement de la mémoire chrétienne est-il dangereux ?",
+      "reponse": "La laïcité militante qui nie les racines chrétiennes coupe un peuple de son âme. Oublier Dieu, c’est oublier l’homme.",
+      "scripture": ["Ps 9:18"]
+    },
+    {
+      "id": "fraternite-et-cultures",
+      "question": "Quelle est la vraie fraternité chrétienne entre les peuples ?",
+      "reponse": "Elle reconnaît chaque culture comme un don de Dieu, à protéger et à sanctifier. L’unité vient de la charité, non de la contrainte.",
+      "scripture": ["Jn 17:21"]
+    },
+    {
+      "id": "destruction-des-traditions",
+      "question": "Comment les élites ont-elles contribué à déraciner les peuples ?",
+      "reponse": "Souvent financées par des intérêts matérialistes, elles ont imposé des lois contraires à la tradition : laïcité agressive, destruction de la famille, uniformisation culturelle.",
+      "scripture": []
+    },
+    {
+      "id": "femmes-et-foi",
+      "question": "Quel rôle les femmes ont-elles eu dans la foi populaire ?",
+      "reponse": "Dans des provinces comme le Béarn, elles furent cheffes de paroisse et gardiennes de la foi. Leur effacement par idéologie a appauvri la vie chrétienne.",
+      "scripture": []
+    },
+    {
+      "id": "trinite-et-humanite",
+      "question": "Quel modèle la Trinité donne-t-elle pour l’unité humaine ?",
+      "reponse": "Un seul Dieu en trois Personnes : unité parfaite sans confusion. L’humanité doit refléter cette communion où chaque peuple garde sa place.",
+      "scripture": ["Jn 17:21", "Mt 28:19"]
+    },
+    {
+      "id": "ame-des-peuples",
+      "question": "Chaque peuple a-t-il une 'âme' selon Pie XII ?",
+      "reponse": "Oui, dans Summi Pontificatus, il enseigne que chaque nation possède une vocation spirituelle propre. Détruire cela, c’est blesser l’ordre voulu par Dieu.",
+      "scripture": []
+    }
+  ]
 }
+
+
+
   ]
 },
 
