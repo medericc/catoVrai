@@ -1000,14 +1000,14 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
     {
       "id": "loi-et-definitions",
       "question": "La loi d'un État peut-elle définir moralement ce qui est meurtre ?",
-      "reponse": "La loi positive définit le cadre juridique, mais elle n'établit pas automatiquement la vérité morale. Beaucoup de lois injustes ont existé. Les chrétiens sont appelés à discerner et, si nécessaire, à obéir à Dieu plutôt qu'aux hommes (Actes 5:29) tout en travaillant pacifiquement à changer les lois injustes par les voies civiques.",
+      "reponse": "Beaucoup de lois injustes existent et ont existé. Les chrétiens sont appelés à discerner et, si nécessaire, à obéir à Dieu plutôt qu'aux hommes (Actes 5:29) tout en travaillant pacifiquement à changer les lois injustes par les voies civiques.",
       "scripture": ["Acts 5:29", "Mt 22:21"]
     },
    
     {
       "id": "decider-pour-autrui",
       "question": "Qui es-tu pour décider de la vie des autres ?",
-      "reponse": "La conviction pro-vie affirme que la vie humaine a une dignité intrinsèque qui fonde une responsabilité collective : protéger les vulnérables n'est pas une arrogance mais une obligation morale. L'appel est à la responsabilité commune, État, société, familles, pour défendre ceux qui ne peuvent se défendre eux-mêmes.",
+      "reponse": "La vie humaine possède une dignité intrinsèque qui fonde une responsabilité collective : protéger les plus vulnérables n’est pas une arrogance, mais un devoir moral. Même sous Robespierre, on épargnait les femmes enceintes, car l’enfant qu’elles portaient était innocent.",
       "scripture": ["Prov 31:8-9"]
     },
     {
@@ -1016,18 +1016,8 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
       "reponse": "La vie est avant tout un don reçu. Les choix humains interviennent dans la manière dont on la reçoit, la protège ou la rejette. La foi chrétienne voit la vie comme une vocation confiée par Dieu : elle n'est pas une marchandise ou un simple 'choix' isolé, mais un bien à accueillir et à soutenir.",
       "scripture": ["Jn 14:6"]
     },
-    {
-      "id": "republqiue-raisonnement-circulaire",
-      "question": "Les institutions modernes (république, droits de l'homme) sont-elles défendables sans raisonnement circulaire ?",
-      "reponse": "Les institutions se justifient par des principes (dignité, égalité, liberté) qui trouvent des fondements philosophiques et religieux. Leur critique est légitime quand elles dévient du bien commun. La voie chrétienne est de questionner, corriger et proposer des alternatives conformes à la dignité humaine, plutôt que de rejeter systématiquement tout l'édifice institutionnel.",
-      "scripture": ["Rom 13:1-7"]
-    },
-    {
-      "id": "racisme-et-deni",
-      "question": "Nier le racisme, est-ce ne pas détruire des identités ?",
-      "reponse": "Nier l'existence du racisme, ou inverser les termes, ne résout rien. La justice chrétienne appelle à la reconnaissance de la dignité de chaque personne et à la lutte contre toute forme d'injustice ou d'effacement des peuples. Le débat politique doit protéger la diversité humaine sans tomber dans la haine.",
-      "scripture": ["Gal 3:28"]
-    },
+   
+  
     {
       "id": "voter-et-responsabilite",
       "question": "Voter pour une république qui légifère sur la vie, est-ce consentir à l'avortement ?",
