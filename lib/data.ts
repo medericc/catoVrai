@@ -286,85 +286,73 @@ export const themes: Domaine[] = [
     {
       id: "foi-seule",
       question: "Sommes-nous sauvés par la foi seule ?",
-      reponse: `Non. L’Écriture dit : « L’homme est justifié par les œuvres et non par la foi seulement » (Jac 2,24).
-→ La foi sauve si elle est vivante, c’est-à-dire agissante par la charité (Gal 5,6).`,
+      reponse: `Non. L’Écriture dit : « L’homme est justifié par les œuvres et non par la foi seulement » (Jac 2,24). → La foi sauve si elle est vivante, c’est-à-dire agissante par la charité (Gal 5,6).`,
       scripture: ["Jacques 2:24", "Galates 5:6"]
     },
     {
       id: "foi-oeuvres",
       question: "Mais les œuvres ne servent à rien pour être sauvés ?",
-      reponse: `Les œuvres ne "gagnent" pas le salut, elles en sont la preuve.
-→ « La foi sans les œuvres est morte » (Jac 2,26).`,
+      reponse: `Les œuvres ne "gagnent" pas le salut, elles en sont la preuve. → « La foi sans les œuvres est morte » (Jac 2,26).`,
       scripture: ["Jacques 2:26"]
     },
     {
       id: "jugement",
       question: "Jésus ne juge-t-il pas selon la foi ?",
-      reponse: `Au jugement dernier, Jésus sépare selon les œuvres de charité :
-« J’avais faim, et vous m’avez donné à manger… » (Mt 25,35).`,
+      reponse: `Au jugement dernier, Jésus sépare selon les œuvres de charité : « J’avais faim, et vous m’avez donné à manger… » (Mt 25,35).`,
       scripture: ["Matthieu 25:35"]
     },
     {
       id: "romains",
       question: "Mais Paul dit que la foi suffit (Rom 3,28) !",
-      reponse: `Paul parle des œuvres de la Loi, pas des œuvres de charité.
-→ Le salut vient de la grâce, mais se vit dans l’amour concret.`,
+      reponse: `Paul parle des œuvres de la Loi, pas des œuvres de charité. → Le salut vient de la grâce, mais se vit dans l’amour concret.`,
       scripture: ["Romains 3:28"]
     },
     {
       id: "cooperation",
       question: "Si tout vient de Dieu, pourquoi coopérer ?",
-      reponse: `« Travaillez à votre salut... car c’est Dieu qui agit en vous. » (Ph 2,12-13)
-→ Dieu sauve, mais sans notre réponse libre, la grâce reste stérile.`,
+      reponse: `« Travaillez à votre salut... car c’est Dieu qui agit en vous. » (Ph 2,12-13) → Dieu sauve, mais sans notre réponse libre, la grâce reste stérile.`,
       scripture: ["Philippiens 2:12-13"]
     },
     {
       id: "foi-morte",
       question: "Une foi sans amour peut-elle sauver ?",
-      reponse: `Non. « Si je n’ai pas la charité, je ne suis rien. » (1 Cor 13,2)
-→ La foi véritable se traduit en amour et en actes.`,
+      reponse: `Non. « Si je n’ai pas la charité, je ne suis rien. » (1 Cor 13,2) → La foi véritable se traduit en amour et en actes.`,
       scripture: ["1 Corinthiens 13:2"]
     },
     {
       id: "purgatoire-definition",
       question: "Qu’est-ce que le purgatoire ?",
-      reponse: `Ce n’est pas une deuxième chance, mais une purification pour les âmes sauvées,
-afin qu’elles soient entièrement purifiées avant de voir Dieu.`,
+      reponse: `Ce n’est pas une deuxième chance, mais une purification pour les âmes sauvées, afin qu’elles soient entièrement purifiées avant de voir Dieu.`,
       scripture: ["Catéchisme §1030"]
     },
     {
       id: "purgatoire-bible",
       question: "Le purgatoire est-il biblique ?",
-      reponse: `Oui. « Il sera sauvé, mais comme à travers le feu. » (1 Cor 3,15)
-→ Une purification après la mort pour ceux qui sont sauvés.`,
+      reponse: `Oui. « Il sera sauvé, mais comme à travers le feu. » (1 Cor 3,15) → Une purification après la mort pour ceux qui sont sauvés.`,
       scripture: ["1 Corinthiens 3:15"]
     },
     {
       id: "priere-morts",
       question: "Pourquoi prier pour les morts ?",
-      reponse: `« C’est une pensée sainte et pieuse de prier pour les morts. » (2 Macc 12,46)
-→ La prière aide les âmes en purification.`,
+      reponse: `« C’est une pensée sainte et pieuse de prier pour les morts. » (2 Macc 12,46) → La prière aide les âmes en purification.`,
       scripture: ["2 Maccabées 12:46"]
     },
     {
       id: "monde-avenir",
       question: "Y a-t-il un pardon possible après la mort ?",
-      reponse: `Jésus dit : « Certains péchés ne seront pardonnés ni en ce monde ni dans l’autre. » (Mt 12,32)
-→ Donc, d’autres peuvent l’être dans l’autre monde.`,
+      reponse: `Jésus dit : « Certains péchés ne seront pardonnés ni en ce monde ni dans l’autre. » (Mt 12,32) → Donc, d’autres peuvent l’être dans l’autre monde.`,
       scripture: ["Matthieu 12:32"]
     },
     {
       id: "purete",
       question: "Pourquoi une purification est-elle nécessaire ?",
-      reponse: `« Rien d’impur n’entrera dans la cité de Dieu. » (Ap 21,27)
-→ Le purgatoire rend l’âme parfaitement pure pour le Ciel.`,
+      reponse: `« Rien d’impur n’entrera dans la cité de Dieu. » (Ap 21,27) → Le purgatoire rend l’âme parfaitement pure pour le Ciel.`,
       scripture: ["Apocalypse 21:27"]
     },
     {
       id: "grace-croix",
       question: "Le purgatoire diminue-t-il la croix du Christ ?",
-      reponse: `Non. Il en applique la grâce purificatrice.
-→ Jésus sauve, le purgatoire sanctifie totalement.`,
+      reponse: `Non. Il en applique la grâce purificatrice. → Jésus sauve, le purgatoire sanctifie totalement.`,
       scripture: ["Hébreux 12:14"]
     },
     {
@@ -376,23 +364,19 @@ afin qu’elles soient entièrement purifiées avant de voir Dieu.`,
     {
       id: "justice-imputee",
       question: "Les protestants disent : 'Dieu nous couvre, sans nous changer'.",
-      reponse: `La Bible enseigne une justice transformante, pas seulement déclarée.
-→ Le salut nous rend saints réellement, non juste “couverts”.`,
+      reponse: `La Bible enseigne une justice transformante, pas seulement déclarée. → Le salut nous rend saints réellement, non juste “couverts”.`,
       scripture: ["2 Corinthiens 5:17", "Hébreux 12:14"]
     },
     {
       id: "foi-oeuvres-resume",
       question: "Foi et œuvres, comment les unir ?",
-      reponse: `Nous ne sommes pas sauvés par nos œuvres,
-mais nous ne serons pas sauvés sans elles.
-→ La foi ouvre le cœur, les œuvres le remplissent d’amour.`,
+      reponse: `Nous ne sommes pas sauvés par nos œuvres, mais nous ne serons pas sauvés sans elles. → La foi ouvre le cœur, les œuvres le remplissent d’amour.`,
       scripture: ["Jacques 2:26", "Galates 5:6"]
     },
     {
       id: "purgatoire-spirituel",
       question: "Le purgatoire, est-ce une punition ?",
-      reponse: `Non. C’est une miséricorde.
-→ Les âmes y souffrent, mais vont à Dieu avec joie (St François de Sales).`,
+      reponse: `Non. C’est une miséricorde.→ Les âmes y souffrent, mais vont à Dieu avec joie (St François de Sales).`,
       scripture: ["Saint François de Sales"]
     } ] },
 
@@ -758,13 +742,13 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
 } ,
     {
       "id": "couts-sociaux",
-      "question": "Les coûts d’un accouchement pèsent-ils sur la société et peuvent-ils justifier l’avortement ?",
+      "question": "Les coûts d’un accouchement peuvent-ils justifier l’avortement ?",
       "reponse": "Les coûts de la maternité existent et sont réels, mais réduire la question humaine à un calcul économique est réducteur. Une société digne considère la personne comme un sujet et non comme une charge ; elle investit dans l’accompagnement des familles, la santé maternelle et l’aide aux plus vulnérables pour que la grossesse ne devienne pas une condamnation socio-économique.",
       "scripture": []
     },
     {
       "id": "impact-travail",
-      "question": "L’avortement facilite-t-il l’intégration des femmes au travail ou les réduit-il à des 'rouages' économiques ?",
+      "question": "L’avortement facilite-t-il l’intégration des femmes au travail, des 'rouages' économiques ?",
       "reponse": "Sur le court terme, l’accès à la contraception et à l’IVG peut diminuer les interruptions de carrière imprévues. Mais considérer cela comme principal objectif risque de réduire la maternité à une variable économique. Une vraie politique de justice sociale doit concilier la dignité du travail, l’accompagnement familial (congés, garde d’enfants, sécurité sociale) et le respect de la vie, afin que la femme ne soit ni forcée à la grossesse, ni incitée à la supprimer pour 'fonctionner' économiquement.",
       "scripture": []
     },
@@ -995,7 +979,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     },
      {
       "id": "histoire-ideologique",
-      "question": "Quel lien historique entre idéologies révolutionnaires et la légalisation de l'avortement ?",
+      "question": "Quel lien historique entre idéologies et la légalisation de l'avortement ?",
       "reponse": "Certaines révolutions antireligieuses ont promu des réformes familiales pour modifier les mœurs et affaiblir l’influence de l’Église. Lénine, dans le contexte bolchevik, a soutenu l’émancipation des femmes en rupture avec l’ordre traditionnel ; Staline a ensuite corrigé certains excès pour favoriser la natalité. Ces changements montrent que la légalisation peut être instrumentalisée politiquement, pour des motifs démographiques, idéologiques ou anti-religieux, et qu’il faut donc regarder les conséquences humaines, pas seulement l’idéologie qui la promeut.",
       "scripture": []
     }
