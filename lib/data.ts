@@ -842,13 +842,7 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
       "scripture": ["Ps 139:13-16"]
     },
    
-{
-  "id": "temoignage-abby-johnson",
-  "question": "Pourquoi Abby Johnson s’est-elle retournée contre l’avortement ?",
-  "reponse": "Abby Johnson, après avoir subi deux avortements et dirigé un centre d’IVG, a fini par découvrir la face cachée de ce système. Plongée dans une profonde dépression, elle a compris le mensonge qui détruisait les femmes autant que les enfants à naître. Convertie, elle se bat depuis plus de dix ans pour défendre la vie, malgré les procès et les persécutions. Combien de militantes, trompées par cette illusion de liberté, portent encore dans leur cœur les blessures spirituelles laissées par l’avortement jusqu’à la fin de leur vie ?",
-  "scripture": ["Jean 8:32", "Psaume 34:19", "Matthieu 11:28"]
-}
-  ,
+
     {
       "id": "analogie-gland-chene",
       "question": "L’analogie 'gland ≠ chêne' est-elle valide pour comparer embryon et enfant ?",
@@ -868,6 +862,20 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
       "reponse": "Non : la justice légitime n’implique pas de commettre un tort contre un innocent pour répondre à une violence. Moralement, réagir doit viser la réparation, la prévention et la protection des victimes, pas l’instrumentalisation d’un tiers innocent comme moyen de vengeance.",
       "scripture": []
     },
+
+{
+  "id": "temoignage-abby-johnson",
+  "question": "Pourquoi Abby Johnson s’est-elle retournée contre l’avortement ?",
+  "reponse": "Abby Johnson, après avoir subi deux avortements et dirigé un centre d’IVG, a fini par découvrir la face cachée de ce système. Plongée dans une profonde dépression, elle a compris le mensonge qui détruisait les femmes autant que les enfants à naître. Convertie, elle se bat depuis plus de dix ans pour défendre la vie, malgré les procès et les persécutions. Combien de militantes, trompées par cette illusion de liberté, portent encore dans leur cœur les blessures spirituelles laissées par l’avortement jusqu’à la fin de leur vie ?",
+  "scripture": ["Jean 8:32", "Psaume 34:19", "Matthieu 11:28"]
+}
+  ,
+     {
+  "id": "argument-hypothese-marie",
+  "question": "Aurait-on pu 'tué Dieu' dans le cas de la Visitation ?",
+  "reponse": "Cet argument rhétorique souligne la portée sacrée de la naissance dans la foi chrétienne (Jean-Baptiste reconnut le Messie in utero). La Révélation affirme que toute vie humaine est connue de Dieu dès la conception (Ps 139). Ceux qui soutiennent l’avortement, par cohérence, ne défendraient pas leur propre vie ni celle des autres, alors que l’amour du prochain appelle à protéger chaque existence (Mt 22:39).", 
+  "scripture": ["Luke 1:41-44", "Ps 139:13-16", "Mt 22:39"]
+} ,
     {
       "id": "couts-sociaux",
       "question": "Les coûts d’un accouchement pèsent-ils sur la société et peuvent-ils justifier l’avortement ?",
@@ -911,13 +919,8 @@ Ainsi, la foi catholique est la continuité historique et spirituelle de la foi 
       "scripture": ["Luke 1:41-44", "Ps 139:13-16"]
     },
   
-    {
-      "id": "politique-sentiment",
-      "question": "Le 'politique des sentiments' est-il un bon guide éthique ?",
-      "reponse": "Les émotions éclairent la morale, mais ne suffisent pas à fonder des lois. Les décisions politiques doivent concilier compassion et principes, et être soutenues par des politiques publiques (santé, éducation, aides familiales) qui répondent aux causes sociales du recours à l'IVG.",
-      "scripture": []
-    },
- 
+   
+
   
 {
   "id": "philanthropie-contraception-imposition",
