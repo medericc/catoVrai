@@ -11,6 +11,7 @@ export default async function ThemePage({ params }: { params: Promise<{ themeId:
 
   // Si non trouvé → 404
   if (!theme) return notFound();
+  const mot = theme.titre.toLowerCase().includes('catholique') ? 'réponse' : 'objection';
 
   return (
     <main className="min-h-screen bg-slate-50">
@@ -32,7 +33,7 @@ export default async function ThemePage({ params }: { params: Promise<{ themeId:
           >
             <h2 className="text-xl font-semibold text-blue-800 mb-2">{domaine.titre}</h2>
             <p className="text-slate-600 text-sm">
-              {(domaine.questions?.length ?? 0)} objection
+              {(domaine.questions?.length ?? 0)} {mot}
               {(domaine.questions?.length ?? 0) > 1 ? 's' : ''}
             </p>
           </Link>
