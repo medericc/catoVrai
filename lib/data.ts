@@ -1122,6 +1122,12 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "question": "Chaque peuple a-t-il une 'âme' selon Pie XII ?",
       "reponse": "Oui, dans Summi Pontificatus, il enseigne que chaque nation possède une vocation spirituelle propre. La diversité des peuples et des cultures est voulue par Dieu. Détruire cela, c’est blesser l’ordre voulu par Dieu.",
       "scripture": []
+    },
+    {
+      "id": "ame-des-pays",
+      "question": "Chaque droit est-il réellement 'directus' ?",
+      "reponse": "Les sociétés inventent des règles selon ce qu’elles jugent utile, juste ou tolérable, en fonction des intérêts de ceux qui décident. À l’image de Pilate, qui aurait pu défendre la justice et protéger Jésus mais choisit de céder au groupe dominant pour éviter des troubles, les dirigeants et leurs décisions ne sont donc jamais directement dictées par la justice ou le bien universel, et restent soumis à leurs compromis. Le peuple, lui, est contraint de se plier à ces lois, une« liberté d’expression, tant qu’elle ne touche pas aux affaires de l’État ».",
+      "scripture": []
     }
   ]
 }
