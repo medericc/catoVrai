@@ -291,7 +291,49 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
   ] 
 },
 
-
+{
+  "id": "septante-vs-masoretes",
+  "titre": "66 ou 73 livres ?",
+  "questions": [
+    {
+      "id": "hebreux-cite-septante",
+      "question": "Les auteurs du Nouveau Testament citent la Septante, pourquoi cela compte ?",
+      "reponse": "Le Nouveau Testament reprend fréquemment des formulations qui proviennent de la Septante. La simple substitution par le texte massorétique postérieur (qui omet certains livres) laisse de côté la tradition scripturaire utilisée par l’Église apostolique.",
+      "scripture": ["Hébreux 10:5 (citation de Ps 40 dans la LXX)"]
+    },
+    {
+  "id": "voyelles-massoretiques",
+  "question": "Les voyelles du texte hébreu ne sont-elles pas originales ?",
+  "reponse": "Le texte massorétique que nous lisons aujourd'hui est vocalisé : les voyelles ont été ajoutées par les Massorètes entre le 7e et le 10e siècle. Dans les deux cas, il y a une tradition humaine de transmission. Vouloir rejeter la tradition tout en conservant un texte vocalisé tardif est donc incohérent.",
+  "scripture": []
+},
+   {
+  "id": "tradition-des-peres",
+  "question": "Les Pères et les conciles n'ont-ils pas accepté la Septante ?",
+  "reponse": "Oui. Saint Jérôme, au départ, préférait s’appuyer sur le texte hébreu, mais il s’est soumis à la décision de l’Église. Le Concile de Carthage (397) a tranché en confirmant le canon comprenant les deutérocanoniques, canon que Rome a ensuite ratifié.",
+  "scripture": ["Concile de Carthage, 397", "Lettre de saint Augustin à saint Jérôme (Ep. 82)", "Décret du pape Innocent I (405)"]
+},
+{
+  "id": "autorite-ecriture-nouvelle-israel",
+  "question": "Les Juifs connaissent-ils mieux l'Écriture ?",
+  "reponse": "Jésus enseigne explicitement que l'autorité de la vigne, c'est-à-dire l'Alliance et son interprétation, a été retirée aux chefs d'Israël qui ont rejeté le Messie, et transmise à un autre peuple : l'Église (Matthieu 21:33-43). L'Église est donc le nouvel Israël, héritière de l'Écriture. Il est incohérent d'affirmer que l'interprétation normative de la Bible appartient à une autorité religieuse ayant explicitement rejeté le Messie. La Tradition interprétative légitime n'est plus celle du judaïsme rabbinique post-biblique, mais celle transmise par les Apôtres.",
+  "scripture": ["Matthieu 21:33-43", "1 Pierre 2:9", "Galates 6:16"]
+},
+   
+   {
+  "id": "cumran-septante",
+  "question": "Les manuscrits de Qumrân ne confirment-ils pas la valeur de la Septante ?",
+  "reponse": "Oui. Certains manuscrits hébreux retrouvés à Qumrân correspondent précisément aux lectures de la Septante. Par exemple, en Deutéronome 32:43, la phrase « Que tous les anges de Dieu l’adorent » se trouve dans la Septante et dans un manuscrit de Qumrân (4QDeutq), mais pas dans le texte massorétique. Or, c’est cette version que cite l’Épître aux Hébreux (Hébreux 1:6).",
+  "scripture": ["Hébreux 1:6", "Deutéronome 32:43 (LXX)", "4QDeutq (Qumrân)"]
+  },  {
+      "id": "hermeneutique-christologique",
+      "question": "Pourquoi la lecture christologique de la LXX est-elle importante ?",
+      "reponse": "Beaucoup de lectures messianiques du Nouveau Testament reposent sur des formulations de la LXX qui permettent une lecture christologique explicite (par ex. certaines formulations de psaumes ou d’Isaïe). Si l’on se limite strictement au texte massorétique et à un canon réduit, on perd des unités textuelles et des formulations qui ont servi de pont pour reconnaître en Jésus l’accomplissement des Écritures selon l’Église ancienne.",
+      "scripture": []
+    }
+  ]
+}
+,
 {
   id: "oeuvre-et-purgatoire",
   titre: "Foi, œuvres et purification",
