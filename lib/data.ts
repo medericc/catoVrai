@@ -488,6 +488,12 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
           reponse: `Non. Jacques 1,27 dit : “La religion pure et sans tache consiste à aimer et à se garder du mal.” La Bible ne supprime pas la religion, elle la purifie.`,
           scripture: ["Jacques 1:27"]
         },
+         {
+          id: "bible-rejette-religionx",
+          question: "La Bible rejette-t-elle les irreligieux ?",
+          reponse: `Oui. Même en traduction Louis Segond : “Car les hommes seront égoïstes, amis de l'argent, fanfarons, hautains, blasphémateurs, rebelles à leurs parents, ingrats, irréligieux........ Eloigne-toi de ces hommes-là.”.`,
+          scripture: ["Jacques 1:27"]
+        },
         {
           id: "vraie-religion-bible",
           question: "Alors c’est quoi la vraie religion selon la Bible ?",
