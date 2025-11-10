@@ -617,7 +617,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
       {
   id: "saints-morts",
   question: "Mais les saints sont morts, non ?",
-  reponse: `Non : ils vivent en Dieu. Jésus dit que Dieu n’est pas le Dieu des morts, mais des vivants (Lc 20,38), donc pour Dieu tous sont vivants. Jean 3,15 rappelle que croire donne la vie éternelle. Et Romains 8,38-39 affirme que rien ne nous sépare de l’amour du Christ. Les saints sont donc vivants auprès de Dieu et leurs prières ont valeur dans la communion des saints.`,
+  reponse: `Non : ils vivent en Dieu. Jésus dit que Dieu n’est pas le Dieu des morts, mais des vivants (Lc 20,38), donc pour Dieu tous sont vivants. Jean 3,15 rappelle que croire donne la vie éternelle. Romains 8,38-39 affirme que rien ne nous sépare de l’amour du Christ. Et lors de la Transfiguration, Moïse et Élie apparaissent vivants et parlant avec Jésus, montrant que les justes sont actifs auprès de Dieu.`,
   scripture: ["Luc 20:38", "Jean 3:15", "Romains 8:38-39"]
 }
 ,
@@ -1168,9 +1168,16 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "ame-des-peuples",
       "question": "Chaque peuple a-t-il une 'âme' selon Pie XII ?",
-      "reponse": "Oui, dans Summi Pontificatus, il enseigne que chaque nation possède une vocation spirituelle propre. La diversité des peuples et des cultures est voulue par Dieu. Détruire cela, c’est blesser l’ordre voulu par Dieu.",
+      "reponse": "Oui, dans Summi Pontificatus, il enseigne que chaque nation possède une vocation spirituelle propre, elle manifeste la sagesse de son ordre créateur. La diversité des peuples et des cultures est voulue par Dieu. Détruire cela, c’est blesser l’ordre voulu par Dieu.",
       "scripture": []
     },
+    {
+  "id": "volonte-de-dieu-nations",
+  "question": "Dieu a-t-il voulu plusieurs nations ?",
+  "reponse": "Dieu a permis et ensuite voulu la diversité des nations. Dans le récit de la tour de Babel (Genèse 11, 1-9), les hommes, unis dans l’orgueil, veulent s’élever contre Dieu. Pour limiter ce mal, Dieu confond leurs langues et les disperse. Cette dispersion devient ensuite une richesse voulue par Dieu : chaque peuple possède une vocation propre et contribue à la beauté de l’humanité.",
+  "scripture": ["Genèse 11, 1-9"]
+  
+},
     {
       "id": "ame-des-pays",
       "question": "Chaque droit est-il réellement 'directus' ?",
