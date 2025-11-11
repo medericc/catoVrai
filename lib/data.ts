@@ -777,7 +777,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "pratique-illlegale-argument",
       "question": "L’argument 'ça se pratique illégalement, dépénalisons' est-il suffisant ?",
-      "reponse": "Ce raisonnement est pragmatique mais insuffisant en soi. Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant.",
+      "reponse": "Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant. Pourquoi aurait-on le droit de tuer un innocent mais pas de violer quelqu'un ?",
       "scripture": []
     },
   
@@ -829,7 +829,13 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "reponse": "Des organisations comme Planned Parenthood publient des rapports annuels sur leurs activités et leurs financements ; elles reçoivent aussi des subventions publiques pour des services de santé reproductive. Des allégations de pratiques frauduleuses ont été portées devant des tribunaux et doivent être traitées au cas par cas.",
       "scripture": []
     },
-   
+    {
+      "id": "pratique-illlegale-arg",
+      "question": "L’argument 'ça se pratique illégalement, dépénalisons' est-il suffisant ?",
+      "reponse": "Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant. Pourquoi aurait-on le droit de tuer un innocent mais pas de violer quelqu'un ?",
+      "scripture": []
+    },
+  
  {
   "id": "providence-universelle",
   "question": "La providence divine peut-elle vraiment agir sur tous ?",
@@ -941,7 +947,24 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "reponse": "La vie est avant tout un don reçu. Les choix humains interviennent dans la manière dont on la reçoit, la protège ou la rejette. La foi chrétienne voit la vie comme une vocation confiée par Dieu : elle n'est pas une marchandise ou un simple 'choix' isolé, mais un bien à accueillir et à soutenir.",
       "scripture": ["Jn 14:6"]
     },
-   
+   {
+  "id": "grossesse-imposee",
+  "question": "Et lorsqu’une grossesse est issue d’une contrainte ou d’une violence, peut-on avorter ?",
+  "reponse": "La contrainte est déjà en soi un mal profondément injuste. Mais ajouter à cette injustice la mort d’un innocent revient à ajouter une injustice encore plus grande. Comme si après l'Holodomor des Russes, les Ukrainiens allaient raser l'Afrique.",
+  "scripture": ["Rm 12:21"]
+},
+{
+  "id": "logique-du-couteau-glissant",
+  "question": "Si l'avortement est justifié ? Quelle est la limite ?",
+  "reponse": "Lorsqu’on décide que certaines vies sont indignes d’être vécues, la frontière recule toujours. On commence par l’avortement ‘nécessaire’, puis l’euthanasie ‘compassionnelle’, puis tout ce qui est jugé « inutile » ou « trop coûteux », jusqu'à l'avortement obligatoire par manque de main d'oeuvre ?",
+  "scripture": ["Dt 30:19"]
+},
+{
+  "id": "legitimite-loi",
+  "question": "La loi légalisant l’avortement exprime-t-elle la volonté du peuple ?",
+  "reponse": "Non, une centaine de bourgeois qui n'étais même pas unanime.",
+  "scripture": ["Ac 5:29"]
+},
   
     {
       "id": "voter-et-responsabilite",
