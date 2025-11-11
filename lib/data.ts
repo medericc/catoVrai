@@ -1066,7 +1066,19 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "question": "Quel lien historique entre idéologies et la légalisation de l'avortement ?",
       "reponse": "Certaines révolutions antireligieuses ont promu des réformes familiales pour modifier les mœurs et affaiblir l’influence de l’Église. Lénine, dans le contexte bolchevik, a soutenu l’émancipation des femmes en rupture avec l’ordre traditionnel ; Staline a ensuite corrigé certains excès pour favoriser la natalité. Ces changements montrent que la légalisation peut être instrumentalisée politiquement, pour des motifs démographiques, idéologiques ou anti-religieux, et qu’il faut donc regarder les conséquences humaines, pas seulement l’idéologie qui la promeut.",
       "scripture": []
-    }
+    },
+
+    {
+
+  "id": "engagement-et-lois-morales-specifiques",
+
+  "question": "Un chrétien doit-il de lutter pour la criminalisation d'actes qui leur sont contraires ?",
+
+  "reponse": "La fidélité à l'Évangile inspire l'engagement à bâtir des lois qui protègent la dignité humaine comme la lutte pour la criminalisation de l'avortement et de l'euthanasie, l'adultère, la fornication, le concubinage ou encore la contraception. En rehaussant la barre morale légale, on contribue à la diminution de tous les autres crimes. Tout en sachant que les droits procèdent des lois que les dirigeants conçoivent pour satisfaire leurs propres desseins.",
+
+  "scripture": ["1 Cor 6:9-11", "Mal 2:14-15"]
+
+}
   ]
 },
 
