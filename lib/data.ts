@@ -1422,6 +1422,31 @@ reponse: `Non. Nous sommes appelés à sauver l’Église en devenant saints. Le
       scripture: ["Pascendi Dominici Gregis", "Contre les Hérésies", "Lettres de St Cyrille"]
   }
       ]
-    }
+    },
+
+     {
+      id: "verite-religions",
+      titre: "Toutes les religions disent la vérité",
+      questions: [
+        {
+          id: "verite-relative",
+          question: "Chacun a sa vérité, pourquoi dire qu’il n’y en a qu’une ?",
+          reponse: `Parce que deux affirmations qui se contredisent ne peuvent pas être vraies en même temps. “Maison” désigne un lieu d’habitation. “Mason” ne désigne plus la réalité de la maison. Une vérité n’est pas négociable par opinion ou préférence — soit elle correspond à la réalité, soit non.`,
+        },
+        {
+          id: "verite-relativex",
+          question: "Il y a trop de religions, aucune n’est vraie !",
+          reponse: `Si je te demande quelle est la capitale de la Russie, certaines réponses sont plus proches de la vérité que d’autres, mais seule Moscou est correcte. Dire Sotchi n’est pas complètement faux (c’est en Russie), mais ça ne remplit pas tous les critères pour être exact.`,
+        },
+        {
+          id: "un-seul-chemin",
+          question: "Mais pourquoi dire que seul le christianisme dit la vérité ?",
+          reponse: `Parce que Jésus dit « Je suis le chemin, la vérité et la vie. Nul ne vient au Père que par moi. » Si quelqu’un affirme cela, soit il dit vrai, soit il ment, mais il n’a pas laissé l’option “toutes les religions sont justes`,
+        },
+       
+      ],
+
+      
+    },
   ]  // ← on ferme le tableau domaines
 } ]
