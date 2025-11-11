@@ -1339,9 +1339,54 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
           question: "Donc Constantin n’a vraiment rien fondé ?",
           reponse: `Exact. Constantin a reconnu publiquement une Église déjà existante, enracinée dans : le Christ, les apôtres, les évêques leurs successeurs. L’Église vient de Jésus, pas d’un empereur.`,
         }
+      ],
+
+      
+    },
+
+    {
+  id: "eglise-infiltration",
+  titre: "L’Église est-elle infiltrée ? Va-t-elle tomber ?",
+  questions: [
+    {
+      id: "eglise-conforme-monde",
+      question: "L’Église devrait-elle se conformer au monde ?",
+      reponse: `Les premiers chrétiens ont évangélisé, ex nihilo, l’Empire romain qui les a toujours persécutés. S’ils avaient “adapté” la doctrine, il n’y aurait ni évangile, ni saints, ni martyrs. Le monde change sans cesse ; la vérité non. Le rôle de l’Église est d’être le phare du monde.`
+    },
+    {
+      id: "eglise-infiltrée",
+      question: "L’Église est-elle infiltrée par des personnes mauvaises ?",
+      reponse: `Oui. Judas était apôtre et pourtant traître. Il y a eu des Abbé Sieyes, Martin Luther pour que nous ayons des Saint Robert Bellarmin, ou des Saint  Athanase qui garde la foi catholique. Et même un sacrement reçu d’un prêtre en état de péché mortel est toujours valide.`,
+      scripture: ["Mt 13:24-30","1 Cr 11"]
+    },
+    {
+      id: "juifs-ordres-inquisition",
+      question: "Y a-t-il  et des infiltrations réelles ?",
+      reponse: `Oui. L’Inquisition espagnole a été créée parce que des juifs convertis pour des avantages matériels s’introduisaient dans le clergé tout en rejetant la foi qu’ils prétendaient professer.`
+    },
+    {
+      id: "douter-de-leglise",
+      question: "Alors faut-il douter de l’Église ?",
+      reponse: `Non. On juge une œuvre à ses racines : malgré persécutions, hérésies, infiltrations, trahisons et péchés humains, l’Église garde la même foi, les mêmes sacrements, la même autorité depuis 2000 ans. Si elle était humaine, elle aurait disparu comme toutes les autres institutions.`,
+    },
+    {
+      id: "promesse-du-christ",
+      question: "Pourquoi être certain que l’Église ne tombera pas ?",
+      reponse: `Parce que Jésus l’a promis : « Les portes de l’Enfer ne prévaudront pas contre elle », pour ça Jésus a prié pour la foi de Pierre.`,
+      scripture: ["Mt 16:18", "Jn 17:11","Lc 22:32"]
+    },
+{
+id: "pas-schisme-mais-saintete",
+question: "Face à ces infiltrations, devons-nous quitter l’Église ?",
+reponse: `Non. Nous sommes appelés à sauver l’Église en devenant saints. Le Christ ne nous appelle pas à vivre comme des rois, mais comme des soldats : porter la croix, lutter contre le péché, défendre la foi. La mission n’est pas d’exiger un paradis sur terre : Dieu n’est pas un magicien à notre service, une insoumission. La Cité de Dieu resplendit par nos vies, pas avec le monde.`
+},
+{
+      id: "peres-ont-denonce",
+      question: "Des Pères ont-ils déjà dénoncé la corruption dans l’Église ?",
+      reponse: `Il a déjà été annoncé, dénoncé et combattu dès l’Antiquité. St Pie X parle d’hommes « qui travaillent à la ruine de l’Église de l’intérieur », « feignant de professer la même foi pour mieux tromper les simples ». St Irénée dénonçait déjà ceux qui « utilisent le nom du Christ pour prêcher un autre Christ ». Saint Cyrille avertissait que certains « se font ministres du Christ pour diviser, et soumettre la foi aux calculs du siècle ».`,
+      scripture: ["Pascendi Dominici Gregis", "Contre les Hérésies", "Lettres de St Cyrille"]
+  }
       ]
     }
-  ]
-}
-
-];
+  ]  // ← on ferme le tableau domaines
+} ]
