@@ -784,7 +784,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "revenir-mal-par-mal",
       "question": "Répondre au mal par un autre mal est-il justifiable ?",
-      "reponse": "Non : la justice légitime n’implique pas de commettre un tort contre un innocent pour répondre à une violence. Moralement, réagir doit viser la réparation, la prévention et la protection des victimes, pas l’instrumentalisation d’un tiers innocent comme moyen de vengeance.",
+      "reponse": "La justice légitime n’implique pas de commettre un tort contre un innocent ou même un coupable pour répondre à une violence. Emmanuel Macron a produit des millions d'avortements, aller lui mettre des millions de coups de poing va juste nous faire pêcher mortellement, il faut l'aider car il est sur la mauvaise direction, il est victime du système comme tous les criminels et surtout du péché originel (on peut tout justifier par Eve devant les hommes).",
       "scripture": []
     },
 
@@ -819,6 +819,12 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "id": "ideologie-et-non-dignite",
       "question": "La promotion massive de contraception/avortement nie-t-elle la dignité ?",
       "reponse": "Oui, si la stratégie de santé publique ou de planification se fonde sur une logique utilitariste (réduction des populations 'coûteuses') plutôt que sur le respect de chaque personne, elle peut effectivement entrer en contradiction avec la dignité intrinsèque. C’est pourquoi il faut toujours scruter les finalités et veiller à ce que la protection des plus vulnérables reste centrale.",
+      "scripture": []
+    },
+    {
+      "id": "ideologie",
+      "question": "Peut-on penser seulement à soi et à l'intérêt commun ?",
+      "reponse": "Oui, on peut penser à soi et à l’intérêt commun, mais seulement si l’on sait réellement qui nous sommes. Or, cette connaissance de nous-mêmes, nous ne l’avons qu’à travers la Révélation. Sans elle, les mentalités reviennent à l'Antiquité et tout comportement peut être justifié sous prétexte que « c’est mon choix », alors que le choix en lui-même est faux. On finit par dire : « J’ai raison, l’autre est dangereux, il faut l’éliminer », comme Charlie Kirk. C’est toujours à la lumière de la Révélation que nous devons regarder si notre choix est un bon choix, c’est-à-dire s’il est réellement la volonté de Dieu, ce qui est donc ce qu’il y a de mieux pour nous, une soumission totale à Dieu. Par exemple, on peut facilement justifier, une vie de violeur ou de fornificateur. Mais ce sont des erreurs qui pèseront sur nous. Et en plus de cela, la fornification entraîne d'autres personnes en péché mortel, ou tout simplement parler de quelque chose, c’est déjà rendre possible qu’elle arrive. Quelqu’un qui n’a jamais bu autre chose que de l’eau ne boira que de l’eau. Quelqu’un qui n’a jamais utilisé internet n'en sera pas addict.",
       "scripture": []
     },
  
