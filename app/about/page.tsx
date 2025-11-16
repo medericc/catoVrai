@@ -6,6 +6,13 @@ export default function AProposPage() {
       description: "Découvrez les textes des Pères et Docteurs de l'Église, méditations et enseignements pour approfondir la foi.",
       url: 'https://www.sourcetheologique.com/',
     },
+    
+    {
+       id: 'vie-des-saints',
+      titre: "🙏 La Vie des Saints",
+      description: "Découvrez les témoins exemplaires de la foi chrétienne à travers leurs enseignements inspirants.",
+      url: "https://vie-de-saints.vercel.app/"
+    },
     {
       id: 'bearn',
       titre: '🏰 Le Béarn Chrétien',
@@ -14,7 +21,7 @@ export default function AProposPage() {
     },
     {
       id: 'youtube-catholicisme',
-      titre: '🎬 Chaîne YouTube Catholicisme',
+      titre: '🎬 Chaîne YouTubee',
       description: "Films, histoires et vidéos sur la foi catholique, pour partager et comprendre la spiritualité chrétienne.",
       url: 'https://www.youtube.com/@france_jeunesse',
     },
@@ -23,12 +30,12 @@ export default function AProposPage() {
   return (
     <main className="min-h-screen bg-slate-50">
       {/* Header */}
-      <section className="bg-blue-900 text-white py-16 px-6 text-center">
+      <section className="bg-ex text-white py-16 px-6 text-center">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-4xl sm:text-5xl font-serif font-bold mb-4">
             À propos de mes projets
           </h1>
-          <p className="text-lg text-blue-100 leading-relaxed">
+          <p className="text-lg text-gray-100 leading-relaxed">
             Voici quelques <strong>autres sites</strong> que j&apos;ai créés en rapport avec le catholicisme, 
             l&apos;histoire chrétienne et la spiritualité.
           </p>
@@ -49,7 +56,7 @@ export default function AProposPage() {
               href={site.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-blue-800 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium text-sm sm:text-base transition-colors"
+              className="inline-flex items-center gap-2  border-2 border-blue-800 bg-white hover:bg-blue-700 text-blue-800 px-4 py-2 rounded-lg font-medium text-sm sm:text-base transition-colors"
             >
               Visiter ce site →
               <span className="text-white">🔗</span>
