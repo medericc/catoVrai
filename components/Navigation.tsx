@@ -30,8 +30,8 @@ export default function Navigation() {
             href={item.href}
             className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors duration-200 ${
               isActive(item.href)
-                ? 'bg-blue-700 text-white'
-                : 'text-blue-100 hover:bg-blue-600 hover:text-white'
+                ? 'bg-primary-hover text-white'
+                : 'text-accent-light hover:bg-primary-hover hover:text-white'
             }`}
           >
             {item.label}
@@ -42,7 +42,7 @@ export default function Navigation() {
       {/* Bouton menu mobile */}
       <button
         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-        className="md:hidden p-2 rounded-lg text-blue-100 hover:bg-blue-600 transition-colors duration-200"
+        className="md:hidden p-2 rounded-lg text-accent-light hover:bg-primary-hover transition-colors duration-200"
         aria-label="Menu"
       >
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -56,7 +56,7 @@ export default function Navigation() {
 
       {/* Menu mobile */}
       {isMobileMenuOpen && (
-        <div className="absolute top-16 left-0 right-0 bg-blue-900 md:hidden shadow-lg border-t border-blue-800">
+        <div className="absolute top-16 left-0 right-0 bg-primary md:hidden shadow-lg border-t border-primary-hover">
           <div className="p-4 space-y-2">
             {navItems.map((item) => (
               <Link
@@ -65,9 +65,9 @@ export default function Navigation() {
                 onClick={() => setIsMobileMenuOpen(false)}
                 className={`block px-4 py-3 rounded-lg text-sm font-medium transition-colors duration-200 ${
                   isActive(item.href)
-                    ? 'bg-slate-300 text-blue-700'
-                    : 'text-blue-100 hover:bg-blue-600 hover:text-white'
-                }`}
+                  ? 'bg-gray-100 text-primary'  // lien actif clair
+                    : 'text-accent-light hover:bg-primary-hover hover:text-white'
+              }`}
               >
                 {item.label}
               </Link>

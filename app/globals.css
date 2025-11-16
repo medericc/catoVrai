@@ -18,3 +18,20 @@ details[open] summary ~ * {
   0% { opacity: 0; transform: translateY(-10px); }
   100% { opacity: 1; transform: translateY(0); }
 }
+
+@theme {
+  --color-primary: #0d2279;
+  --color-secondary: #1A2A6C;
+  --color-primary-hover: #21357F;
+
+  --color-explore: #1A2A6C;
+    --color-ex: #192b76;
+  --color-exploreh: #1d348c;
+  --color-texte: #E8ECF7;
+  --color-texte: #BFC7E0;
+
+  --color-card-border: #BFC7E0;
+  --color-card-header: #21357F;
+  --color-accent-light: #fff;
+  --color-accent-dark: #0E1A3B;
+}

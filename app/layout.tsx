@@ -77,7 +77,7 @@ export default function RootLayout({
       </head>
       <body className="bg-slate-50 text-slate-800 antialiased">
         <header
-          className="bg-blue-900 text-white shadow-lg sticky top-0 z-50"
+          className="bg-secondary text-white shadow-lg sticky top-0 z-50"
           role="banner"
         >
           <div className="container mx-auto">
@@ -89,7 +89,7 @@ export default function RootLayout({
                   className="flex items-center space-x-3"
                   aria-label="Retour à l'accueil"
                 >
-                  <div className="bg-white text-blue-900 p-2 rounded-lg">
+                  <div className="bg-white text-secondary p-2 rounded-lg">
                     <svg
                       className="w-6 h-6"
                       fill="currentColor"

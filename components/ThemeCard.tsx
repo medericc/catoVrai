@@ -11,7 +11,7 @@ export default function ThemeCard({ theme }: ThemeCardProps) {
   return (
     <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-blue-100">
       {/* En-tête */}
-      <div className="bg-blue-800 text-white p-4">
+      <div className="bg-exploreh text-white p-4">
         <h3 className="text-xl font-serif font-bold mb-2 line-clamp-2">
           {theme.titre}
         </h3>
@@ -29,8 +29,17 @@ export default function ThemeCard({ theme }: ThemeCardProps) {
         <div className="flex justify-end items-center pt-3 border-t border-gray-100">
           <Link
             href={`/${theme.id}`}
-            className="bg-blue-800 hover:bg-blue-700 text-white px-4 py-2 rounded text-sm font-medium transition-colors duration-200 flex items-center gap-1"
-          >
+        className="
+    
+    bg-white 
+    text-blue-800 
+    hover:bg-blue-50
+    px-4 py-2 
+    rounded 
+    text-sm font-medium 
+    transition-colors duration-200 
+    flex items-center gap-1
+  " >
             Explorer
             <svg
               className="w-4 h-4"

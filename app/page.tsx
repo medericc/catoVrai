@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <main className="min-h-screen bg-slate-50">
       {/* En-tête simple */}
-      <div className="bg-blue-900 text-white py-12">
+      <div className="bg-ex text-white py-12">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="text-4xl font-serif font-bold mb-4">
