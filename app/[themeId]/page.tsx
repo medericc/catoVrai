@@ -14,7 +14,7 @@ export default async function ThemePage({ params }: { params: Promise<{ themeId:
   return (
     <main className="min-h-screen bg-slate-50">
       {/* --- HEADER --- */}
-      <div className="bg-primary text-white py-12">
+      <div className="bg-ex text-white py-12">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl font-serif font-bold mb-4">{theme.titre}</h1>
           <p className="text-accent-light text-lg max-w-2xl mx-auto">{theme.description}</p>
