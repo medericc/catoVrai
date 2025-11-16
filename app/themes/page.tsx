@@ -37,7 +37,7 @@ export default function ThemeSearchPage() {
   }, [query]);
 
   return (
-    <main className="container mx-auto max-w-4xl p-6">
+    <main className="container mx-auto w-full p-6">
       {/* 🔙 Lien retour */}
       <nav className="mb-8">
         <Link
