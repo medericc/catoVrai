@@ -1439,6 +1439,7 @@ reponse: `Non. Nous sommes appelés à sauver l’Église en devenant saints. Le
           question: "Chacun a sa vérité, pourquoi dire qu’il n’y en a qu’une ?",
           reponse: `Parce que deux affirmations qui se contredisent ne peuvent pas être vraies en même temps. “Maison” désigne un lieu d’habitation. “Mason” ne désigne plus la réalité de la maison. Une vérité n’est pas négociable par opinion ou préférence — soit elle correspond à la réalité, soit non.`,
         },
+       
         {
           id: "verite-relativex",
           question: "Il y a trop de religions, aucune n’est vraie !",
@@ -1449,7 +1450,13 @@ reponse: `Non. Nous sommes appelés à sauver l’Église en devenant saints. Le
           question: "Mais pourquoi dire que seul le christianisme dit la vérité ?",
           reponse: `Parce que Jésus dit « Je suis le chemin, la vérité et la vie. Nul ne vient au Père que par moi. » Si quelqu’un affirme cela, soit il dit vrai, soit il ment, mais il n’a pas laissé l’option “toutes les religions sont justes`,
         },
-       
+       {
+  id: "verite-relatived",
+  question: "Le but de la religion est seulement d'avoir des règles ?",
+  reponse: `Non. Le christianisme n’est pas d’abord un ensemble de règles, mais la rencontre avec le Christ vivant. Les apôtres n’ont pas rédigé un catéchisme théorique : ils ont annoncé la foi et ont écrit par nécessité. 
+
+Être chrétien, c’est aider les autres, à l’image des martyrs qui ont offert leur vie pour que vivent l'Evangile. Sainte Jeanne d’Arc savait qu’elle devait se sacrifier pour que le Christ règne en France, elle a donné son corps pour les autres. La voie chrétienne est l'humilité, s'effacer comme Marie dans l'Évangile. S’attacher seulement à soi-même est tout l'inverse de ses valeurs, notre corps lui-même sera mangé par les vers.` 
+} ,
       ],
 
       
