@@ -9,9 +9,9 @@ interface ThemeCardProps {
 
 export default function ThemeCard({ theme }: ThemeCardProps) {
   return (
-    <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-blue-100">
+    <div className="bg-white rounded-lg  shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-blue-100">
       {/* En-tête */}
-      <div className="bg-exploreh text-white p-4">
+      <div className="bg-exploreh text-white p-4 md:p-8">
         <h3 className="text-xl font-serif font-bold mb-2 line-clamp-2">
           {theme.titre}
         </h3>
@@ -19,7 +19,7 @@ export default function ThemeCard({ theme }: ThemeCardProps) {
       </div>
 
       {/* Contenu */}
-      <div className="p-4">
+      <div className="p-4 md:p-8">
        <p className="text-slate-700 text-sm mb-4 line-clamp-3">
           {/* Correction ici : utilise (theme.domaines ?? []) pour garantir un tableau */}
           {(theme.domaines ?? []).length} domaine{(theme.domaines ?? []).length > 1 ? 's' : ''}

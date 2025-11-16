@@ -19,7 +19,7 @@ const filteredThemes = themes.filter((theme) =>
   return (
     <div className="space-y-6">
       {/* Barre de recherche */}
-      <div className="bg-white p-4 rounded-lg shadow-sm border border-gray-200">
+      <div className="bg-white p-4 rounded-lg shadow-sm border border-gray-200 md:mt-2 md:mb-10">
         <div className="relative max-w-md mx-auto">
           <input
             type="text"
