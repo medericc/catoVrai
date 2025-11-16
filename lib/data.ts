@@ -1397,7 +1397,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       id: "eglise-infiltrée",
       question: "L’Église est-elle infiltrée par des personnes mauvaises ?",
-      reponse: `Oui. Judas était apôtre et pourtant traître. Il y a eu des Abbé Sieyes, Martin Luther pour que nous ayons des Saint Robert Bellarmin, ou des Saint  Athanase qui garde la foi catholique. Et même un sacrement reçu d’un prêtre en état de péché mortel est toujours valide.`,
+      reponse: `Oui. Judas était apôtre et pourtant traître. Il y a eu des Abbé Sieyes, Martin Luther pour que nous ayons des Saint Robert Bellarmin, ou des Saint  Athanase qui garde la foi catholique. Et même un sacrement reçu d’un prêtre en état de péché mortel est toujours valide. Ce sont les difficultés qui nous permettent de nous transcander, si y a aps de Luther pas de Bellarmin ou encore Sainte Rose da Lima qui se flageller pour les péchés du monde.`,
       scripture: ["Mt 13:24-30","1 Cr 11"]
     },
     {
