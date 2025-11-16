@@ -796,7 +796,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
 }
   ,
      {
-  "id": "argument-hypothese-marie",
+  "id": "argument-hypothese",
   "question": "Aurait-on pu 'tué Dieu' dans le cas de la Visitation ?",
   "reponse": "Cet argument rhétorique souligne la portée sacrée de la naissance dans la foi chrétienne (Jean-Baptiste reconnut le Messie in utero). La Révélation affirme que toute vie humaine est connue de Dieu dès la conception (Ps 139). Ceux qui soutiennent l’avortement, par cohérence, ne défendraient pas leur propre vie ni celle des autres, alors que l’amour du prochain appelle à protéger chaque existence (Mt 22:39).", 
   "scripture": ["Luke 1:41-44", "Ps 139:13-16", "Mt 22:39"]
@@ -866,7 +866,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
   "scripture": []
 },
 {
-  "id": "si-tu-donnes-pas-vie-pourquoi-dieu",
+  "id": "tu-donnes-pas-vie-pourquoi-dieu",
   "question": "Si l'homme refuse de donner la vie tout le temps, pourquoi Dieu te donnerait-il la vie tout le temps ?", 
   "reponse": "Si quelqu'un choisit de dire non à la vie (le Christ). En justice pure, il serait logique que celui qui refuse la vie ne la reçoive pas éternellement puisque Dieu respecte la liberté humaine jusque dans ses conséquences. 'Car ce que nous faisons au plus petit, c’est à Lui que nous le faisons' (Mt 25,40). Mais Dieu n’est pas seulement juste, Il est aussi miséricordieux. Il offre encore la possibilité du pardon à ceux qui se repentent et reviennent vers la Vie. ", 
   "scripture": ["Mt 25:40", "Jn 3:16", "Rm 6:23"]
@@ -1025,7 +1025,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "scripture": ["Jn 8:32"]
     },
     {
-      "id": "pudeur-respect",
+      "id": "pudeurs-respects",
       "question": "La contraception protège-t-elle la dignité de la femme ?",
       "reponse": "En banalisant la sexualité, la contraception favorise la promiscuité et le détachement. Là où la chasteté élève, la contraception réduit. Le respect du corps et de l’amour passe par la maîtrise de soi, non par la chimie.",
       "scripture": ["1 Th 4:3-5", "Mt 5:8"]
