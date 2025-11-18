@@ -38,7 +38,7 @@ export const themes: Domaine[] = [
         {
           id: "mediation-christ",
           question: "Jésus est le seul médiateur ! Prier Marie, c’est le contredire.",
-          reponse: `1 Timothée 2,5 dit vrai : Jésus est l’unique Médiateur. Mais cette médiation n’exclut pas, elle inclut ceux qui participent à son œuvre. Nous aussi, quand nous prions les uns pour les autres, nous exerçons une médiation secondaire en Christ. Marie en est l’exemple parfait.`,
+          reponse: `1 Timothée 2,5 dit vrai : Jésus est l’unique Médiateur dans l'ordre du salut. Mais cette médiation n’exclut pas, elle inclut ceux qui participent à son œuvre. Nous aussi, quand nous prions les uns pour les autres, nous exerçons une médiation secondaire en Christ. Marie en est l’exemple parfait.`,
           scripture: ["1 Tim 2:5"]
         },
         {
@@ -67,7 +67,7 @@ export const themes: Domaine[] = [
         {
           id: "titres-marie",
           question: "Le catéchisme exagère avec tous ses titres pour Marie !",
-          reponse: `Ces titres expriment sa mission maternelle dans la grâce : Elle est Avocate, Auxiliatrice, Médiatrice (CEC 969). Mais toujours dépendante du Christ, unique Sauveur. Sa maternité spirituelle continue « jusqu’à la consommation éternelle des élus ».`
+          reponse: `Ces titres expriment sa mission maternelle dans la grâce : Elle est Avocate, Auxiliatrice, Médiatrice (participation à la médiation du Christ, et en dépend entièrement). Sa maternité spirituelle continue « jusqu’à la consommation éternelle des élus ».`
         },
         {
           id: "prières-anciennes",
@@ -212,7 +212,7 @@ export const themes: Domaine[] = [
     {
       id: "livres-ajoutes",
       question: "Les catholiques ont ajouté des livres.",
-      reponse: `Faux. Ce sont les réformateurs (XVIe siècle) qui ont supprimé 7 livres, pour justifier leurs doctrines (ex : Romains 3,28 modifié par Luther).`
+      reponse: `Faux. Ils sont considérés par les Réformateurs comme utiles, et sont placés à la fin des Bibles. Au XIXᵉ siècle, les Sociétés bibliques comme la Société biblique britannique cherche à diffuser la Bible le plus largement possible et au coût le plus bas, ils retirent donc ses livres.`
     },
     {
       id: "autorite",
@@ -407,8 +407,8 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
     {
       id: "grace-croix",
       question: "Le purgatoire diminue-t-il la croix du Christ ?",
-      reponse: `Non. Il en applique la grâce purificatrice. Jésus sauve, le purgatoire sanctifie totalement.`,
-      scripture: ["Hébreux 12:14"]
+      reponse: `Non. Il en applique la grâce purificatrice. Jésus sauve, le purgatoire sanctifie totalement. Et dans ce chemin de purification, nous sommes invités à participer aux souffrances du Christ, non pour compléter son œuvre, mais pour nous unir à Lui et à son Église, en partageant ses épreuves avec foi et amour, jusqu’à la plénitude de la communion avec Dieu.`,
+      scripture: ["Hébreux 12:14","Colossiens 1:24"]
     },
     {
       id: "anciens-temoins",
@@ -1397,7 +1397,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       id: "eglise-infiltrée",
       question: "L’Église est-elle infiltrée par des personnes mauvaises ?",
-      reponse: `Oui. Judas était apôtre et pourtant traître. Il y a eu des Abbé Sieyes, Martin Luther pour que nous ayons des Saint Robert Bellarmin, ou des Saint  Athanase qui garde la foi catholique. Et même un sacrement reçu d’un prêtre en état de péché mortel est toujours valide. Ce sont les difficultés qui nous permettent de nous transcander, si y a aps de Luther pas de Bellarmin ou encore Sainte Rose da Lima qui se flageller pour les péchés du monde.`,
+      reponse: `Oui. Judas était apôtre et pourtant traître. Il y a eu des Abbé Sieyes, Martin Luther pour que nous ayons des Saint Robert Bellarmin, ou des Saint  Athanase qui garde la foi catholique. Et même un sacrement reçu d’un prêtre en état de péché mortel est toujours valide. Ce sont les difficultés qui nous permettent de nous transcander, si il n'y aurait pas eu de Luther, pas de Bellarmin, ou encore Sainte Rose da Lima qui se flagellait pour les péchés du monde.`,
       scripture: ["Mt 13:24-30","1 Cr 11"]
     },
     {
@@ -1437,7 +1437,7 @@ reponse: `Non. Nous sommes appelés à sauver l’Église en devenant saints. Le
         {
           id: "verite-relative",
           question: "Chacun a sa vérité, pourquoi dire qu’il n’y en a qu’une ?",
-          reponse: `Parce que deux affirmations qui se contredisent ne peuvent pas être vraies en même temps. “Maison” désigne un lieu d’habitation. “Mason” ne désigne plus la réalité de la maison. Une vérité n’est pas négociable par opinion ou préférence — soit elle correspond à la réalité, soit non.`,
+          reponse: `Parce que deux affirmations qui se contredisent ne peuvent pas être vraies en même temps. “Maison” désigne un lieu d’habitation. “Mason” ne désigne plus la réalité de la maison. Une vérité n’est pas négociable par opinion ou préférence, soit elle correspond à la réalité, soit non.`,
         },
        
         {
@@ -1453,9 +1453,7 @@ reponse: `Non. Nous sommes appelés à sauver l’Église en devenant saints. Le
        {
   id: "verite-relatived",
   question: "Le but de la religion est seulement d'avoir des règles ?",
-  reponse: `Non. Le christianisme n’est pas d’abord un ensemble de règles, mais la rencontre avec le Christ vivant. Les apôtres n’ont pas rédigé un catéchisme théorique : ils ont annoncé la foi et ont écrit par nécessité. 
-
-Être chrétien, c’est aider les autres, à l’image des martyrs qui ont offert leur vie pour que vivent l'Evangile. Sainte Jeanne d’Arc savait qu’elle devait se sacrifier pour que le Christ règne en France, elle a donné son corps pour les autres. La voie chrétienne est l'humilité, s'effacer comme Marie dans l'Évangile. S’attacher seulement à soi-même est tout l'inverse de ses valeurs, notre corps lui-même sera mangé par les vers.` 
+  reponse: `Non. Le christianisme n’est pas d’abord un ensemble de règles, mais la rencontre avec le Christ vivant. Les apôtres n’ont pas rédigé un catéchisme théorique : ils ont annoncé la foi et ont écrit par nécessité.  Être chrétien, c’est aider les autres, à l’image des martyrs qui ont offert leur vie pour que vivent l'Evangile. Sainte Jeanne d’Arc savait qu’elle devait se sacrifier pour que le Christ règne en France, elle a donné son corps pour les autres. La voie chrétienne est l'humilité, s'effacer comme Marie dans l'Évangile. S’attacher seulement à soi-même est tout l'inverse de ses valeurs, notre corps lui-même sera mangé par les vers.` 
 } ,
       ],
 
