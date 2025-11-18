@@ -651,19 +651,19 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
         {
           id: "pudeur-quoi",
           question: "Qu'est-ce que la pudeur et quel est son rôle ?",
-          reponse: `La pudeur est la vertu qui honore la dignité de la personne, corps et âme unis dans le même mystère. Elle protège le mystère des personnes et de leur amour, invite à la patience et à la modération dans les relations humaines, et exige une pureté du cœur. Le Catéchisme de l'Église catholique (CEC §2521-2524) l'enseigne comme gardien de la chasteté et respect de soi et d'autrui.`,
+          reponse: `La pudeur est la vertu qui honore la dignité de la personne, corps et âme unis dans le même mystère. Elle protège le mystère des personnes et de leur amour, invite à la patience et à la modération dans les relations humaines, et exige une pureté du cœur. Le Catéchisme de l'Église catholique (CEC §2521-2524) la présente comme un gardien de la chasteté, une protection de la dignité et un respect de soi et d’autrui.`,
           scripture: ["1 Cor 6:19-20", "Gen 3:7"]
         },
         {
           id: "pudeur-importance",
           question: "Pourquoi la pudeur est-elle essentielle à la vie chrétienne ?",
-          reponse: `La pudeur protège l'intimité et la dignité de la personne, aide à orienter le corps vers la chasteté et la beauté intérieure, et empêche l'usage égoïste du corps. Elle est le reflet du respect de soi et d'autrui, et participe à la sanctification du corps.`,
+          reponse: `La pudeur préserve l’intimité et la dignité de la personne, et aide à orienter le corps vers la chasteté et la beauté intérieure. Elle empêche l’usage égoïste ou objectifiant du corps, et exprime le respect mutuel. Elle participe ainsi à la sanctification du corps, appelé à devenir temple de l’Esprit Saint.`,
           scripture: ["1 Cor 6:19-20"]
         },
         {
           id: "pudeur-mystere",
           question: "Comment la pudeur manifeste-t-elle le mystère humain ?",
-          reponse: `La pudeur reconnaît le corps comme don de Dieu, non comme objet. Elle protège le mystère de la personne et de son amour, et est un moyen de glorifier Dieu par le corps.`,
+          reponse: `La pudeur reconnaît que le corps est un don de Dieu, porteur de sens, et non un simple objet. Elle protège le mystère de la personne et de son amour, et devient un moyen de glorifier Dieu par son corps et par son cœur.`,
           scripture: ["Gen 3:7", "1 Cor 6:19-20"]
         }
       ,
@@ -671,7 +671,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
       
           id: "pudeur-protection",
           question: "Comment la pudeur préserve-t-elle l'intimité et la dignité ?",
-          reponse: `La pudeur consiste à protéger l'intimité et à ne pas livrer ce qui doit rester secret, en orientant le corps vers la chasteté et la beauté intérieure. Saint Augustin disait : "Là où la pudeur se perd, la dignité de l'homme s'éteint."`,
+          reponse: `La pudeur protège l’intimité en veillant à ne pas exposer ce qui appartient au secret du cœur et du corps. Elle garde la personne dans son mystère propre et oriente le corps vers la chasteté, la beauté intérieure et la vérité de l’amour. Comme le rappelait saint Augustin : « Là où la pudeur se perd, la dignité de l’homme s’éteint. » Par elle, la personne se garde elle-même et se présente devant Dieu et devant les autres avec respect.`,
           scripture: ["Gen 3:7", "1 Cor 6:19-20"]
         },
         {
@@ -1101,7 +1101,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "origine-commune",
       "question": "Pourquoi peut-on dire que tous les peuples sont frères ?",
-      "reponse": "Tous viennent d’un même Père, Dieu, qui a fait sortir d’un seul homme toute la race humaine.",
+      "reponse": "Tous viennent d’un même Père, Dieu, qui a fait sortir d’un seul homme toute la race humaine. Ainsi, la fraternité humaine n’est pas une théorie, mais une vérité ontologique.",
       "scripture": ["Ac 17:26"]
     },
     {
@@ -1119,7 +1119,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "egalite-et-diversite",
       "question": "Comment concilier égalité et diversité ?",
-      "reponse": "Tous sont égaux en dignité, mais différents dans leur mission. Dieu ne copie pas, il crée. L’unité chrétienne est communion, non uniformité.",
+      "reponse": "Tous sont égaux en dignité, mais différents dans leur mission. Dieu ne copie pas, il crée. L’unité chrétienne est communion, non uniformité. Les apôtres n'ont pas laissés des règles à suivre, ils ont écrit par nécessité. Sainte Bathilde ou Sainte Jeanne d'Arc n'ont pas agi de la même manière.",
       "scripture": ["Ga 3:28"]
     },
     {
@@ -1137,7 +1137,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "eglise-et-nations",
       "question": "Que disent les textes du Concile Vatican II sur les nations ?",
-      "reponse": "Gaudium et Spes et Nostra Aetate affirment la dignité de chaque peuple et la valeur de ses traditions, car Dieu agit dans toutes les cultures.",
+      "reponse": "Gaudium et Spes et Nostra Aetate affirment que chaque peuple possède une dignité propre, et que ses traditions contiennent des semences de vérité, car Dieu agit mystérieusement dans toutes les cultures. Le Concile proclame que la diversité des peuples fait partie du dessein de Dieu.",
       "scripture": []
     },
     {
@@ -1161,43 +1161,28 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "imperialisme-et-racisme",
       "question": "Pourquoi le racisme et l'impérialisme sont-ils liés ?",
-      "reponse": "Parce qu’ils veulent effacer l’identité d’un peuple pour imposer une vision unique. C’est une forme de haine de l’altérité et de l’image divine.",
+      "reponse": "C'est le refus de l’altérité en cherchant à effacer une culture pour imposer une vision unique. Il veut remplacer la communion par la domination.",
       "scripture": []
     },
-    {
-      "id": "bearn-et-autonomie",
-      "question": "Comment le Béarn illustre-t-il le respect d’une identité locale ?",
-      "reponse": "Sous Fébus ou Jeanne d’Albret, le Béarn n'était tenu que de Dieu. Fidèle à sa foi et à ses institutions, il montrait qu’un peuple pouvait servir Dieu sans renier son identité. Mais lorsque, sous l’influence maçonnique, les États de Béarn décidèrent de rattacher le pays à la France, tout changea : l’institution des maisons fut détruite, la langue uniformisée, et des politiques anticatholiques et anti-vie furent imposées au Béarn.",
-      "scripture": []
-    },
+ 
     {
       "id": "droit-des-peuples",
       "question": "Pourquoi le droit des peuples à exister est-il chrétien ?",
       "reponse": "Jean XXIII, dans Pacem in Terris, affirme que chaque nation a droit à la vie, à la culture et à la liberté dans la vérité.",
       "scripture": []
     },
-    {
-      "id": "memoire-et-laicite",
-      "question": "Pourquoi l’effacement de la mémoire chrétienne est-il dangereux ?",
-      "reponse": "La laïcité militante qui nie les racines chrétiennes coupe un peuple de son âme. Oublier Dieu, c’est oublier l’homme.",
-      "scripture": ["Ps 9:18"]
-    },
+   
     {
       "id": "fraternite-et-cultures",
       "question": "Quelle est la vraie fraternité chrétienne entre les peuples ?",
       "reponse": "Elle reconnaît chaque culture comme un don de Dieu, à protéger et à sanctifier. L’unité vient de la charité, non de la contrainte.",
       "scripture": ["Jn 17:21"]
     },
-    {
-      "id": "destruction-des-traditions",
-      "question": "Comment les élites ont-elles contribué à déraciner les peuples ?",
-      "reponse": "Souvent financées par des intérêts matérialistes, elles ont imposé des lois contraires à la tradition : laïcité agressive, destruction de la famille, uniformisation culturelle.",
-      "scripture": []
-    },
+   
     {
       "id": "femmes-et-foi",
       "question": "Quel rôle les femmes ont-elles eu dans la foi populaire ?",
-      "reponse": "Dans des provinces comme le Labourd, elles furent élues cheffes de paroisse, mais exclues par des Parisiens autoproclamés. Leur effacement par idéologie de cette tradition est une atteinte à la race basque.",
+      "reponse": "Dans des provinces comme le Labourd, elles furent élues cheffes de paroisse, mais exclues par des Parisiens autoproclamés. Leur effacement par idéologie de cette tradition est une atteinte à la atteinte au peuple et à la culture basques.",
       "scripture": []
     },
     {
@@ -1222,7 +1207,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "ame-des-pays",
       "question": "Chaque droit est-il réellement 'directus' ?",
-      "reponse": "Les sociétés inventent des règles selon ce qu’elles jugent utile, juste ou tolérable, en fonction des intérêts de ceux qui décident. À l’image de Pilate, qui aurait pu défendre la justice et protéger Jésus mais choisit de céder au groupe dominant pour éviter des troubles, les dirigeants et leurs décisions ne sont donc jamais directement dictées par la justice ou le bien universel, et restent soumis à leurs compromis. Le peuple, lui, est contraint de se plier à ces lois, une« liberté d’expression, tant qu’elle ne touche pas aux affaires de l’État ».",
+      "reponse": "Le droit humain peut s’éloigner du droit naturel quand les dirigeants cèdent à la pression, à l’idéologie ou à la peur, comme Pilate renonçant à défendre la justice par faiblesse.",
       "scripture": []
     }
   ]
