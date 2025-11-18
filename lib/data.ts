@@ -557,12 +557,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
           question: "Les catholiques prient les statues !",
           reponse: `Non. Les catholiques ne prient pas les statues, ils prient Dieu. La statue rappelle celui ou celle qu’elle représente, comme une photo.`
         },
-        {
-  id: "statues-juifs-chretiens",
-  question: "Dieu n’a jamais permis ça !",
-  reponse: `La Bible montre que Dieu a permis des statues dans le culte, tant que l’adoration restait dirigée vers Lui seul. Josué et les anciens se prosternent devant l’Arche, décoré de statues de deux chérubins. Dans le Temple de Salomon, Dieu ordonne, la présence de statues. Les Juifs du Second Temple priaient dans un Temple rempli de représentations symboliques (Guerre des Juifs et Antiquités Judaïque).` 
-, scripture: ["Josué 7:6","Exode 25:18-20","1 Rois 6:23-28","1 Rois 7:25-29"]
-} ,
+       
         {
           id: "exode-images",
           question: "Mais Exode 20,4 interdit les images !",
@@ -575,6 +570,12 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
           reponse: `Non. Dieu lui-même ordonne des images sacrées : chérubins dans le Temple (1 Rois 6,23-29) et sur l’Arche (Ex 25,18-22). Si Dieu interdit les images, pourquoi en ordonner ? Ce qui est interdit, c’est l’idolâtrie, pas l’art sacré.`,
           scripture: ["1 Rois 6:23-29", "Exode 25:18-22"]
         },
+         {
+  id: "statues-juifs-chretiens",
+  question: "Dieu n’a jamais permis ça !",
+  reponse: `La Bible montre que Dieu a permis des statues dans le culte, tant que l’adoration restait dirigée vers Lui seul. Josué et les anciens se prosternent devant l’Arche, décoré de statues de deux chérubins. Dans le Temple de Salomon, Dieu ordonne, la présence de statues. Les Juifs du Second Temple priaient dans un Temple rempli de représentations symboliques (Guerre des Juifs et Antiquités Judaïque).` 
+, scripture: ["Josué 7:6","Exode 25:18-20","1 Rois 6:23-28","1 Rois 7:25-29"]
+} ,
         {
           id: "pourquoi-statues",
           question: "Alors pourquoi avoir des statues ?",
