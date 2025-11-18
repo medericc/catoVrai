@@ -12,10 +12,10 @@ export default function HomePage() {
             <h1 className="text-4xl font-serif font-bold mb-4">
               Tous les Thèmes
             </h1>
-            <p className="text-xl text-blue-100 mb-6">
+            <p className="text-xl text-white-100 mb-6">
               Explorez les sujets du Catholicisme face aux objections
             </p>
-            <div className="text-blue-200 text-sm">
+            <div className="text-white-200 text-sm">
               {themes.length} thèmes disponibles
             </div>
           </div>

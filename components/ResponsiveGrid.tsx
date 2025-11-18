@@ -26,7 +26,7 @@ const filteredThemes = themes.filter((theme) =>
             placeholder="Rechercher un thème..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+            className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-700 focus:border-green-700"
           />
           <svg
             className="absolute left-3 top-1/2 transform -translate-y-1/2 w-4 h-4 text-gray-400"

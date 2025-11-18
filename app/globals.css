@@ -20,18 +20,21 @@ details[open] summary ~ * {
 }
 
 @theme {
-  --color-primary: #0d2279;
-  --color-secondary: #1A2A6C;
-  --color-primary-hover: #21357F;
+   --color-primary: #5d4e1f;          /* Brun-Or noble */
+  --color-secondary: #2f4f4f;        /* Gris ardoise foncé */
+  --color-primary-hover: #7a6836;     /* Brun-Or plus clair */
 
-  --color-explore: #1A2A6C;
-    --color-ex: #192b76;
-  --color-exploreh: #1d348c;
-  --color-texte: #E8ECF7;
-  --color-texte: #BFC7E0;
+  --color-explore: #2f4f4f;          /* Gris ardoise */
+  --color-ex: #5d4e1f;               /* Brun-Or */
+  --color-exploreh: #7a6836;          /* Brun-Or hover */
+  --color-texte: #f8f6f0;            /* Crème très clair */
+  --color-texte-light: #e8e2d4;      /* Crème */
 
-  --color-card-border: #BFC7E0;
-  --color-card-header: #21357F;
-  --color-accent-light: #fff;
-  --color-accent-dark: #0E1A3B;
+  --color-card-border: #d1c9b8;      /* Beige gris */
+  --color-card-header: #5d4e1f;       /* Brun-Or */
+  --color-accent-light: #ffffff;
+  --color-accent-dark: #1a1a1a;
+--color-neuf: #405D51; 
+  --color-neufcent: #1b4332; 
+  --color-huitcent: #2d6a4f; 
 }

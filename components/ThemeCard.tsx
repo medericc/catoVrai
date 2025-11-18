@@ -9,13 +9,13 @@ interface ThemeCardProps {
 
 export default function ThemeCard({ theme }: ThemeCardProps) {
   return (
-    <div className="bg-white rounded-lg  shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-blue-100">
+    <div className="bg-white rounded-lg  shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-white">
       {/* En-tête */}
-      <div className="bg-exploreh text-white p-4 md:p-8">
+      <div className="bg-neuf text-white p-4 md:p-8">
         <h3 className="text-xl font-serif font-bold mb-2 line-clamp-2">
           {theme.titre}
         </h3>
-        <p className="text-blue-100 text-sm">{theme.description}</p>
+        <p className="text-white text-sm">{theme.description}</p>
       </div>
 
       {/* Contenu */}
@@ -32,8 +32,8 @@ export default function ThemeCard({ theme }: ThemeCardProps) {
         className="
     
     bg-white 
-    text-blue-800 
-    hover:bg-blue-50
+    text-exploreh 
+    hover:bg-white
     px-4 py-2 
     rounded 
     text-sm font-medium 

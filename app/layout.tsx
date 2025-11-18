@@ -103,7 +103,7 @@ export default function RootLayout({
                     <h1 className="text-xl font-serif font-bold leading-tight">
                       Catholicisme vs Hérésie
                     </h1>
-                    <p className="text-blue-200 text-xs hidden sm:block">
+                    <p className="text-white-200 text-xs hidden sm:block">
                       Défense de la foi catholique à travers les siècles
                     </p>
                   </div>

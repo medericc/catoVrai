@@ -42,7 +42,7 @@ export default function ThemeSearchPage() {
       <nav className="mb-8">
         <Link
           href="/"
-          className="text-blue-800 hover:text-blue-700 inline-flex items-center gap-2"
+          className="text-huitcent hover:text-green-800 inline-flex items-center gap-2"
         >
           <svg
             className="w-4 h-4"
@@ -63,7 +63,7 @@ export default function ThemeSearchPage() {
 
       {/* 🧭 Titre */}
       <div className="text-center mb-6">
-        <h1 className="text-3xl font-serif font-bold text-blue-900 mb-5">
+        <h1 className="text-3xl font-serif font-bold text-neufcent mb-5">
           Recherche dans les thèmes
         </h1>
         <p className="text-slate-600 text-lg">
@@ -78,7 +78,7 @@ export default function ThemeSearchPage() {
           placeholder="Rechercher une question, un thème ou un mot-clé..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          className="w-full max-w-xl border border-gray-300 rounded-lg px-4 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm"
+          className="w-full max-w-xl border border-gray-300 rounded-lg px-4 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-green-500 shadow-sm"
         />
       </div>
 
@@ -92,11 +92,11 @@ export default function ThemeSearchPage() {
             </p>
 
             {filteredQuestions.map((q) => (
-              <div key={q.id} className="border-l-4 border-blue-900 pl-4 ">
+              <div key={q.id} className="border-l-4 border-neufcent pl-4 ">
                 <p className="text-sm text-slate-500 mb-3">
                   <Link
                     href={`/${q.themeId}/${q.domaineId}`}
-                    className="hover:underline text-blue-800 font-medium"
+                    className="hover:underline text-huitcent font-medium"
                   >
                     {q.themeTitre} → {q.domaineTitre}
                   </Link>

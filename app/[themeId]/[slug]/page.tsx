@@ -38,7 +38,7 @@ if (!domaine) return notFound();
       <nav className="mb-8">
         <Link 
           href={`/${themeId}`} 
-          className="text-blue-800 hover:text-blue-700 inline-flex items-center gap-2"
+          className="text-neufcent hover:text-green-900 inline-flex items-center gap-2"
         >
           <svg 
             className="w-4 h-4" 
@@ -54,7 +54,7 @@ if (!domaine) return notFound();
 
       {/* Titre et description */}
       <div className="text-center mb-10">
-        <h1 className="text-4xl font-serif font-bold text-blue-900 ">
+        <h1 className="text-4xl font-serif font-bold text-neufcent ">
           {domaine.titre}
         </h1>
        

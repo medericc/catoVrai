@@ -42,11 +42,11 @@ export default async function ThemePage({ params }: { params: Promise<{ themeId:
               text-center
             "
           >
-            <h2 className="text-xl font-semibold text-primary mb-2">
+            <h2 className="text-xl font-semibold text-neufcent mb-2">
               {domaine.titre}
             </h2>
 
-            <p className="text-slate-700 text-sm">
+            <p className="text-neufcent  text-sm">
               {(domaine.questions?.length ?? 0)} {mot}
               {(domaine.questions?.length ?? 0) > 1 ? 's' : ''}
             </p>
