@@ -771,7 +771,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "analogie-gland-chene",
       "question": "L’analogie 'gland ≠ chêne' est-elle valide pour comparer embryon et enfant ?",
-      "reponse": "L’analogie illustre une progression naturelle, mais elle simplifie trop : un gland est déjà une partie d’un chêne et dépend d’un arbre déjà formé ; l’embryon est un individu humain distinct avec son propre patrimoine génétique et un développement autonome. L’analogie biologique ne permet donc pas de réduire l’embryon à un simple 'potentiel' sans statut moral.",
+      "reponse": "L’analogie illustre une progression naturelle, mais elle simplifie trop : un gland est déjà une partie d’un chêne et dépend d’un arbre déjà formé ; l’embryon est un individu humain distinct avec son propre patrimoine génétique et un développement autonome. L’embryon n’est pas un être humain en puissance, mais un être humain avec une puissance de se développer, comme un enfant de 6 ans en pleine croissance ou une personne de 78 ans en train de vieillir.",
       "scripture": []
     },
     {
@@ -784,27 +784,27 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "revenir-mal-par-mal",
       "question": "Répondre au mal par un autre mal est-il justifiable ?",
-      "reponse": "La justice légitime n’implique pas de commettre un tort contre un innocent ou même un coupable pour répondre à une violence. Emmanuel Macron a produit des millions d'avortements, aller lui mettre des millions de coups de poing va juste nous faire pêcher mortellement, il faut l'aider car il est sur la mauvaise direction, il est victime du système comme tous les criminels et surtout du péché originel (on peut tout justifier par Eve devant les hommes).",
+      "reponse": "La justice légitime n’implique pas de commettre un tort contre un innocent ou même un coupable pour répondre à une violence. Même les responsables politiques qui ont favorisé l’avortement ne sont pas nos ennemis : ils sont des personnes blessées par le péché, influencées par la culture de la mort, et appelées comme nous à la conversion. Mais cela ne supprime pas leur responsabilité morale, comme s'en prendre à eux, ne supprime pas la notre.",
       "scripture": []
     },
 
 {
   "id": "temoignage-abby-johnson",
   "question": "Pourquoi Abby Johnson s’est-elle retournée contre l’avortement ?",
-  "reponse": "Abby Johnson, après avoir subi deux avortements et dirigé un centre d’IVG, a fini par découvrir la face cachée de ce système. Plongée dans une profonde dépression, elle a compris le mensonge qui détruisait les femmes autant que les enfants à naître. Convertie, elle se bat depuis plus de dix ans pour défendre la vie, malgré les procès et les persécutions. Combien de militantes, trompées par cette illusion de liberté, portent encore dans leur cœur les blessures spirituelles laissées par l’avortement jusqu’à la fin de leur vie ?",
+  "reponse": "Abby Johnson, après avoir subi deux avortements et dirigé un centre d’IVG, a fini par découvrir la face cachée de ce système. Plongée dans une profonde dépression, elle a compris le mensonge qui détruisait les femmes autant que les enfants à naître. Convertie, elle se bat depuis plus de dix ans pour défendre la vie, malgré les procès et les persécutions. Beaucoup de femmes, gardent des blessures profondes après un avortement, blessures que seule la miséricorde de Dieu peut vraiment guérir.",
   "scripture": ["Jean 8:32", "Psaume 34:19", "Matthieu 11:28"]
 }
   ,
      {
   "id": "argument-hypothese",
   "question": "Aurait-on pu 'tué Dieu' dans le cas de la Visitation ?",
-  "reponse": "Cet argument rhétorique souligne la portée sacrée de la naissance dans la foi chrétienne (Jean-Baptiste reconnut le Messie in utero). La Révélation affirme que toute vie humaine est connue de Dieu dès la conception (Ps 139). Ceux qui soutiennent l’avortement, par cohérence, ne défendraient pas leur propre vie ni celle des autres, alors que l’amour du prochain appelle à protéger chaque existence (Mt 22:39).", 
+  "reponse": "Cet argument rhétorique souligne la portée sacrée de la naissance dans la foi chrétienne (Jean-Baptiste reconnut le Messie in utero). La Révélation affirme que toute vie humaine est connue de Dieu dès la conception (Ps 139). Si l’on définit la dignité humaine selon des critères changeants (conscience, autonomie…), alors chacun peut perdre sa propre dignité lorsque ces critères disparaissent. C’est une position instable : elle ne protège finalement personne, alors que l’amour du prochain appelle à protéger chaque existence (Mt 22:39).", 
   "scripture": ["Luke 1:41-44", "Ps 139:13-16", "Mt 22:39"]
 } ,
     {
       "id": "couts-sociaux",
       "question": "Les coûts d’un accouchement peuvent-ils justifier l’avortement ?",
-      "reponse": "Les coûts de la maternité existent et sont réels, mais réduire la question humaine à un calcul économique est réducteur. Une société digne considère la personne comme un sujet et non comme une charge ; elle investit dans l’accompagnement des familles, la santé maternelle et l’aide aux plus vulnérables pour que la grossesse ne devienne pas une condamnation socio-économique.",
+      "reponse": "Les coûts de la maternité existent et sont réels, mais réduire la question humaine à un calcul économique est réducteur. Une société digne considère la personne comme un sujet et non comme une charge ; elle investit dans l’accompagnement des familles, la santé maternelle et l’aide aux plus vulnérables pour que la grossesse ne devienne pas une condamnation socio-économique. Les difficultés économiques doivent être combattues par la solidarité, jamais en supprimant celui qui en serait la victime.",
       "scripture": []
     },
     {
@@ -821,10 +821,13 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "reponse": "Oui, si la stratégie de santé publique ou de planification se fonde sur une logique utilitariste (réduction des populations 'coûteuses') plutôt que sur le respect de chaque personne, elle peut effectivement entrer en contradiction avec la dignité intrinsèque. C’est pourquoi il faut toujours scruter les finalités et veiller à ce que la protection des plus vulnérables reste centrale.",
       "scripture": []
     },
+
+
+
     {
       "id": "ideologie",
       "question": "Peut-on penser seulement à soi et à l'intérêt commun ?",
-      "reponse": "Oui, on peut penser à soi et à l’intérêt commun, mais seulement si l’on sait réellement qui nous sommes. Or, cette connaissance de nous-mêmes, nous ne l’avons qu’à travers la Révélation. Sans elle, les mentalités reviennent à l'Antiquité et tout comportement peut être justifié sous prétexte que « c’est mon choix », alors que le choix en lui-même est faux. On finit par dire : « J’ai raison, l’autre est dangereux, il faut l’éliminer », comme Charlie Kirk. C’est toujours à la lumière de la Révélation que nous devons regarder si notre choix est un bon choix, c’est-à-dire s’il est réellement la volonté de Dieu, ce qui est donc ce qu’il y a de mieux pour nous, une soumission totale à Dieu. Par exemple, on peut facilement justifier, une vie de violeur ou de fornificateur. Mais ce sont des erreurs qui pèseront sur nous. Et en plus de cela, la fornification entraîne d'autres personnes en péché mortel, ou tout simplement parler de quelque chose, c’est déjà rendre possible qu’elle arrive. Quelqu’un qui n’a jamais bu autre chose que de l’eau ne boira que de l’eau. Quelqu’un qui n’a jamais utilisé internet n'en sera pas addict.",
+      "reponse": "Oui, il est possible de penser à soi et au bien commun, mais seulement si l’on sait ce qu’est réellement le bien. Or, l’homme ne peut discerner son vrai bien qu’à la lumière de Dieu : sans la Révélation, les critères moraux deviennent relatifs et chacun finit par justifier tout comportement sous prétexte que “c’est mon choix”. La véritable liberté consiste à vouloir ce que Dieu veut, car sa volonté est toujours notre bien. Sans cette lumière, on peut facilement rationaliser des comportements gravement immoraux (fornication, vol, viol), et entraîner d’autres personnes dans ses péchés mortels. De plus, celui qui ne connaît que le bien s’y attache plus fermement ; qui s’expose au mal s’y habitue.",
       "scripture": []
     },
  
@@ -845,45 +848,55 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
  {
   "id": "providence-universelle",
   "question": "La providence divine peut-elle vraiment agir sur tous ?",
-  "reponse": "Oui. Dieu agit dans tous les cœurs, même à travers la souffrance. Jésus lui-même avertit souvent les riches, rappelant qu’il est difficile pour celui qui met sa confiance dans ses biens d’entrer dans le Royaume des cieux. Sainte Bathilde, vendue comme esclave avant de devenir reine, et Sainte Joséphine Bakhita, arrachée à sa terre puis élevée à la sainteté, ont vu leur douleur devenir lumière. Sainte Rose de Lima voyait dans la souffrance une purification, comme Marie le dit à Bernadette : « Tu souffriras sur la terre, mais au Paradis tu seras heureuse. » La souffrance fait partie du chemin de foi : acceptée avec amour, elle unit à la croix du Christ et ouvre à la vraie joie.", 
+  "reponse": "Oui. Dieu peut agir dans tous les cœurs, même à travers les événements douloureux. Le Christ avertit que la richesse peut fermer le cœur à Dieu, car elle pousse à mettre sa confiance dans soi-même plutôt qu’en Lui. Des saintes comme Bathilde, Joséphine Bakhita ou Rose de Lima ont montré que Dieu peut transformer la souffrance en source de lumière : non pas parce qu’Il veut la douleur, mais parce qu’Il la transfigure lorsqu’elle est unie à la croix du Christ. Comme Marie le dit à Bernadette : “Je ne vous promets pas de vous rendre heureuse en ce monde, mais dans l’autre.” La foi trouve dans la souffrance acceptée avec amour une voie vers la vraie joie. »", 
   "scripture": ["Luc 1:52", "Romains 8:28", "Matthieu 19:23", "Colossiens 1:24"]
 } ,
   
     {
       "id": "argument-hypothese-marie",
       "question": "Si l'on admettait l'IVG, 'aurait-on tué Dieu' dans le cas de Marie et Jean-Baptiste? (argument rhétorique)",
-      "reponse": "Cet argument rhétorique souligne la portée sacrée de la naissance dans la foi chrétienne (Jean-Baptiste reconnut le Messie in utero, cf. Luc 1,41-44). Théologiquement, la Révélation affirme que toute vie humaine est connue de Dieu dès la conception (Ps 139).",
+      "reponse": "Cet argument est rhétorique : il souligne la portée sacrée de l’Incarnation. La Visitation révèle que Jean-Baptiste reconnaît le Christ encore dans le sein de Marie (Luc 1,41-44). La Révélation affirme que Dieu connaît chaque être humain dès sa conception (Ps 139). Bien sûr, dans le plan réel de Dieu, l’Incarnation ne pouvait être empêchée. Mais l’argument montre la contradiction morale d’une vision où l’on pourrait disposer librement d’une vie humaine dans le sein maternel.",
       "scripture": ["Luke 1:41-44", "Ps 139:13-16"]
     },
   
    
 
+
+
+
+
   
 {
   "id": "philanthropie-contraception-imposition",
   "question": "Les grandes fondations imposent-elles les politiques reproductives aux pays pauvres pour le business ?", 
-  "reponse": "De puissantes fondations et ONG internationales financent des programmes de santé reproductive. Une imposition idéologique et économique, privilégiant le contrôle des naissances plutôt que le développement structurel, un instrument d’ingérence ou de conditionnement culturel.", 
+  "reponse": "De grandes fondations et ONG financent des programmes de “santé reproductive” dans les pays pauvres. Lorsque ces aides conditionnent les subventions à des stratégies de contrôle des naissances plutôt qu’au développement structurel (éducation, infrastructures, médecine), cela peut devenir une forme d’ingérence culturelle. Le risque est d’imposer une vision démographique extérieure plutôt que de soutenir les familles selon leur dignité propre.", 
   "scripture": []
 },
 {
   "id": "tu-donnes-pas-vie-pourquoi-dieu",
   "question": "Si l'homme refuse de donner la vie tout le temps, pourquoi Dieu te donnerait-il la vie tout le temps ?", 
-  "reponse": "Si quelqu'un choisit de dire non à la vie (le Christ). En justice pure, il serait logique que celui qui refuse la vie ne la reçoive pas éternellement puisque Dieu respecte la liberté humaine jusque dans ses conséquences. 'Car ce que nous faisons au plus petit, c’est à Lui que nous le faisons' (Mt 25,40). Mais Dieu n’est pas seulement juste, Il est aussi miséricordieux. Il offre encore la possibilité du pardon à ceux qui se repentent et reviennent vers la Vie. ", 
+  "reponse": "Celui qui refuse le don de la vie ferme son cœur au Dieu vivant. En justice pure, celui qui rejette la vie pourrait logiquement se priver lui-même de la Vie éternelle, car Dieu respecte la liberté humaine jusque dans ses conséquences. Jésus dit : “Ce que vous faites au plus petit d’entre les miens, c’est à moi que vous le faites” (Mt 25,40). Mais Dieu n’est pas seulement juste : Il est miséricordieux. Tant que l’homme est en vie, Dieu lui offre le pardon, la guérison et la possibilité de revenir à la Vie véritable.", 
   "scripture": ["Mt 25:40", "Jn 3:16", "Rm 6:23"]
 } ,
 {
   "id": "avortement-economie",
   "question": "L’avortement peut-il être considéré comme une solution économique pour la société ?",
-  "reponse": "Les élites invoquent l’argument économique pour justifier l’avortement, en voyant dans la naissance un coût pour la collectivité. Mais une société qui calcule la valeur d’une vie selon son rendement économique perd le sens même de la personne. Le vrai progrès n’est pas de supprimer les vies fragiles, mais de bâtir des structures justes qui permettent à chaque enfant et à chaque mère de vivre dignement.", 
+  "reponse": "Certains justifient l’avortement en invoquant des arguments économiques, comme si la naissance d’un enfant représentait avant tout un coût. Mais une société qui évalue la valeur d’une vie selon son utilité économique perd le sens de la personne. Le progrès authentique ne consiste jamais à éliminer les vies fragiles, mais à créer des structures justes permettant à chaque mère et à chaque enfant de vivre dignement. “Les enfants sont un don du Seigneur” (Ps 127,3). »", 
   "scripture": ["Mt 25:40", "Ps 127:3"]
 } ,{
   "id": "valeur-humaine-economie",
   "question": "Peut-on mesurer la valeur d’une vie humaine en termes économiques ?",
-  "reponse": "La valeur d’une vie dépasse toute mesure comptable. Chaque personne, même fragile, porte une richesse spirituelle et humaine infinie. Jean-Paul II rappelait que l’homme doit être la fin de l’économie, jamais un moyen. La vraie économie sert la vie, elle ne la sélectionne pas.",
+  "reponse": "La valeur d’une vie humaine ne peut jamais se réduire à une équation économique. Chaque personne porte une dignité infinie, car elle est voulue pour elle-même par Dieu. Jean-Paul II rappelait que l’économie doit être au service de l’homme, et non l’homme au service de l’économie. La vraie prospérité est celle qui protège les plus fragiles.",
   "scripture": ["Mt 6:26", "Ga 3:28"]
 } ,
-{"id": "denoncer-ideologie","question": "La promotion massive de contraception/IVG est-elle une idéologie niant la dignité humaine ?","reponse": "Considèrer la vie humaine comme un simple instrument démographique ou économique, c'est tomber dans l'utilitarisme et nier la dignité intrinsèque.","scripture": []},
-    {
+{"id": "denoncer-ideologie","question": "La promotion massive de contraception/IVG est-elle une idéologie niant la dignité humaine ?","reponse": "Lorsque la contraception et l’IVG sont promues non comme aide médicale mais comme outils démographiques ou économiques, elles deviennent une idéologie utilitariste. Cette logique considère la vie humaine non plus comme un bien sacré, mais comme une variable à gérer. Cela nie la dignité intrinsèque de toute personne humaine.","scripture": []},
+  
+
+
+
+
+
+{
       "id": "embryon-choisit-vivre",
       "question": "L’embryon 'choisit' de vivre : sens et validité de cette affirmation ?",
       "reponse": "On ne peut pas attribuer à l'embryon une volonté indépendante, mais biologiquement il manifeste un mouvement vital et un développement orienté vers la vie. Spirituellement, dire que l'embryon 'choisit' de vivre renforce l'intuition que la vie humaine a sa propre vocation et mérite protection. La responsabilité humaine est d'accompagner ce chemin de vie.",
@@ -950,33 +963,42 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "vie-est-choix",
       "question": "La vie est-elle un choix ?",
-      "reponse": "La vie est avant tout un don reçu. Les choix humains interviennent dans la manière dont on la reçoit, la protège ou la rejette. La foi chrétienne voit la vie comme une vocation confiée par Dieu : elle n'est pas une marchandise ou un simple 'choix' isolé, mais un bien à accueillir et à soutenir.",
+      "reponse": "La vie humaine n’est pas un objet soumis à la volonté humaine : elle est un don reçu. La liberté humaine intervient dans la manière d’accueillir et de protéger ce don, mais ne peut en définir la valeur. Dans la perspective chrétienne, la vie est une vocation confiée par Dieu, non une option parmi d’autres.",
       "scripture": ["Jn 14:6"]
     },
    {
   "id": "grossesse-imposee",
   "question": "Et lorsqu’une grossesse est issue d’une contrainte ou d’une violence, peut-on avorter ?",
-  "reponse": "La contrainte est déjà en soi un mal profondément injuste. Mais ajouter à cette injustice la mort d’un innocent revient à ajouter une injustice encore plus grande. Comme si après l'Holodomor des Russes, les Ukrainiens allaient raser l'Afrique.",
+  "reponse": "La violence est déjà un mal grave et une profonde injustice. Mais ajouter à ce mal la mort d’un innocent ne répare rien : cela crée une victime supplémentaire (comme si après l'Holodomor des Russes, les Ukrainiens allaient raser l'Afrique). On ne répond pas à une injustice en en commettant une autre plus grande, ça tout le monde le ferait.",
   "scripture": ["Rm 12:21"]
 },
 {
   "id": "logique-du-couteau-glissant",
   "question": "Si l'avortement est justifié ? Quelle est la limite ?",
-  "reponse": "Lorsqu’on décide que certaines vies sont indignes d’être vécues, la frontière recule toujours. On commence par l’avortement ‘nécessaire’, puis l’euthanasie ‘compassionnelle’, puis tout ce qui est jugé « inutile » ou « trop coûteux », jusqu'à l'avortement obligatoire par manque de main d'oeuvre ?",
+  "reponse": "Quand une société commence à décider quelles vies méritent d’être protégées, la barrière morale recule toujours. L’histoire montre que la logique utilitariste conduit d’abord à l’avortement 'exceptionnel', puis à l’euthanasie 'par compassion', puis à l’élimination de toute vie jugée inutile ou coûteuse. Une fois le principe brisé, rien n’empêche les dérives les plus extrêmes.",
   "scripture": ["Dt 30:19"]
 },
+
+
+
+
+
+
+
+
+
 {
   "id": "legitimite-loi",
   "question": "La loi légalisant l’avortement exprime-t-elle la volonté du peuple ?",
-  "reponse": "Non, une centaine de bourgeois qui n'étais même pas unanime.",
+  "reponse": "Non, en France c'est une centaine de bourgeois qui n'étais même pas unanime.",
   "scripture": ["Ac 5:29"]
 },
   
     {
       "id": "voter-et-responsabilite",
       "question": "Voter pour une république qui légifère sur la vie, est-ce consentir à l'avortement ?",
-      "reponse": "Le vote engage la conscience. Être citoyen responsable implique d'examiner les programmes, de s'engager pour des lois qui protègent la vie et d'appuyer des politiques d'accueil. Si une loi injuste existe, la responsabilité chrétienne n'est pas le nihilisme mais l'action : légale, éducative et caritative pour changer les choses.",
-      "scripture": ["Mt 5:13-16"]
+      "reponse": "Le vote engage la conscience. Être citoyen responsable implique d'examiner les programmes, de s'engager pour des lois qui protègent la vie et d'appuyer des politiques d'accueil. Si une loi injuste existe, la responsabilité chrétienne n'est pas le nihilisme mais l'action : légale, éducative et caritative pour changer les choses. On peut parfois soutenir une loi imparfaite mais diminuant le mal.",
+      "scripture": ["Mt 5:13-16","EV §73"]
     },
     {
       "id": "jesus-vie-et-salut",
@@ -999,6 +1021,19 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "reponse": "Le « Rapport Simon » est une étude commandée en France dans les années 1970 sur la sexualité, la contraception et les mœurs. On le qualifie parfois de « Kinsey à la française » en référence aux recherches sexuelles d’Alfred Kinsey aux États-Unis. Le rapport contribua à légitimer l’ouverture de la société aux méthodes contraceptives et à préparer le terrain pour une législation plus libérale en matière de sexualité et de reproduction.",
       "scripture": []
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
       "id": "influence-medicale-politique",
       "question": "Quel est le danger ou l’enjeu d’un mélange entre acteurs médicaux, idéologiques et politiques dans les lois sur l’avortement ?",
@@ -1030,22 +1065,29 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "reponse": "En banalisant la sexualité, la contraception favorise la promiscuité et le détachement. Là où la chasteté élève, la contraception réduit. Le respect du corps et de l’amour passe par la maîtrise de soi, non par la chimie.",
       "scripture": ["1 Th 4:3-5", "Mt 5:8"]
     },
+
+
+
+
+
+
+
     {
       "id": "enfant-don",
       "question": "Pourquoi dire que l’enfant est un don et non un projet ?",
-      "reponse": "L’enfant n’est pas un produit planifié selon la convenance des adultes. Chaque vie est voulue par Dieu, unique, et porte une vocation. Le réduire à un objet revient à s’ériger en maître de la vie. Accueillir la vie, même imprévue, c’est accueillir Dieu Lui-même, source de toute existence.",
+      "reponse": "L’enfant n’est pas un produit planifié selon la convenance des adultes. Chaque vie est voulue par Dieu, unique, et porte une vocation. Le réduire à un objet revient à s’ériger en maître de la vie. Accueillir la vie, même imprévue, c’est accueillir Dieu Lui-même, source de toute existence. Le couple ne ‘fabrique’ pas un enfant, il coopère à l’œuvre créatrice de Dieu.",
       "scripture": ["Ps 127:3", "Jn 1:4"]
     },
     {
       "id": "contraception-et-ordre-naturel",
       "question": "Pourquoi la contraception est-elle contraire à l’ordre naturel ?",
       "reponse": "L’ordre naturel unit les fonctions du corps à leur finalité. Neutraliser la fécondité, c’est introduire une rupture dans cet ordre. Ce n’est pas une question de biologie froide, mais de vérité : chaque acte a un sens, l'acte sexuel celui celui d’un amour ouvert à la vie. Le nier, c’est désordonner l’amour lui-même.",
-      "scripture": ["Rm 1:26-27", "Sg 13:1-3"]
+      "scripture": ["Rm 1:26-27", "Sg 13:1-3","Ps 139","Gn 1:27-28"]
     },
     {
       "id": "protection-sante",
       "question": "Les préservatifs ne sont-ils pas nécessaires pour éviter les maladies ?",
-      "reponse": " Le remède aux infections, c’est la fidélité et la chasteté. Remplacer la responsabilité par le latex, c’est traiter la conséquence, pas la cause. La santé du corps passe aussi par la santé de l’âme.",
+      "reponse": " Le moyen moralement juste pour prévenir les maladies est la chasteté et la fidélité. Remplacer la responsabilité par le latex, c’est traiter la conséquence, pas la cause. La santé du corps passe aussi par la santé de l’âme.",
       "scripture": ["1 Co 6:19-20"]
     },
     {
@@ -1055,10 +1097,12 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "scripture": ["Mt 6:33", "Ps 127:1-5"]
     },
    
+
+
     {
       "id": "vie-spirituelle",
       "question": "Quel impact la contraception a-t-elle sur la vie spirituelle ?",
-      "reponse": "En supprimant la fécondité, elle ferme le cœur à la providence. La fécondité naturelle apprend la confiance en Dieu, la maîtrise de soi, et la coopération à la création. En refusant cette ouverture, on réduit l’amour à un calcul et on perd la joie de la dépendance à Dieu. Le refus de la vie est un refus de Dieu Lui-même.",
+      "reponse": "En supprimant la fécondité, elle ferme le cœur à la providence. La fécondité naturelle apprend la confiance en Dieu, la maîtrise de soi, et la coopération à la création. En refusant cette ouverture, on réduit l’amour à un calcul et on perd la joie de la dépendance à Dieu. On peux dire, avec pincettes, que le refus de la vie est un refus de Dieu Lui-même.",
       "scripture": ["Dt 30:19", "Jn 10:10"]
     },
     {
@@ -1080,13 +1124,17 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
 
   "question": "Un chrétien doit-il de lutter pour la criminalisation d'actes qui leur sont contraires ?",
 
-  "reponse": "La fidélité à l'Évangile inspire l'engagement à bâtir des lois qui protègent la dignité humaine comme la lutte pour la criminalisation de l'avortement et de l'euthanasie, l'adultère, la fornication, le concubinage ou encore la contraception. En rehaussant la barre morale légale, on contribue à la diminution de tous les autres crimes. Tout en sachant que les droits procèdent des lois que les dirigeants conçoivent pour satisfaire leurs propres desseins.",
+  "reponse": "La fidélité à l’Évangile pousse les chrétiens à promouvoir des lois qui défendent véritablement la dignité humaine. Cela inclut l’effort pour que l’ordre juridique reconnaisse comme moralement graves des pratiques telles que l’avortement, l’adultère, la fornication, le viol, le concubinage ou la contraception. Lorsque la loi civile s’accorde davantage avec la loi morale, elle élève le niveau éthique de toute la société et contribue indirectement à réduire de nombreux autres désordres.",
 
   "scripture": ["1 Cor 6:9-11", "Mal 2:14-15"]
 
 }
   ]
 },
+
+
+
+
 
 {
   "id": "unite-et-diversite-des-peuples",
