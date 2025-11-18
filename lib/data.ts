@@ -184,7 +184,7 @@ export const themes: Domaine[] = [
     {
       id: "tradition-biblique",
       question: "La Tradition, ce n’est pas biblique !",
-      reponse: `Saint Paul dit : « Tenez fermes les traditions, par la parole ou par la lettre » (2 Thess 2,15). La Tradition apostolique = orale + écrite.`,
+      reponse: `Saint Paul dit : « Tenez fermes les traditions, par la parole ou par la lettre » (2 Thess 2,15). Avant Moïse il n'y avait qu'une tradition orale, Abraham n'a rien écrit. De plus, il n'est pas précisé dans la bible qu'elle est source d'autorité.`,
       scripture: ["2 Thess 2:15"]
     },
     {
