@@ -561,7 +561,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
         {
           id: "exode-images",
           question: "Mais Exode 20,4 interdit les images !",
-          reponse: `Exode 20,4 interdit les idoles (eidolon), c’est-à-dire adorer une image à la place de Dieu. L’Église n’adore que Dieu (adoration = latrie).`,
+          reponse: `Exode 20:3 : « Tu n’auras pas d’autres dieux devant ma face. » C’est la définition même d’une idole : prendre quelque chose pour dieu à la place du vrai Dieu. Exode 20,4 interdit les idoles (eidolon), c’est-à-dire adorer une image à la place de Dieu. Quelques chapitres plus loin, le même Dieu demande à Moïse de fabriquer une statue (Exode 25:18-20). L’Église n’adore que Dieu (adoration = latrie).`,
           scripture: ["Exode 20:4"]
         },
         {
