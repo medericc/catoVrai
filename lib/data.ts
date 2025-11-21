@@ -784,7 +784,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "pratique-illlegale-argument",
       "question": "L’argument 'ça se pratique illégalement, dépénalisons' est-il suffisant ?",
-      "reponse": "Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant. Pourquoi aurait-on le droit de tuer un innocent mais pas de violer quelqu'un ?",
+      "reponse": "Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant. Pourquoi aurait-on le droit de tuer un innocent mais pas de violer quelqu'un ? Écoutons tous les coupables dans ce cas.",
       "scripture": []
     },
   
