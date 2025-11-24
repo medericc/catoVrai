@@ -906,15 +906,10 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
 {
       "id": "embryon-choisit-vivre",
       "question": "L’embryon 'choisit' de vivre : sens et validité de cette affirmation ?",
-      "reponse": "On ne peut pas attribuer à l'embryon une volonté indépendante, mais biologiquement il manifeste un mouvement vital et un développement orienté vers la vie. Spirituellement, dire que l'embryon 'choisit' de vivre renforce l'intuition que la vie humaine a sa propre vocation et mérite protection. La responsabilité humaine est d'accompagner ce chemin de vie.",
+      "reponse": "On ne peut pas attribuer à l'embryon une volonté indépendante, mais biologiquement il manifeste un mouvement vital et un développement orienté vers la vie. À aucun moment tu mérites plus de vivre qu'un innocent problablement saint ?",
       "scripture": ["Jer 1:5"]
     },
-    {
-      "id": "liberte-corps-vie",
-      "question": "Si mon corps 'veut' vivre, est-ce un argument contre l'avortement ?",
-      "reponse": "L'argument souligne que la vie est l'état naturel et bon de l'être humain ; s'opposer à la vie exige toujours une justification morale forte. Mais la législation et l'accompagnement doivent aussi tenir compte de la liberté et de la situation concrète de la femme : l'enjeu est d'articuler protection de la vie et soutien réel à la mère.",
-      "scripture": ["Jn 10:10"]
-    },
+  
     {
       "id": "si-tu-donnes-pas-vie-pourquoi-dieu",
       "question": "Si l'homme refuse de donner la vie, pourquoi Dieu continuerait-Il à donner la vie ?",
@@ -957,8 +952,8 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "loi-et-definitions",
       "question": "La loi d'un État peut-elle définir moralement ce qui est meurtre ?",
-      "reponse": "Beaucoup de lois injustes existent et ont existé. Les chrétiens sont appelés à discerner et, si nécessaire, à obéir à Dieu plutôt qu'aux hommes (Actes 5:29) tout en travaillant pacifiquement à changer les lois injustes par les voies civiques.",
-      "scripture": ["Acts 5:29", "Mt 22:21"]
+      "reponse": "Beaucoup de lois injustes existent et ont existé. Les chrétiens sont appelés à discerner et, si nécessaire, à obéir à Dieu plutôt qu'aux hommes (Actes 5:29) tout en travaillant pacifiquement à changer les lois injustes par les voies civiques (Jr 23:1-32).",
+      "scripture": ["Acts 5:29", "Mt 22:21","Jr 23:1-32"]
     },
    
     {
@@ -998,14 +993,14 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
   "id": "legitimite-loi",
   "question": "La loi légalisant l’avortement exprime-t-elle la volonté du peuple ?",
   "reponse": "Non, en France c'est une centaine de bourgeois qui n'étais même pas unanime.",
-  "scripture": ["Ac 5:29"]
+  "scripture": ["Ac 5:29","Jr 23:1-32"]
 },
   
     {
       "id": "voter-et-responsabilite",
       "question": "Voter pour une république qui légifère sur la vie, est-ce consentir à l'avortement ?",
-      "reponse": "Le vote engage la conscience. Être citoyen responsable implique d'examiner les programmes, de s'engager pour des lois qui protègent la vie et d'appuyer des politiques d'accueil. Si une loi injuste existe, la responsabilité chrétienne n'est pas le nihilisme mais l'action : légale, éducative et caritative pour changer les choses. On peut parfois soutenir une loi imparfaite mais diminuant le mal.",
-      "scripture": ["Mt 5:13-16","EV §73"]
+      "reponse": "Le vote engage la conscience. Être citoyen responsable implique d'examiner les programmes, de s'engager pour des lois qui protègent la vie et d'appuyer des politiques d'accueil. Si une loi injuste existe, la responsabilité chrétienne n'est pas le nihilisme mais l'action : légale, éducative et caritative pour changer les choses. On peut parfois soutenir une loi imparfaite mais diminuant le mal (Jr 23:1-32).",
+      "scripture": ["Mt 5:13-16","EV §73","Jr 23:1-32"]
     },
     {
       "id": "jesus-vie-et-salut",
@@ -1131,9 +1126,9 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
 
   "question": "Un chrétien doit-il de lutter pour la criminalisation d'actes qui leur sont contraires ?",
 
-  "reponse": "La fidélité à l’Évangile pousse les chrétiens à promouvoir des lois qui défendent véritablement la dignité humaine. Cela inclut l’effort pour que l’ordre juridique reconnaisse comme moralement graves des pratiques telles que l’avortement, l’adultère, la fornication, le viol, le concubinage ou la contraception. Lorsque la loi civile s’accorde davantage avec la loi morale, elle élève le niveau éthique de toute la société et contribue indirectement à réduire de nombreux autres désordres.",
+  "reponse": "La fidélité à l’Évangile pousse les chrétiens à promouvoir des lois qui défendent véritablement la dignité humaine. Cela inclut l’effort pour que l’ordre juridique reconnaisse comme moralement graves des pratiques telles que l’avortement, l’adultère, la fornication, le viol, le concubinage ou la contraception. Lorsque la loi civile s’accorde davantage avec la loi morale, elle élève le niveau éthique de toute la société et contribue indirectement à réduire de nombreux autres désordres (Jr 23:1-32).",
 
-  "scripture": ["1 Cor 6:9-11", "Mal 2:14-15"]
+  "scripture": ["1 Cor 6:9-11", "Mal 2:14-15","Jr 23:1-32"]
 
 }
   ]
