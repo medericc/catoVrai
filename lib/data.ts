@@ -102,11 +102,20 @@ export const themes: Domaine[] = [
           scripture: ["Luc 1:38"]
         },
         {
+  id: "kecharitomene",
+  question: "Pourquoi l’ange appelle-t-il Marie « comblée de grâce » (kecharitoménè) ?",
+  reponse: `Dans Luc 1,28, l’ange ne dit pas « Bonjour Marie », mais utilise un titre unique : « kecharitoménè ». C’est un parfait grec qui signifie : « toi qui as été comblée de grâce et qui le restes durablement ». Cette grâce ne vient pas d’elle, mais du Christ ; elle est donc la première sauvée, de manière prévenante.`,
+  scripture: ["Luc 1:28"]
+}
+,
+        {
           id: "mission-aujourd-hui",
           question: "En résumé, Marie fait quoi pour nous aujourd’hui ?",
           reponse: `Elle intercède, conseille, protège, guide. Comme au Ciel, elle continue sa mission maternelle : nous conduire au Christ et nous aider à persévérer. C’est pour cela que « toutes les générations la diront bienheureuse » (Luc 1,48).`,
           scripture: ["Luc 1:48"]
         }
+
+
       ]
     },
     {
@@ -784,7 +793,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "pratique-illlegale-argument",
       "question": "L’argument 'ça se pratique illégalement, dépénalisons' est-il suffisant ?",
-      "reponse": "Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant. Pourquoi aurait-on le droit de tuer un innocent mais pas de violer quelqu'un ? Écoutons tous les coupables dans ce cas.",
+      "reponse": "Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant. Pourquoi aurait-on le droit de tuer un innocent mais pas de violer quelqu'un ? Écoutons tous les coupables dans ce cas. 'Si tuer des innocents est un droit, plus rien est mal' (Sainte Mère Thérésa).",
       "scripture": []
     },
   
@@ -808,12 +817,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
   "reponse": "Cet argument rhétorique souligne la portée sacrée de la naissance dans la foi chrétienne (Jean-Baptiste reconnut le Messie in utero). La Révélation affirme que toute vie humaine est connue de Dieu dès la conception (Ps 139). Si l’on définit la dignité humaine selon des critères changeants (conscience, autonomie…), alors chacun peut perdre sa propre dignité lorsque ces critères disparaissent. C’est une position instable : elle ne protège finalement personne, alors que l’amour du prochain appelle à protéger chaque existence (Mt 22:39).", 
   "scripture": ["Luke 1:41-44", "Ps 139:13-16", "Mt 22:39"]
 } ,
-    {
-      "id": "couts-sociaux",
-      "question": "Les coûts d’un accouchement peuvent-ils justifier l’avortement ?",
-      "reponse": "Les coûts de la maternité existent et sont réels, mais réduire la question humaine à un calcul économique est réducteur. Une société digne considère la personne comme un sujet et non comme une charge ; elle investit dans l’accompagnement des familles, la santé maternelle et l’aide aux plus vulnérables pour que la grossesse ne devienne pas une condamnation socio-économique. Les difficultés économiques doivent être combattues par la solidarité, jamais en supprimant celui qui en serait la victime.",
-      "scripture": []
-    },
+  
     {
       "id": "impact-travail",
       "question": "L’avortement facilite-t-il l’intégration des femmes au travail, des 'rouages' économiques ?",
@@ -862,7 +866,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "argument-hypothese-marie",
       "question": "Si l'on admettait l'IVG, 'aurait-on tué Dieu' dans le cas de Marie et Jean-Baptiste? (argument rhétorique)",
-      "reponse": "Cet argument est rhétorique : il souligne la portée sacrée de l’Incarnation. La Visitation révèle que Jean-Baptiste reconnaît le Christ encore dans le sein de Marie (Luc 1,41-44). La Révélation affirme que Dieu connaît chaque être humain dès sa conception (Ps 139). Bien sûr, dans le plan réel de Dieu, l’Incarnation ne pouvait être empêchée. Mais l’argument montre la contradiction morale d’une vision où l’on pourrait disposer librement d’une vie humaine dans le sein maternel.",
+      "reponse": "Cet argument est rhétorique : il souligne la portée sacrée de l’Incarnation. La Visitation révèle que Jean-Baptiste reconnaît le Christ encore dans le sein de Marie (Luc 1,41-44). La Révélation affirme que Dieu connaît chaque être humain dès sa conception (Ps 139). Bien sûr, dans le plan réel de Dieu, l’Incarnation ne pouvait être empêchée. Mais l’argument montre la contradiction morale d’une vision où l’on pourrait disposer librement d’une vie humaine.... dans le sein maternel. Marie et Joseph sont d'ailleurs l'exemple parfait à suivre devant l'épreuve",
       "scripture": ["Luke 1:41-44", "Ps 139:13-16"]
     },
   
