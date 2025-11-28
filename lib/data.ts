@@ -780,7 +780,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "id": "biologie-embryon",
       "question": "L’embryon a-t-il une vie biologique distincte dès la fécondation ?",
       "reponse": "Oui : dès la fécondation apparaît un être vivant biologiquement autonome (zygote) ayant un patrimoine génétique unique et un programme de développement. Sur le plan biologique, il s’agit d’un organisme humain en développement, ce qui fonde l’argument de protection de sa vie dès ses premiers stades.",
-      "scripture": []
+      "scripture": ["Ap 12"]
     },
     {
       "id": "personne-seuil",
@@ -805,7 +805,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "pratique-illlegale-argument",
       "question": "L’argument 'ça se pratique illégalement, dépénalisons' est-il suffisant ?",
-      "reponse": "Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant. Pourquoi aurait-on le droit de tuer un innocent mais pas de violer quelqu'un ? Écoutons tous les coupables dans ce cas. 'Si tuer des innocents est un droit, plus rien est mal' (Sainte Mère Thérésa).",
+      "reponse": "Beaucoup d’actes répréhensibles se pratiquent illégalement (vols, violences) sans qu’on les dépénalise pour autant (si quelqu’un, ruiné par une autre personne, en vient à voler quelqu’un, le péché ne ferait que se répandre). Pourquoi aurait-on le droit de tuer un innocent mais pas de violer quelqu'un ? Écoutons tous les coupables. Aucun juge n’est, d’ailleurs, concerné par l’affaire. Et si 'tuer des innocents est un droit, plus rien n'est mal' (Sainte Mère Thérésa).",
       "scripture": []
     },
   
