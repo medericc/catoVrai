@@ -661,7 +661,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
   description: "Approfondissement de la doctrine catholique",
   domaines: [
     {
-      id: "pudeur-definition",
+      id: "pudeur",
       titre: "La vertu de la pudeur",
       questions: [
         {
@@ -707,7 +707,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
     },
 
     {
-      id: "consensus-patrum",
+      id: "consensus",
       titre: "Consensus des Pères de l'Église",
       questions: [
         {
@@ -767,7 +767,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     },
 
     {
-  "id": "avortement-partie1",
+  "id": "vie",
   "titre": "Contre la fermeture du cœur : l’amour dans la vérité",
   "questions": [
     {
@@ -1158,6 +1158,13 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
   "id": "unite-et-diversite-des-peuples",
   "titre": "Contre la discrimination : l’unité dans la diversité",
   "questions": [
+
+     {
+      "id": "humanite",
+      "question": "L’humanité est-elle divisée ?",
+   "reponse": "Il y a une seule humanité et diverses cultures (traditions, modes de vie, façons de penser). Les cultures c'est la manière dont hommes et femmes vivent et transmettent ces traditions. Ces différences culturelles sont légitimes, tant qu’elles n’imposent pas une vision unique ni ne méprisent les autres. Les cultures varient et enrichissent cette unité : la famille humaine reste une."
+   ,  "scripture": ["CEC 360","CEC 1204","CEC 1934-1935"]
+    },
     {
       "id": "creation-image-dieu",
       "question": "Que signifie être créés à l'image de Dieu ?",
