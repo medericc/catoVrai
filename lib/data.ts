@@ -665,6 +665,13 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
       titre: "La vertu de la pudeur",
       questions: [
         {
+          id: "egocentrique",
+          question: "Penser à soi avant les autres est-il égocentrique ?",
+          reponse: `Non. Prendre soin de soi, de son âme, de son corps, de sa dignité et de sa pureté n’est pas de l’égocentrisme. On devient meilleur pour mieux servir. Ce n’est égocentrique que si on s’occupe de soi contre les autres, mais s’occuper de soi pour mieux aimer, c’est de la vertu.  On ne peut donner que ce qu’on possède et si je ne suis pas en paix, équilibré, pur, humble… je ne peux pas aimer les autres comme Dieu le demande. Reconnaître ses limites, ses faiblesses, ses besoins spirituels est le chemin vers la sainteté. `,
+          scripture: ["Marc 12,31","1 Tm 4,16","Homilia in Psalmum 33, n°2","Règles Morales 80","Homélie sur l’Ascèse"]
+        // cesaree basile
+        },
+        {
           id: "pudeur-quoi",
           question: "Qu'est-ce que la pudeur et quel est son rôle ?",
           reponse: `La pudeur est la vertu qui honore la dignité de la personne, corps et âme unis dans le même mystère. Elle protège le mystère des personnes et de leur amour, invite à la patience et à la modération dans les relations humaines, et exige une pureté du cœur. Le Catéchisme de l'Église catholique (CEC §2521-2524) la présente comme un gardien de la chasteté, une protection de la dignité et un respect de soi et d’autrui.`,
@@ -763,7 +770,12 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
   "id": "avortement-partie1",
   "titre": "Contre la fermeture du cœur : l’amour dans la vérité",
   "questions": [
-   
+    {
+      "id": "le-mal",
+      "question": "Qu’est-ce que le mal ?",
+      "reponse": "Le mal est une privation du bien, un désordre dans l’ordre voulu par Dieu. Il n’est pas une réalité créée par Dieu, mais le manque d’un bien qui devrait être présent, et dans le cas du péché, un mauvais usage de la liberté. Le mal physique résulte de la fragilité des créatures. Le mal n’a d’existence que comme déviation ou blessure d’un bien.",
+      "scripture": ["CEC 309","CEC 311"]
+    },
     {
       "id": "biologie-embryon",
       "question": "L’embryon a-t-il une vie biologique distincte dès la fécondation ?",
