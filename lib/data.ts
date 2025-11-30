@@ -230,11 +230,12 @@ export const themes: Domaine[] = [
       scripture: ["1 Tim 3:15"]
     },
     {
-      id: "pierre",
-      question: "Pierre n’avait pas de rôle spécial.",
-      reponse: `Jésus lui confie les clefs (Mt 16,18-19), lui dit : « Pais mes brebis » (Jn 21,17), et dans les Actes, Pierre agit en premier (Actes 1-10). Il est le berger visible de l’Église.`,
-      scripture: ["Mt 16:18-19", "Jn 21:17", "Actes 1-10"]
-    },
+  "id": "pierre",
+  "question": "Pierre n’avait pas de rôle spécial.",
+  "reponse": "Jésus reçoit du Père la mission de Berger, puis il la confie visiblement à Pierre : « Tu es Pierre, et sur cette pierre je bâtirai mon Église » ; « Je te donnerai les clefs du Royaume » ; « Pais mes brebis ». Comme Moïse transmet l’autorité à Josué, Jésus donne à Pierre une autorité visible. Dans les Actes, Pierre prend constamment l’initiative : il enseigne, il décide, il ouvre la mission. Il agit comme le pasteur visible de l’Église. Et dans l’Apocalypse, Jésus détient les clefs de David, montrant que l’autorité du Royaume existe et qu’il en confie l’exercice à Pierre sur la terre.", 
+  "scripture": ["Jean 10","Hébreux 13,20","Mt 16:18-19", "Jn 21:15-17", "Actes 1-10","1 Pierre 5,4" ,"Ap 3:7"]
+}
+,
     {
       id: "pape",
       question: "Le pape, ça n’existe pas dans la Bible.",
@@ -308,8 +309,16 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
       "id": "hebreux-cite-septante",
       "question": "Les auteurs du Nouveau Testament citent la Septante, pourquoi cela compte ?",
       "reponse": "Le Nouveau Testament reprend fréquemment des formulations qui proviennent de la Septante. La simple substitution par le texte massorétique postérieur (qui omet certains livres) laisse de côté la tradition scripturaire utilisée par l’Église apostolique.",
-      "scripture": ["Hébreux 10:5 (citation de Ps 40 dans la LXX)"]
+      "scripture": ["Hébreux 10:5 (Ps 40)","Romain 9:21 (Sg 15:7)"]
     },
+   {
+  "id": "cite-septante",
+  "question": "Les Deutérocanoniques sont-ils cités dans la Bible ?",
+  "reponse": "Quand Paul écrit à Timothée : « Toute Écriture est inspirée de Dieu », Timothée se trouve à Éphèse, où la communauté juive utilise la Septante, la Bible grecque de la diaspora.", 
+  "scripture": ["2 Timothée 3:16", "2 Timothée 3:15", "Actes 16:1"]
+}
+,
+
     {
   "id": "voyelles-massoretiques",
   "question": "Les voyelles du texte hébreu ne sont-elles pas originales ?",
@@ -476,8 +485,8 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
         {
           id: "jesus-foi-bapteme",
           question: "Jésus n’a-t-il pas demandé la foi personnelle avant le baptême ?",
-          reponse: `Jésus dit au contraire : “Laissez venir à moi les petits enfants…” (Marc 10,14). Il ne met aucune condition d’âge ou de compréhension.`,
-          scripture: ["Marc 10:14"]
+          reponse: `Jésus dit au contraire : “Laissez venir à moi les petits enfants…” (Marc 10,14). Il ne met aucune condition d’âge ou de compréhension. De plus, la Bible montre que Dieu peut agir dans une personne avant même qu’elle soit en âge de comprendre.`,
+          scripture: ["Marc 10:14","Luc 1,15"]
         },
         {
           id: "pas-de-bebes-bible",
@@ -494,7 +503,8 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
         {
           id: "attendre-grandir",
           question: "Alors pourquoi ne pas attendre qu’il soit grand ?",
-          reponse: `On ne dirait jamais : “On attend que l’enfant soit grand pour le soigner ou le protéger.” On donne le bien dès que possible. Le baptême est une protection spirituelle.`
+          reponse: `On ne dirait jamais : “On attend que l’enfant soit grand pour le soigner ou le protéger.” On donne le bien dès que possible.   Le baptême est une protection spirituelle qui met l’enfant sous la garde de Dieu et le préserve du mal.`
+        ,scripture: ["Galates 5, 19-21"]
         },
         {
           id: "bapteme-primitif",
