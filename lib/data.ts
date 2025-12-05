@@ -259,7 +259,13 @@ export const themes: Domaine[] = [
       reponse: `Non. Jésus fonde une Église visible et missionnaire : « Comme le Père m’a envoyé, moi aussi je vous envoie. » (Jn 20,21) Elle agit avec l’autorité du Christ.`,
       scripture: ["Jn 20:21"]
     },
-
+{
+  "id": "apostres-succession",
+  "question": "Faut-il des apôtres pour l'Église ?",
+  "reponse": " Jésus choisit les Douze comme témoins directs et leur confie la mission de paître son peuple (Mt 28,19-20 ; Jn 20,21). Pierre reçoit les clefs et le rôle de berger visible (Mt 16,18-19 ; Jn 21,15-17), et il organise la succession apostolique dès le début (Actes 1,15-26). Paul envoie Timothée pour établir des presbytres et des responsables locaux partout où l'Évangile est annoncé (1 Tim 3 ; Tite 1,5), afin de garder le troupeau confié par le Saint-Esprit (Actes 20,28). L’ordination et la succession garantissent que l’autorité apostolique se transmet de génération en génération, comme pour Matthias choisi pour remplacer Judas par l’initiative de Pierre.", 
+  "scripture": ["Mt 16:18-19", "Jn 21:15-17", "Actes 1:15-26", "Actes 20:28", "1 Tim 3", "Tite 1:5"]
+}
+,
     {
       id: "unite",
       question: "Pourquoi une seule Église ?",
@@ -712,7 +718,13 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
           question: "Quel lien existe entre pudeur et respect d'autrui ?",
           reponse: `La pudeur exprime le respect de la personne, de son corps et de son âme. Elle empêche de réduire autrui à un simple objet de désir ou de curiosité. Elle éduque le regard, le cœur et les gestes pour que les relations humaines demeurent dans la vérité et la charité.`,
           scripture: ["Mt 5:8", "1 Th 4:3-5"]
-        }
+        },
+        {
+  id: "pudeur-liberte",
+  question: "Connaître le bien et le mal nous aide à avancer dans la vie ?",
+  reponse: `Savoir discerner le bien et le mal nous libère des doutes inutiles et nous permet de suivre un chemin clair vers la sainteté. Certains choix comme le métier, le mariage ou la vocation peuvent être décidés par la tradition ou la famille. Tenter de tout décider seul va nous faire perdre du temps et nous illusionner sur notre propre grandeur (la Sainteté). `,
+  scripture: ["CEC §1776-1783", "Jean 8:32", "Benoît XVI, Homélie sur la conscience", "François, Amoris Laetitia §39"] 
+} 
     ]
     },
 
