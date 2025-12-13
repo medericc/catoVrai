@@ -2,13 +2,13 @@ import { NextResponse } from "next/server";
 import puppeteer from "puppeteer-core";
 import chromium from "@sparticuz/chromium";
 
-export const runtime = "nodejs"; // IMPORTANT
+export const runtime = "nodejs";
 
 export async function GET() {
   const browser = await puppeteer.launch({
     args: chromium.args,
     executablePath: await chromium.executablePath(),
-    headless: chromium.headless,
+    headless: true,
   });
 
   const page = await browser.newPage();
@@ -29,7 +29,7 @@ export async function GET() {
 
   await browser.close();
 
-  return new NextResponse(pdf, {
+  return new NextResponse(Buffer.from(pdf), {
     headers: {
       "Content-Type": "application/pdf",
       "Content-Disposition": "inline; filename=essai.pdf",
