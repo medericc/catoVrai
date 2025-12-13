@@ -79,8 +79,7 @@ if (!domaine) return notFound();
     </h2>
 
     <p className="text-gray-700 mb-6 max-w-xl mx-auto">
-      Cet essai développe en profondeur les fondements intellectuels et spirituels
-      du sujet abordé ci-dessus.
+      Voici ma réflexion sur les aspects intellectuels et spirituels liés au sujet dont il est question ci-dessus.
     </p>
 
     <a
