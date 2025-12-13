@@ -5,7 +5,7 @@ export async function GET() {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
-  await page.goto("http://localhost:3000/essai", {
+  await page.goto("https://cato-heresie.vercel.app/essai", {
     waitUntil: "networkidle0",
   });
 
