@@ -72,7 +72,26 @@ if (!domaine) return notFound();
   ))}
 </div>
 
+{domaine.pdf && (
+  <section className="mt-16 border-t pt-10 text-center">
+    <h2 className="text-2xl font-serif font-semibold mb-4">
+      Essai approfondi
+    </h2>
 
+    <p className="text-gray-700 mb-6 max-w-xl mx-auto">
+      Cet essai développe en profondeur les fondements intellectuels et spirituels
+      du sujet abordé ci-dessus.
+    </p>
+
+    <a
+      href={domaine.pdf.url}
+      target="_blank"
+      className="inline-flex items-center gap-3 px-6 py-3 border border-gray-800 text-gray-900 hover:bg-gray-100 transition"
+    >
+      📄 Télécharger le PDF
+    </a>
+  </section>
+)}
 
     </main>
   );

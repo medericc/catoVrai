@@ -38,3 +38,385 @@ details[open] summary ~ * {
   --color-neufcent: #1b4332; 
   --color-huitcent: #2d6a4f; 
 }
+/* BibleEnMain.css */
+.bible-en-main-document {
+  max-width: 210mm;
+  min-height: 297mm;
+  margin: 0 auto;
+  padding: 40px 50px;
+  background: linear-gradient(135deg, #f8f4e9 0%, #f1e9d7 100%);
+  font-family: 'Georgia', 'Times New Roman', serif;
+  color: #2c1810;
+  position: relative;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e0d6c2;
+}
+
+/* En-tête du document */
+.document-header {
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.header-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.logo-section {
+  width: 100%;
+}
+
+.logo-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  border: 2px solid #d4b483;
+}
+
+.logo-image {
+  position: relative;
+  width: 120px;
+  height: 120px;
+}
+
+.image-placeholder {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 4px solid #8b4513;
+  background: linear-gradient(135deg, #8b4513 0%, #d2691e 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.personal-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.logo-glow {
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(139, 69, 19, 0.2) 0%, transparent 70%);
+  animation: pulse 3s infinite;
+}
+
+.logo-title {
+  text-align: center;
+}
+
+.main-title {
+  font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+  font-size: 3.5rem;
+  color: #5d4037;
+  margin: 0;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.title-underline {
+  width: 200px;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, #8b4513, transparent);
+  margin: 10px auto;
+}
+
+.motto {
+  font-style: italic;
+  color: #795548;
+  margin-top: 5px;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+}
+
+.header-divider {
+  text-align: center;
+  margin: 20px 0;
+  position: relative;
+}
+
+.header-divider::before,
+.header-divider::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 35%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #8b4513, transparent);
+}
+
+.header-divider::before {
+  left: 0;
+}
+
+.header-divider::after {
+  right: 0;
+}
+
+.divider-ornament {
+  font-size: 1.5rem;
+  color: #8b4513;
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Contenu du document */
+.document-content {
+  line-height: 1.8;
+  font-size: 1.15rem;
+}
+
+.essay-title-container {
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 20px 0;
+}
+
+.essay-title {
+  font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+  font-size: 2.5rem;
+  color: #4e342e;
+  margin-bottom: 15px;
+  font-weight: normal;
+  line-height: 1.3;
+}
+
+.title-decoration {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  color: #8b4513;
+  font-size: 0.9rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.decoration-left,
+.decoration-right {
+  font-size: 1.5rem;
+}
+
+/* Contenu de l'essai */
+.essay-content {
+  text-align: justify;
+}
+
+.intro-section {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.initial-letter {
+  position: absolute;
+  left: -50px;
+  top: 0;
+  font-size: 5rem;
+  font-family: 'Times New Roman', serif;
+  color: #8b4513;
+  font-weight: bold;
+  line-height: 1;
+  opacity: 0.7;
+}
+
+.intro-paragraph {
+  text-indent: 50px;
+  margin-bottom: 25px;
+  position: relative;
+}
+
+.highlight-text {
+  font-weight: bold;
+  color: #5d4037;
+  font-style: italic;
+}
+
+.paragraph-section {
+  margin-bottom: 25px;
+  text-indent: 30px;
+}
+
+.paragraph-section p {
+  margin: 0;
+}
+
+.illustrative-box {
+  background: linear-gradient(135deg, rgba(139, 69, 19, 0.05) 0%, rgba(210, 105, 30, 0.05) 100%);
+  border-left: 4px solid #8b4513;
+  padding: 20px 25px;
+  margin: 30px 0;
+  border-radius: 0 10px 10px 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.illustration-icon {
+  font-size: 2.5rem;
+  color: #8b4513;
+  flex-shrink: 0;
+}
+
+.illustration-text {
+  font-style: italic;
+  color: #5d4037;
+  margin: 0;
+  line-height: 1.7;
+}
+
+.conclusion-section {
+  margin-top: 40px;
+  padding: 30px;
+  background: linear-gradient(135deg, rgba(139, 69, 19, 0.03) 0%, rgba(210, 105, 30, 0.03) 100%);
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  border: 1px solid rgba(139, 69, 19, 0.1);
+}
+
+.conclusion-decoration {
+  color: #8b4513;
+  font-size: 2rem;
+  margin: 15px 0;
+  opacity: 0.5;
+}
+
+.conclusion-paragraph {
+  font-size: 1.2rem;
+  line-height: 1.9;
+  color: #4e342e;
+  margin: 0;
+  text-align: center;
+}
+
+/* Pied de page */
+.document-footer {
+  margin-top: 60px;
+  padding-top: 20px;
+  border-top: 2px solid #d4b483;
+}
+
+.footer-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #8b4513, transparent);
+  margin-bottom: 20px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.footer-left,
+.footer-right {
+  flex: 1;
+}
+
+.footer-center {
+  flex: 2;
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 0.9rem;
+  color: #795548;
+  margin: 0;
+  font-style: italic;
+}
+
+.seal {
+  display: inline-block;
+  padding: 10px 25px;
+  background: linear-gradient(135deg, #8b4513 0%, #a0522d 100%);
+  color: white;
+  border-radius: 50px;
+  font-family: 'Palatino Linotype', serif;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  box-shadow: 0 3px 10px rgba(139, 69, 19, 0.3);
+}
+
+.page-number {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #8b4513;
+  margin-top: 10px;
+}
+
+/* Animations */
+@keyframes pulse {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 0.6; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+/* Responsive */
+@media print {
+  .bible-en-main-document {
+    box-shadow: none;
+    border: none;
+    padding: 20mm;
+  }
+  
+  .logo-glow {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bible-en-main-document {
+    padding: 20px;
+  }
+  
+  .logo-frame {
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .main-title {
+    font-size: 2.5rem;
+  }
+  
+  .essay-title {
+    font-size: 1.8rem;
+  }
+  
+  .initial-letter {
+    position: static;
+    font-size: 4rem;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 5px;
+  }
+  
+  .intro-paragraph {
+    text-indent: 0;
+  }
+  
+  .footer-content {
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+  }
+}

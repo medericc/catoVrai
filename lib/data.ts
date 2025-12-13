@@ -6,6 +6,10 @@ export interface Question {
   reponse: string;
   scripture?: string[];
 }
+export interface DomainePDF {
+  title: string;
+  url: string;
+}
 
 export interface Domaine {
   id: string;
@@ -13,6 +17,8 @@ export interface Domaine {
   description?: string;
   domaines?: Domaine[]; // sous-domaines
   questions?: Question[]; // questions dans ce domaine
+  
+   pdf?: DomainePDF;
 }
 
 
@@ -1304,18 +1310,14 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "question": "Chaque droit est-il réellement 'directus' ?",
       "reponse": "Le droit humain peut s’éloigner du droit naturel quand les dirigeants cèdent à la pression, à l’idéologie ou à la peur, comme Pilate renonçant à défendre la justice par faiblesse.",
       "scripture": []
-    },
-
-{
-      "id": "essai",
-      "question": "Mon Essai - La décadence par l'impérialisme culturel",
-      "reponse": "L'impérialisme culturel de notre temps, par son ardente obligation d'universalité, précipite le langage vers un inéluctable nivellement. Contraint à une simplification outrancière pour garantir son assimilation globale, il sacrifie la substance à l'accessibilité. En dépouillant ainsi le verbe de son exigence, l'on en étiole la vigueur, et l'on assèche la source où s'abreuve l'intelligence populaire. Qu'il nous suffise d'évoquer Sainte Jeanne d’Arc : nonobstant son absence de toute instruction lettrée, elle s'exprimait en une langue d'une justesse admirable. Or, de nos jours, cette indigence verbale permet de corrompre l'essence des mots, voire d'en travestir audacieusement les définitions. Ce noir dessein ne vise qu'à semer la discorde par d'interminables disputes pour, in fine, se rendre maître des esprits.Il appert que jadis régnait une ordonnance tutélaire grâce à laquelle chaque âme, connaissant son rang et sa profession, s'adonnait pleinement à son pèlerinage terrestre vers la sainteté. Or, un impérialisme délétère insinue désormais les germes de l'hérésie au sein même de chaque identité. Cette corruption sape les fondements culturels, précipitant l'effondrement de l'ordre social et engendrant la discorde universelle ; car nul ne daigne plus se soumettre à la tradition, s'écriant avec arrogance : « De quel droit m'imposerait-on entrave ? ». De surcroît, seul Dieu unit véritablement, et c'est Lui qui a voulu la diversité des cultures, unies par la Foi (« Allez, faites de toutes les nations des disciples »). Considérez, à titre d'exemple, les catholiques de Bretagne et ceux du Béarn : ils différaient par leur culture (tels un \"bleu foncé\" et un \"vert foncé\"), car Dieu l'a voulu ainsi, mais ils se trouvaient indissolublement liés par la nuance fondamentale de leur piété (le côté \"foncé\").  Dieu ayant été chassé du centre de la cité, l'homme s'évertue à inventer des rivalités sans substance, ni grandeur culturelle, telles celles promues par les Waleffe, les Naismith ou les Coubertin. Ces vaines compétitions n'ont d'autre dessein que de briser l'hégémonie séculaire de l'Église et de substituer à l'unité perdue des divisions factices. Plus pernicieux encore, cet impérialisme instaure une véritable tyrannie de la conformité : il ne s'agit pas seulement d'étaler l'impudeur, mais de contraindre les âmes à la récitation servile d'une novlangue imposée. Pour satisfaire des intérêts mercantiles, l'on exige de chacun qu'il professe publiquement les dogmes du moment (décrets sans substance qu'une intelligentsia auto-proclamée impose). Et malheur à celui qui refuserait de ployer le genou ou d'afficher leurs symboles : cette dictature de l'esprit ne tolère aucune dissidence, forçant l'homme à devenir le héraut de sa propre servitude.  Cet impérialisme se traduit par un effondrement manifeste des digues morales, culminant dans l’assassinat de presque cent millions d’innocents par an. L'on octroie et l'on tolère maintes choses là où la plus grande prudence serait de mise. Jadis, les hérétiques dits Cathares furent promptement écartés afin de préserver l'intégrité de la Sainte Foi. À l'heure présente, une indulgente licence conduit aisément les âmes à franchir le pas vers l'abîme. Ces austères interdits tenaient lieu de remparts salutaires : en plaçant la barrière de la morale très en amont, l'on s'assurait que la moindre transgression ne précipitât point l'âme dans l'abomination. À titre d'exemple, être huguenote, telle Madame Catherine de Bourbon, était alors estimé « exorbitant et déraisonnable » ; de nos jours, embrasser la doctrine réformée est tenu pour « quasi admissible ». Cette déperdition des repères ne saurait qu'obérer le salut des âmes et mettre en péril l'ordonnancement de la société. Sous la tutelle de l'Europe catholique, de vastes époques de concorde ont fleuri, lesquelles furent souvent scellées par le saint baptême. À présent, la paix ne s'impose qu'à la suite des hécatombes et de la victoire armée. Ces différends sont trop fréquemment conduits par des hommes qui, au fond de l'entendement, professent des idées similaires (tels un « vert sombre » luttant contre un « vert pâle », l'un et l'autre n'en demeurant pas moins de l'essence du vert).",
-      "scripture": []
-    },
+    }
 
 
 
-  ]
+  ],pdf: {
+    title: "Essai - La décadence par l'impérialisme culturel",
+    url: "/api/pdf/imperialisme-culturel",
+  },
 }
 
 
