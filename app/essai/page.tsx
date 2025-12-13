@@ -11,11 +11,12 @@ export default function EssaiPage() {
               {/* Votre image personnelle - remplacez par votre image.png */}
               <div className="logo-image">
                 <div className="image-placeholder">
-                  <img 
-                    src="/public/imagelogo.png" 
-                    alt="Logo BibleEnMain" 
-                    className="personal-logo"
-                  />
+                 <img
+  src="/imagelogo.png"
+  alt="Logo BibleEnMain"
+  className="personal-logo"
+/>
+
                 </div>
                 <div className="logo-glow"></div>
               </div>
@@ -127,7 +128,7 @@ export default function EssaiPage() {
             </div>
           </div>
           <div className="page-number">
-            Page 1
+            Page 5
           </div>
         </footer>
       </main>

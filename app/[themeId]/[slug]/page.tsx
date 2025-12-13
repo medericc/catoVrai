@@ -83,7 +83,7 @@ if (!domaine) return notFound();
     </p>
 
     <a
-      href={domaine.pdf.url}
+      href="/essai-imperialisme.pdf"
       target="_blank"
       className="inline-flex items-center gap-3 px-6 py-3 border border-gray-800 text-gray-900 hover:bg-gray-100 transition"
     >
