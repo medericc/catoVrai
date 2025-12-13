@@ -1316,7 +1316,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
 
   ],pdf: {
     title: "Essai - La décadence par l'impérialisme culturel",
-    url: "/api/pdf/imperialisme-culturel",
+    url: "/api/pdf/essai-imperialisme",
   },
 }
 
