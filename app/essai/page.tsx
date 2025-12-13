@@ -12,7 +12,7 @@ export default function EssaiPage() {
               <div className="logo-image">
                 <div className="image-placeholder">
                   <img 
-                    src="/public/image.png" 
+                    src="/public/imagelogo.png" 
                     alt="Logo BibleEnMain" 
                     className="personal-logo"
                   />
