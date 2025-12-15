@@ -100,8 +100,8 @@ export default function EssaiPage() {
 
           <section className="paragraph-section">
             <p>
-              Ces austères interdits tenaient lieu de remparts salutaires : en plaçant la barrière de la morale très en amont, l&apos;on s&apos;assurait que la moindre transgression ne précipitât point l&apos;âme dans l&apos;abomination. À titre d&apos;exemple, être huguenote, telle Madame Catherine de Bourbon, était alors estimé « exorbitant et déraisonnable » ; de nos jours, embrasser la doctrine réformée est tenu pour « quasi admissible ». Cette déperdition des repères ne saurait qu&apos;obérer le salut des âmes et mettre en péril l&apos;ordonnancement de la société.
-            </p>
+          Ces austères interdits tenaient jadis lieu de remparts salutaires : en plaçant la barrière de la morale très en amont, l&apos;on s&apos;assurait que la moindre transgression ne précipitât point l&apos;âme dans l&apos;abomination. À titre d&apos;exemple, l&apos;adhésion à l&apos;hérésie huguenote, telle celle de Madame Catherine de Bourbon, était alors estimée « exorbitante et déraisonnable » ; de nos jours, par un tragique glissement, embrasser la doctrine réformée est tenu pour « quasi admissible ». Cette déperdition des repères ne saurait qu&apos;obérer le salut des âmes et mettre en péril l&apos;ordonnancement même de la société, réduisant les hommes à une posture de défense perpétuelle. Ils se trouvent ainsi assaillis par un « code de politesse » artificiel, invention d’une bourgeoisie du XIXᵉ siècle, telle la baronne autoproclamée Staffe. Ce corpus dicte des règles serviles et dénuées d&apos;Amour, travestissant la charité en une soumission hiérarchique et une verbigération creuse (tyrannie du langage et de l&apos;impudicité imposée par la force et l&apos;harcèlement dès les bancs du collège). Cette mascarade vient usurper la place de Dieu, réalisant là, tout ce que la République, dans son unité indivisible (Robespierre) hérité de Rousseau, voulaient éviter. Certes, l&apos;on pourrait arguer qu&apos;une telle imposition peut être refusée, à l&apos;instar des premiers Chrétiens face aux romains. Toutefois, la réalité nous contraint de vivre au sein d&apos;un système mondial vicié, véritable cloaque spirituel. La tragédie réside en ce que, in fine, nous livrons nos enfants aux institutions d&apos;une école laïque, dont la pédagogie est aux mains de zélateurs destructeurs de la famille et de la vie ; ces derniers imposent une éducation qui, loin d&apos;élever l&apos;âme, façonne de futurs criminels. Puis, nourris de fange jusqu’à l’âge adulte, ils sont jetés dans cet univers de fange, sommés d’y rester vertueux, quand tout, autour d’eux, conspire à les corrompre.
+           </p>
           </section>
 
           <section className="conclusion-section">
@@ -127,9 +127,9 @@ export default function EssaiPage() {
               <p className="footer-text">Réflexion théologique et culturelle</p>
             </div>
           </div>
-          <div className="page-number">
-            Page 5
-          </div>
+          {/* <div className="page-number">
+            Page 6
+          </div> */}
         </footer>
       </main>
     </div>

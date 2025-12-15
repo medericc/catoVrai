@@ -73,24 +73,38 @@ if (!domaine) return notFound();
 </div>
 
 {domaine.pdf && (
-  <section className="mt-16 border-t pt-10 text-center">
+  <section className="mt-16 border-t pt-10 text-center px-4">
     <h2 className="text-2xl font-serif font-semibold mb-4">
       Essai approfondi
     </h2>
 
-    <p className="text-gray-700 mb-6 max-w-xl mx-auto">
+    <p className="text-gray-700 mb-8 max-w-xl mx-auto">
       Voici ma réflexion sur les aspects intellectuels et spirituels liés au sujet dont il est question ci-dessus.
     </p>
 
-    <a
-      href="/essai-imperialisme.pdf"
-      target="_blank"
-      className="inline-flex items-center gap-3 px-6 py-3 border border-gray-800 text-gray-900 hover:bg-gray-100 transition"
-    >
-      📄 Télécharger le PDF
-    </a>
+    {/* Boutons */}
+    <div className="flex flex-col sm:flex-row justify-center gap-4">
+      {/* Voir PDF */}
+      <a
+        href="/essai"
+        target="_blank"
+        className="inline-flex items-center justify-center gap-2 px-6 py-3 border border-gray-800 text-gray-900 hover:bg-gray-100 transition w-full sm:w-auto"
+      >
+        👁️ Voir le PDF
+      </a>
+
+      {/* Télécharger PDF */}
+      <a
+        href="/essai-imperialisme.pdf"
+        download
+        className="inline-flex items-center justify-center gap-2 px-6 py-3 border-white bg-secondary text-white hover:bg-gray-800 transition w-full sm:w-auto"
+      >
+        📄 Télécharger le PDF
+      </a>
+    </div>
   </section>
 )}
+
 
     </main>
   );
