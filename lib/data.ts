@@ -1489,11 +1489,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
   id: "eglise-infiltration",
   titre: "L’Église est-elle infiltrée ? Va-t-elle tomber ?",
   questions: [
-    {
-      id: "eglise-conforme-monde",
-      question: "L’Église devrait-elle se conformer au monde ?",
-      reponse: `Les premiers chrétiens ont évangélisé, ex nihilo, l’Empire romain qui les a toujours persécutés. S’ils avaient “adapté” la doctrine, il n’y aurait ni évangile, ni saints, ni martyrs. Le monde change sans cesse ; la vérité non. Le rôle de l’Église est d’être le phare du monde.`
-    },
+   
     {
       id: "eglise-infiltrée",
       question: "L’Église est-elle infiltrée par des personnes mauvaises ?",
@@ -1502,7 +1498,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     },
     {
       id: "juifs-ordres-inquisition",
-      question: "Y a-t-il  et des infiltrations réelles ?",
+      question: "Y a-t-il eu des infiltrations réelles ?",
       reponse: `Oui. L’Inquisition espagnole a été créée parce que des juifs convertis pour des avantages matériels s’introduisaient dans le clergé tout en rejetant la foi qu’ils prétendaient professer.`
     },
     {
@@ -1526,7 +1522,20 @@ reponse: `Non. Nous sommes appelés à sauver l’Église en devenant saints. Le
       question: "Des Pères ont-ils déjà dénoncé la corruption dans l’Église ?",
       reponse: `Il a déjà été annoncé, dénoncé et combattu dès l’Antiquité. St Pie X parle d’hommes « qui travaillent à la ruine de l’Église de l’intérieur », « feignant de professer la même foi pour mieux tromper les simples ». St Irénée dénonçait déjà ceux qui « utilisent le nom du Christ pour prêcher un autre Christ ». Saint Cyrille avertissait que certains « se font ministres du Christ pour diviser, et soumettre la foi aux calculs du siècle ».`,
       scripture: ["Pascendi Dominici Gregis", "Contre les Hérésies", "Lettres de St Cyrille"]
-  }
+  },
+{
+  id: "seul-mais-ferme-dans-la-verite",
+  question: "Pourquoi peut-on rester paisiblement seul contre tous quand on sait où l’on va ?",
+  reponse: `Parce que la vérité ne dépend ni du nombre ni du consensus. Celui qui marche dans la volonté de Dieu n’a pas besoin d’être validé par le monde. Le Christ, les prophètes, les apôtres et les saints ont souvent été seuls face à la majorité. La foi n’est pas une démocratie : si Dieu a raison, Il a raison, même si tous les hommes disent le contraire. Il ne s’agit pas de dureté orgueilleuse, mais de fermeté droite, sans faiblesse rhétorique, fondée sur des arguments vrais, enracinés dans la Révélation. Les premiers chrétiens ont évangélisé, ex nihilo, l’Empire romain qui les a toujours persécutés. S’ils avaient “adapté” la doctrine, il n’y aurait ni évangile, ni saints, ni martyrs. Le rôle de l’Église est d’être le phare du monde. Saint Jean Chrysostome : "mieux vaut être seul avec la vérité que nombreux dans l’erreur". Benoît XVI : "la dictature du relativisme ne reconnaît rien comme définitif". Saint Augustin : "la vérité ne suit pas la foule" `, 
+  scripture: [
+    "Jn 14:6",
+    "Mt 7:13-14",
+    "Ga 1:10",
+    "Rm 12:2",
+    "Sg 2:12"
+  ],
+ 
+} 
       ]
     },
 
