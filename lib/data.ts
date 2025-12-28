@@ -463,7 +463,14 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
       question: "Le purgatoire, est-ce une punition ?",
       reponse: `Non. C’est une miséricorde. Les âmes y souffrent, mais vont à Dieu avec joie (St François de Sales).`,
       scripture: ["Saint François de Sales"]
-    } ] },
+    },
+  {
+  id: "lettre-laodiceens",
+  question: "Paul parle-t-il d’une lettre aux Laodicéens aujourd’hui perdue ?",
+  reponse: "Oui. Cette lettre aux Laodicéens n’existe plus aujourd’hui. Cela prouve que tous les enseignements apostoliques n’ont pas été conservés par écrit dans la Bible et que la foi chrétienne ne repose pas sur l’Écriture seule, mais aussi sur la Tradition vivante transmise par l’Église.", 
+  scripture: ["Colossiens 4:16"]
+}
+ ] },
 
 
 
@@ -1322,10 +1329,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
 
 
 
-  ],pdf: {
-    title: "Essai - La décadence par l'impérialisme culturel",
-    url: "/api/pdf/essai-imperialisme",
-  },
+  ],
 }
 
 
