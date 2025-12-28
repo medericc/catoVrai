@@ -1298,7 +1298,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     {
       "id": "femmes-et-foi",
       "question": "Quel rôle les femmes ont-elles eu dans la foi populaire ?",
-      "reponse": "Dans des provinces comme le Labourd, elles furent élues cheffes de paroisse, mais exclues par des Parisiens autoproclamés. Leur effacement par idéologie de cette tradition est une atteinte à la atteinte au peuple et à la culture basques.",
+      "reponse": "Dans des provinces comme le Labourd, elles furent élues cheffes de paroisse, mais exclues par des Parisiens autoproclamés. Leur effacement par idéologie de cette tradition est une atteinte au peuple.",
       "scripture": []
     },
     {
