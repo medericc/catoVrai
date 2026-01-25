@@ -909,6 +909,13 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "reponse": "Oui : dès la fécondation apparaît un être vivant biologiquement autonome (zygote) ayant un patrimoine génétique unique et un programme de développement. Sur le plan biologique, il s’agit d’un organisme humain en développement, ce qui fonde l’argument de protection de sa vie dès ses premiers stades.",
       "scripture": ["Ap 12"]
     },
+
+     {
+  "id": "embryon-puissance-acte",
+  "question": "L'embryon ou l'enfant est-il un adulte en puissance ?",
+  "reponse": "Oui, selon la logique aristotélicienne et la biologie moderne, l'embryon est un être humain 'en puissance' d'adulte. Cela signifie qu'il possède dès la conception tout le patrimoine génétique et la nature nécessaire pour devenir un adulte (et aspire donc à la sainteté). Il ne change pas de nature en grandissant (il ne devient pas plus humain), il déploie simplement ce qu'il est déjà. L'adulte est l'acte (l'aboutissement) de ce que l'embryon était déjà en germe.",
+  "scripture": ["Psaume 139:13-16", "Jérémie 1:5"]
+},
  
     {
       "id": "dignite-intrinseque",
@@ -918,12 +925,7 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
     },
    
 
-    {
-      "id": "analogie-gland-chene",
-      "question": "L’analogie 'gland ≠ chêne' est-elle valide pour comparer embryon et enfant ?",
-      "reponse": "L’analogie illustre une progression naturelle, mais elle simplifie trop : un gland est déjà une partie d’un chêne et dépend d’un arbre déjà formé, l’embryon est un individu humain distinct avec son propre patrimoine génétique et un développement autonome. L’embryon n’est pas un être humain en puissance, mais un être humain avec une puissance de se développer, comme un enfant de 6 ans en pleine croissance ou une personne de 78 ans en train de vieillir.",
-      "scripture": []
-    },
+   
     {
       "id": "pratique-illlegale-argument",
       "question": "L’argument 'ça se pratique illégalement, dépénalisons' est-il suffisant ?",
@@ -1118,8 +1120,6 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
   "reponse": "Quand une société commence à décider quelles vies méritent d’être protégées, la barrière morale recule toujours. L’histoire montre que la logique utilitariste conduit d’abord à l’avortement 'exceptionnel', puis à l’euthanasie 'par compassion', puis à l’élimination de toute vie jugée inutile ou coûteuse. Une fois le principe brisé, rien n’empêche les dérives les plus extrêmes.",
   "scripture": ["Dt 30:19"]
 },
-
-
 
 
 
