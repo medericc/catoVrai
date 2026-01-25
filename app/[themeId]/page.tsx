@@ -86,7 +86,7 @@ export default async function ThemePage({ params }: { params: Promise<{ themeId:
 
         {/* Télécharger PDF */}
         <a
-          href="/contre-vie-et-lumiere.pdf"
+          href="/api/pdf/essai-vie-et-lumiere"
           download
           className="
             inline-flex items-center justify-center gap-2 
