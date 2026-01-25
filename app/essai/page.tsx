@@ -97,7 +97,7 @@ export default function ReponsesPage() {
                 <div className="reponse-number">7</div>
                 <div className="reponse-content">
                   <h3>Baptême par aspersion vs immersion</h3>
-                  <p>Le concept biblique de &ldquo;aspersion&ldquo; est présent (Ézéchiel 36 : &ldquo;Je répandrai sur vous une eau pure&ldquo;). L&apos;immersion est dans la Trinité. L&apos;histoire du geôlier dans les Actes montre aussi des baptêmes domestiques immédiats.</p>
+                  <p>Le concept biblique de &ldquo;aspersion&ldquo; est présent (Ézéchiel 36 : &ldquo;Je répandrai (ranô/j&apos;aspergerai) sur vous une eau pure&ldquo;). L&apos;immersion est dans la Trinité. L&apos;histoire du geôlier dans les Actes montre aussi des baptêmes domestiques immédiats.</p>
                 </div>
               </div>
 
