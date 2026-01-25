@@ -196,6 +196,7 @@ export const themes: Domaine[] = [
       reponse: `La Bible ne dit jamais que seule l’Écriture est l’autorité. Au contraire, elle parle aussi de la Tradition transmise oralement (2 Thess 2,15). Jésus n’a pas écrit un livre : il a fondé une Église (Mt 16,18).`,
       scripture: ["2 Thess 2:15", "Mt 16:18"]
     },
+   
     {
       id: "tradition-biblique",
       question: "La Tradition, ce n’est pas biblique !",
@@ -211,7 +212,7 @@ export const themes: Domaine[] = [
     {
       id: "interpretation",
       question: "Chacun peut interpréter la Bible.",
-      reponse: `La Bible dit que les ignorants tordent les Écritures (2 Pierre 3,16). Elle demande une interprétation authentique (1 Tim 3,15). Cette mission appartient à l’Église, pas à l’individu isolé.`,
+      reponse: `La Bible dit que les ignorants tordent les Écritures (2 Pierre 3,16). Elle demande une interprétation authentique (1 Tim 3,15). Cette mission appartient à l’Église, pas à une élite individuelle.`,
       scripture: ["2 Pierre 3:16", "1 Tim 3:15"]
     },
     {
@@ -219,11 +220,24 @@ export const themes: Domaine[] = [
       question: "L’Église n’a rien à voir avec la Bible.",
       reponse: `La Bible est née dans l’Église, par l’Église et pour l’Église. Sans l’Église, il n’y aurait aucun canon biblique.`
     },
+
+  {
+
+  "id": "unite-eglise-succession-pierre",
+
+  "question": "L'Église est-elle restée unie malgré les siècles et la distance ?",
+
+  "reponse": "Jésus a prié spécifiquement pour que la foi de Pierre ne faille pas afin qu'il 'affermisse ses frères'. Dès 96 ap. J.-C., Clément de Rome intervient avec autorité à Corinthe, et au IIe siècle, Irénée de Lyon affirme que toute l'Église doit être en accord avec celle de Rome. Saint Ignace d'Antioche précise explicitement que l'Église de Rome “préside“ dans la région des Romains. Le fait que des évêques aux quatre coins du monde (de Lyon à Rome, d'Antioche à Carthage) aient proclamé exactement la même foi sans moyens de communication modernes prouve que l'Esprit Saint maintient l'unité organique de l'Église à travers le successeur de Pierre.",
+
+  "scripture": ["Luc 22:31-32", "Matthieu 16:18", "Jean 17:21"]
+
+},
     {
-      id: "canon-juif",
-      question: "Le canon biblique vient des Juifs.",
-      reponse: `Jésus et les apôtres utilisaient la Septante, pas la Bible juive postérieure. La Septante contient les 7 livres que les protestants ont retirés. Jésus cite cette version et la lit à la synagogue.`
-    },
+  "id": "conciles-continuite-esprit-saint",
+  "question": "Pourquoi les décisions des conciles sont-elles encore d'actualité ?",
+  "reponse": "Dès le début, l'Église a tranché les crises par des conciles, comme à Jérusalem (Actes 15), en affirmant : « Il a paru bon au Saint-Esprit et à nous ». Le Christ ayant promis d'être avec Son Église jusqu'à la fin du monde, il n'y a aucune preuve que l'Esprit Saint ait pris congé après la compilation de la Bible. Rejeter la légitimité des conciles, c'est nier la promesse de Jésus de guider son Église dans la vérité tout entière.",
+  "scripture": ["Actes 15:28", "Jean 16:13", "Matthieu 28:20"]
+},
     {
       id: "livres-ajoutes",
       question: "Les catholiques ont ajouté des livres.",
@@ -318,18 +332,34 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
   "titre": "66 ou 73 livres ?",
   "questions": [
     {
+
+  "id": "autorite-concile-carthage",
+
+  "question": "Le Concile de Carthage (397) est-il fiable pour fixer le canon biblique ?",
+
+  "reponse": "Si l'on accepte le décret du Synode de Rome (382) pour le Nouveau Testament, il est illogique de rejeter Carthage pour l'Ancien. L'Esprit Saint n'a pas pris congé de l'Église. Rejeter les livres deutérocanoniques acceptés à Carthage, c'est remettre en question l'instrument même qui nous a donné les 27 livres du Nouveau Testament.",
+
+  "scripture": ["1 Timothée 3:15", "Matthieu 28:20"]
+
+},
+{
+
+  "id": "2timothee-inspiration-septante",
+
+  "question": "Quand Paul dit à Timothée que 'toute Écriture est inspirée', de quels livres parle-t-il ?",
+
+  "reponse": "Paul rappelle à Timothée qu'il connaît les Saintes Lettres depuis son enfance (v.15). Or, Timothée vivait en milieu grec (père grec, mère juive de la diaspora) et utilisait la Septante, qui contient 46 livres. Si Paul affirme que 'toute Écriture' est inspirée, il valide la collection que Timothée a entre les mains.",
+
+  "scripture": ["2 Timothée 3:15-16", "Actes 16:1"]
+
+},
+    {
       "id": "hebreux-cite-septante",
       "question": "Les auteurs du Nouveau Testament citent la Septante, pourquoi cela compte ?",
       "reponse": "Le Nouveau Testament reprend fréquemment des formulations qui proviennent de la Septante. La simple substitution par le texte massorétique postérieur (qui omet certains livres) laisse de côté la tradition scripturaire utilisée par l’Église apostolique.",
       "scripture": ["Hébreux 10:5 (Ps 40)","Romain 9:21 (Sg 15:7)"]
     },
-   {
-  "id": "cite-septante",
-  "question": "Les Deutérocanoniques sont-ils cités dans la Bible ?",
-  "reponse": "Quand Paul écrit à Timothée : « Toute Écriture est inspirée de Dieu », Timothée se trouve à Éphèse, où la communauté juive utilise la Septante, la Bible grecque de la diaspora.", 
-  "scripture": ["2 Timothée 3:16", "2 Timothée 3:15", "Actes 16:1"]
-}
-,
+   
 
     {
   "id": "voyelles-massoretiques",
@@ -346,7 +376,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
 {
   "id": "autorite-ecriture-nouvelle-israel",
   "question": "Les Juifs connaissent-ils mieux l'Écriture ?",
-  "reponse": "Jésus enseigne explicitement que l'autorité de la vigne, c'est-à-dire l'Alliance et son interprétation, a été retirée aux chefs d'Israël qui ont rejeté le Messie, et transmise à un autre peuple : l'Église (Matthieu 21:33-43). L'Église est donc le nouvel Israël, héritière de l'Écriture. Il est incohérent d'affirmer que l'interprétation normative de la Bible appartient à une autorité religieuse ayant explicitement rejeté le Messie. La Tradition interprétative légitime n'est plus celle du judaïsme rabbinique post-biblique, mais celle transmise par les Apôtres.",
+  "reponse": "Jésus enseigne explicitement que l'autorité de la vigne, c'est-à-dire l'Alliance et son interprétation, a été retirée aux chefs d'Israël qui ont rejeté le Messie, et transmise à un autre peuple : l'Église (Matthieu 21:33-43). L'Église est donc le nouvel Israël, héritière de l'Écriture. La Tradition interprétative légitime n'est plus celle du judaïsme rabbinique post-biblique, mais celle transmise par les Apôtres.",
   "scripture": ["Matthieu 21:33-43", "1 Pierre 2:9", "Galates 6:16"]
 },
    
@@ -429,6 +459,12 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
       scripture: ["Matthieu 12:32"]
     },
     {
+      id: "monde",
+      question: "La Présence Réelle est une invention tardive !",
+      reponse: `Saint Ignace d'Antioche (Smyrniotes 7) en témoigne au 2e siècle. Justin Martyr ne voit pas la Cène comme un simple symbole, mais comme une réalité sacramentelle (Apologie).`,
+      scripture: []
+    },
+    {
       id: "purete",
       question: "Pourquoi une purification est-elle nécessaire ?",
       reponse: `« Rien d’impur n’entrera dans la cité de Dieu. » (Ap 21,27) Le purgatoire rend l’âme parfaitement pure pour le Ciel.`,
@@ -451,6 +487,12 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
       question: "Les protestants disent : 'Dieu nous couvre, sans nous changer'.",
       reponse: `La Bible enseigne une justice transformante, pas seulement déclarée. Le salut nous rend saints réellement, non juste “couverts”.`,
       scripture: ["2 Corinthiens 5:17", "Hébreux 12:14"]
+    },
+     {
+      id: "justice",
+      question: "“Sur cette pierre“ ne désignerait pas Pierre !",
+      reponse: `En grec de l'époque (après Alexandre Le Grand), Petros est simplement le masculin de Petra pour l'adapter à un nom d'homme. En Araméen (langue de Jésus), le mot est le même : Kephas.`,
+      scripture: []
     },
     {
       id: "foi-oeuvres-resume",
@@ -490,6 +532,19 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
       id: "bapteme-enfants",
       titre: "Le baptême des enfants",
       questions: [
+
+         {
+          id: "bebe-croit",
+          question: "Pourquoi baptiser les bébés ?",
+          reponse: `L'autorité de cette pratique vient directement de la succession apostolique et est pratiquée par les Églises apostoliques. Dans Actes 2:38-39, le grec utilise le mot “teknon“ comme dans Apocalypse 12, cela désigne le petit enfant, le nouveau-né. Si le texte visait les générations futures, il aurait utilisé le mot genea.`,
+          scripture: []
+        },
+         {
+          id: "bebe-croit",
+          question: "Marc 16:16 prouve que le baptême doit suivre la foi",
+          reponse: `Erreur d'interprétation. Dans la structure du texte, il s'agit d'une conjonction et non d'une causalité stricte excluant les enfants.`,
+          scripture: []
+        },
         {
           id: "bebe-croit-pas",
           question: "Le baptême doit être réservé aux adultes, car un bébé ne peut pas croire.",
@@ -536,6 +591,11 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
           reponse: `Non. Les anabaptistes du XVIᵉ siècle ont nié le baptême des enfants, mais Luther et Calvin eux-mêmes l’ont défendu. Ce refus est donc une innovation protestante, pas la tradition apostolique.`
         },
         {
+          id: "enseignement-eglise",
+          question: "Le baptême par doit se faire par immersion.",
+          reponse: `Le concept biblique de “aspersion“ est présent (Ézéchiel 36 : “Je répandra sur vous une eau pure“, ranô). L'immersion est dans la Trinité. L'histoire du geôlier dans les Actes montre aussi des baptêmes domestiques immédiats.`
+        },
+          {
           id: "enseignement-eglise",
           question: "Que dit l’Église sur le baptême des enfants ?",
           reponse: `Le Catéchisme (§1250-1252) enseigne : “Priver un enfant du baptême, c’est le priver de la grâce inestimable de devenir enfant de Dieu.”`
@@ -624,8 +684,19 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
 ,
         {
           id: "pourquoi-statues",
+          question: "Les reliques c'est païen !",
+          reponse: `Dans 2 Rois 13:21, le contact avec les ossements d'Élisée ressuscite un mort. Il y a le martyr de Polycarpe avant l'an 200.`
+        },
+          {
+          id: "pourquoi-statues",
           question: "Alors pourquoi avoir des statues ?",
           reponse: `Pour se souvenir des saints et imiter leur foi. Une statue est un mémo visuel, comme une photo de famille spirituelle.`
+        },
+         {
+          id: "pourquoi-",
+          question: "Le pèlerinage est une invention humaine !",
+          reponse: `Le Nouveau Testament mentionne des personnes venant de loin à Jérusalem pour adorer, une démarche de foi physique et spirituelle.`
+      , scripture: ["Jean 12:20-21"]
         },
         {
           id: "eglise-images",
@@ -668,10 +739,17 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
           scripture: ["Ex 32:11-14", "Tobie 12:15", "Ap 5:8"]
         },
       {
-  id: "saints-morts",
+  id: "saint-mort",
   question: "Mais les saints sont morts, non ?",
   reponse: `Non : ils vivent en Dieu. Jésus dit que Dieu n’est pas le Dieu des morts, mais des vivants (Lc 20,38), donc pour Dieu tous sont vivants. Jean 3,15 rappelle que croire donne la vie éternelle. Romains 8,38-39 affirme que rien ne nous sépare de l’amour du Christ. Et lors de la Transfiguration, Moïse et Élie apparaissent vivants et parlant avec Jésus, montrant que les justes sont actifs auprès de Dieu.`,
   scripture: ["Luc 20:38", "Jean 3:15", "Romains 8:38-39"]
+}
+,
+  {
+  id: "saints-morts",
+  question: "Prier les \"morts\", c'est une invention !",
+  reponse: `La correspondance de Cyprien de Carthage (Celerinus) prouve que l'on priait déjà pour les défunts et les martyrs bien avant le VIe siècle. C'est une pratique de l'Église primitive.`,
+  scripture: []
 }
 ,
         {
@@ -679,6 +757,12 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
           question: "La Bible encourage-t-elle la prière les uns pour les autres ?",
           reponse: `Oui. Jacques 5,16 : “La prière du juste a une grande efficacité.” Les saints étant parfaits en Dieu, leur prière est encore plus efficace.`,
           scripture: ["Jacques 5:16"]
+        },
+          {
+          id: "prieres-justes",
+          question: "Paul et Barnabé ont refusé d'être vénérés !",
+          reponse: `Ils ont refusé car la foule les prenait pour des dieux (Zeus et Hermès) !`,
+          scripture: []
         },
         {
           id: "eglise-intercession",
