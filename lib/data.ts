@@ -825,24 +825,19 @@ Ces trois réalités sont liées et solidaires (CEC §95 ; Dei Verbum §10).`,
       "reponse": "Oui : dès la fécondation apparaît un être vivant biologiquement autonome (zygote) ayant un patrimoine génétique unique et un programme de développement. Sur le plan biologique, il s’agit d’un organisme humain en développement, ce qui fonde l’argument de protection de sa vie dès ses premiers stades.",
       "scripture": ["Ap 12"]
     },
-    {
-      "id": "personne-seuil",
-      "question": "Peut-on poser un « seuil » arbitraire pour la personne ?",
-      "reponse": "Définir la personne uniquement par la présence de conscience, d’autonomie ou de relations sociales conduit à des critères fluctuants et discriminatoires. Historiquement et moralement, beaucoup soutiennent que la dignité humaine est intrinsèque, elle ne dépend pas d’un stade psychologique. Poser un seuil arbitraire, c'est hiérarchiser la valeur d’une vie selon son âge ou ses capacités.",
-      "scripture": ["Gen 1:27"]
-    },
+ 
     {
       "id": "dignite-intrinseque",
       "question": "Pourquoi affirmer que la dignité humaine est intrinsèque et non graduée ?",
-      "reponse": "Si la dignité dépend d’un état (conscience, autonomie, âge), alors des nouveau-nés, des personnes handicapées ou des malades en état végétatif pourraient perdre cette dignité. L’affirmation d’une dignité intrinsèque protège contre ces dérives : toute vie humaine, quel que soit le stade, mérite une protection et un respect fondamentaux.",
-      "scripture": ["Ps 139:13-16"]
+      "reponse": "Si la dignité dépend d’un état (conscience, autonomie, âge), alors des nouveau-nés, des personnes handicapées ou des malades en état végétatif pourraient perdre cette dignité. L’affirmation d’une dignité intrinsèque protège contre ces dérives : toute vie humaine, quel que soit le stade, mérite une protection et un respect fondamental.",
+      "scripture": ["Ps 139:13-16","Gen 1:27"]
     },
    
 
     {
       "id": "analogie-gland-chene",
       "question": "L’analogie 'gland ≠ chêne' est-elle valide pour comparer embryon et enfant ?",
-      "reponse": "L’analogie illustre une progression naturelle, mais elle simplifie trop : un gland est déjà une partie d’un chêne et dépend d’un arbre déjà formé ; l’embryon est un individu humain distinct avec son propre patrimoine génétique et un développement autonome. L’embryon n’est pas un être humain en puissance, mais un être humain avec une puissance de se développer, comme un enfant de 6 ans en pleine croissance ou une personne de 78 ans en train de vieillir.",
+      "reponse": "L’analogie illustre une progression naturelle, mais elle simplifie trop : un gland est déjà une partie d’un chêne et dépend d’un arbre déjà formé, l’embryon est un individu humain distinct avec son propre patrimoine génétique et un développement autonome. L’embryon n’est pas un être humain en puissance, mais un être humain avec une puissance de se développer, comme un enfant de 6 ans en pleine croissance ou une personne de 78 ans en train de vieillir.",
       "scripture": []
     },
     {

@@ -53,6 +53,59 @@ export default async function ThemePage({ params }: { params: Promise<{ themeId:
           </Link>
         ))}
       </div>
+
+{themeId === 'protestant' && (
+  <section className="mt-10 mb-10 border-t border-gray-200 pt-12 px-4">
+    <div className="max-w-3xl mx-auto text-center">
+      <h2 className="text-2xl font-serif font-semibold mb-4 text-neufcent">
+        RÉFUTATION
+      </h2>
+
+      <p className="text-gray-700 mb-8">
+        Réponses à <span className="font-medium">Vie et Lumière</span>, rédigées
+        en m’appuyant sur la tradition et la doctrine du catholicisme.
+      </p>
+
+      <div className="flex flex-col sm:flex-row justify-center gap-4">
+        {/* Voir PDF */}
+        <a
+          href="/essai"
+          target="_blank"
+          className="
+            inline-flex items-center justify-center gap-2 
+            px-6 py-3 
+            border border-gray-800 
+            text-gray-900 
+            hover:bg-gray-100 
+            transition 
+            w-full sm:w-auto
+          "
+        >
+          👁️ Lire le PDF
+        </a>
+
+        {/* Télécharger PDF */}
+        <a
+          href="/contre-vie-et-lumiere.pdf"
+          download
+          className="
+            inline-flex items-center justify-center gap-2 
+            px-6 py-3 
+            bg-secondary 
+            text-white 
+            hover:bg-gray-800 
+            transition 
+            w-full sm:w-auto
+          "
+        >
+          📄 Télécharger le PDF
+        </a>
+      </div>
+    </div>
+  </section>
+)}
+
+
     </main>
   );
 }
