@@ -1640,7 +1640,12 @@ reponse: `Non. Nous sommes appelés à sauver l’Église en devenant saints. Le
         {
           id: "un-seul-chemin",
           question: "Mais pourquoi dire que seul le christianisme dit la vérité ?",
-          reponse: `Parce que Jésus dit « Je suis le chemin, la vérité et la vie. Nul ne vient au Père que par moi. » Si quelqu’un affirme cela, soit il dit vrai, soit il ment, mais il n’a pas laissé l’option “toutes les religions sont justes`,
+          reponse: `Parce que Jésus dit « Je suis le chemin, la vérité et la vie. Nul ne vient au Père que par moi. » Si quelqu’un affirme cela, soit il dit vrai, soit il ment, mais il n’a pas laissé l’option “toutes les religions sont justes.`,
+        },
+         {
+          id: "un-chemin",
+          question: "La même cause de salut dans toutes les religions ?",
+          reponse: `À cause du péché originel, l’humanité ne peut plus voir Dieu le Père. Dieu a donc envoyé son Fils. Par son libre arbitre, Pierre a été le premier à croire en lui (en dehors de Marie, qui, préservée du péché originel, a été élevée au ciel corps et âme). Jésus étant Dieu, son sacrifice a une valeur infinie, il vaut tout. Il a donc offert une réparation de valeur infinie et a rendu le salut possible pour tous, par lui. Pierre est sauvé par sa foi, mais il aurait pu renier définitivement le Christ, comme Judas. Par ce moyen, Dieu demeure juste, car sauver l’humanité sans le sacrifice du Christ, préfiguré par les agneaux pascals, serait contraire à la justice. Or Dieu est juste. `,
         },
        {
   id: "verite-relatived",
