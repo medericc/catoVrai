@@ -577,8 +577,14 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
         {
           id: "attendre-grandir",
           question: "Alors pourquoi ne pas attendre qu’il soit grand ?",
-          reponse: `On ne dirait jamais : “On attend que l’enfant soit grand pour le soigner ou le protéger.” On donne le bien dès que possible.   Le baptême est une protection spirituelle qui met l’enfant sous la garde de Dieu et le préserve du mal.`
+          reponse: `On ne dirait jamais : “On attend que l’enfant soit grand pour le soigner ou le protéger.” On donne le bien dès que possible. Le baptême est une protection spirituelle qui met l’enfant sous la garde de Dieu et le préserve du mal.`
         ,scripture: ["Galates 5, 19-21"]
+        },
+          {
+          id: "bebe-polycarpe",
+          question: "Les premiers chrétiens étaient-ils baptisés bébés ?",
+          reponse: `Lors de son martyre Polycarpe, disciple de saint Jean, précise qu'il sert le Christ depuis 86 ans (son âge approximatif).`
+        ,scripture: ["Le Martyre de Polycarpe"]
         },
         {
           id: "bapteme-primitif",
