@@ -38,7 +38,7 @@ export const themes: Domaine[] = [
         {
           id: "marie-femme",
           question: "Pourquoi prier Marie ? Ce n’est qu’une femme !",
-          reponse: `Marie est une créature, oui, mais choisie par Dieu pour devenir Mère de Dieu fait homme (Luc 1,43). Elle ne remplace pas le Christ : elle coopère à son œuvre, en Lui et par Lui. Comme saint Paul, elle est coopératrice de Dieu (1 Co 3,9).`,
+          reponse: `Marie est une créature, oui, mais choisie par Dieu pour devenir Mère de Dieu fait homme et à l'inverse de Zacharie elle ne doute pas de Dieu (image de l'AT qui se stoppe). Elle ne remplace pas le Christ : elle coopère à son œuvre, en Lui et par Lui. Comme saint Paul, elle est coopératrice de Dieu.`,
           scripture: ["Luc 1:43", "1 Co 3:9"]
         },
         {
@@ -61,14 +61,14 @@ export const themes: Domaine[] = [
         {
           id: "cana",
           question: "Pourquoi Marie intercède à Cana ? Jésus n’a-t-il pas dit que son heure n’était pas venue ?",
-          reponse: `Oui, mais il agit par sa demande (Jean 2,3-5). Elle ne commande pas à Dieu, elle intercède et conduit à Jésus : « Faites tout ce qu’il vous dira. » C’est toute sa mission spirituelle : mener au Christ.`,
+          reponse: `Oui, mais il agit par sa demande (Jean 2,3-5). Elle ne commande pas à Dieu, elle intercède et conduit à Jésus : « Faites tout ce qu’il vous dira. » C’est toute sa mission spirituelle : mener au Christ, en tant que reine-mère. Achaz refuse dans Isaïe 7 mais Marie dit "Faites tout ce qu’il vous dira".`,
           scripture: ["Jean 2:3-5"]
         },
         {
           id: "intercession-croix",
           question: "D’où vient cette idée que Marie intercède pour nous ?",
-          reponse: `À la Croix, Jésus dit à Jean : « Voici ta mère. » (Jean 19,26-27). Il donne Marie comme mère spirituelle à tous les disciples. Depuis, l’Église la reconnaît comme mère, avocate et intercesseur auprès de son Fils.`,
-          scripture: ["Jean 19:26-27"]
+          reponse: `À la Croix, Jésus dit à Jean : « Voici ta mère. » (Jean 19,26-27). Il donne Marie comme mère spirituelle à tous les disciples. Isaïe a prédit 2 naissances, la première sans douleur (Jésus) et la seconde avec douleur (le glaive) à la croix pour nous.`,
+          scripture: ["Jean 19:26-27","Isaïe 66","Luc 2"]
         },
         {
           id: "titres-marie",
@@ -114,11 +114,35 @@ export const themes: Domaine[] = [
   scripture: ["Luc 1:28"]
 }
 ,
+
+  {
+  id: "arche",
+  question: "Une analogie avec Marie ?",
+  reponse: `Athanase d’Alexandrie, dans son homélie (Papyrus de Turin), compare Marie à l’Arche, car toutes deux sont couvertes par l’Esprit. Dans la Bible, en Apocalypse 11,19, l’Esprit Saint et l’Arche apparaissent avant la femme d’Apocalypse 12. Et lorsque l’on a l’Arche de l’Alliance (Marie), on gagne. L'arche de Noé a vaincu le péché avec ses enfants (à la croix on est enfant de Marie), direction le paradis.`,
+  scripture: ["Luc 1:28"]
+}
+,
+
+
+
+ {
+  id: "mere",
+  question: "Marie est la mère de tous les croyants ?",
+  reponse: `Dans Luc 1,28, l’ange ne dit pas « Bonjour Marie », mais utilise un titre unique : « kecharitoménè ». C’est un parfait grec qui signifie : « toi qui as été comblée de grâce et qui le restes durablement ». Cette grâce ne vient pas d’elle, mais du Christ ; elle est donc la première sauvée, de manière prévenante.`,
+  scripture: ["Luc 1:28"]
+}
+,
+  {
+  id: "immaculee",
+  question: "D’où vient que Marie est l’Immaculée Conception ?",
+  reponse: `Theodotus (évêque du Ve siècle) nous dit que Marie n’a pas la faute de la femme. Sophronie de Jérusalem dit : « femme sans tache », rendu plus pure (comme le Christ) donc pas de purification supplémentaire.`,
+  scripture: []
+},
         {
-          id: "mission-aujourd-hui",
-          question: "En résumé, Marie fait quoi pour nous aujourd’hui ?",
-          reponse: `Elle intercède, conseille, protège, guide. Comme au Ciel, elle continue sa mission maternelle : nous conduire au Christ et nous aider à persévérer. C’est pour cela que « toutes les générations la diront bienheureuse » (Luc 1,48).`,
-          scripture: ["Luc 1:48"]
+          id: "marie-pere",
+          question: "Des exemples patristiques ?",
+          reponse: `Dans Jean il est refait la Genèse, la nouvelle création (céleste). St Jean Damascène dira que Marie est la première née de la nouvelle création (Anne avait le paradis en son sein).`,
+          scripture: []
         }
 
 
@@ -252,7 +276,7 @@ export const themes: Domaine[] = [
     {
   "id": "pierre",
   "question": "Pierre n’avait pas de rôle spécial.",
-  "reponse": "Jésus reçoit du Père la mission de Berger, puis il la confie visiblement à Pierre : « Tu es Pierre, et sur cette pierre je bâtirai mon Église » ; « Je te donnerai les clefs du Royaume » ; « Pais mes brebis ». Comme Moïse transmet l’autorité à Josué, Jésus donne à Pierre une autorité visible. Dans les Actes, Pierre prend constamment l’initiative : il enseigne, il décide, il ouvre la mission. Il agit comme le pasteur visible de l’Église. Et dans l’Apocalypse, Jésus détient les clefs de David, montrant que l’autorité du Royaume existe et qu’il en confie l’exercice à Pierre sur la terre.", 
+  "reponse": "Jésus reçoit du Père la mission de Berger, puis il la confie visiblement à Pierre : « Tu es Pierre, et sur cette pierre je bâtirai mon Église » ; « Je te donnerai les clefs du Royaume » ; « Pais mes brebis ». Comme Moïse transmet l’autorité à Josué, Jésus donne à Pierre une autorité visible. Dans les Actes, Pierre prend constamment l’initiative, d'ailleurs le bâton à prendre est mentionné dans Marc 6 et pas dans Luc 9 (c'est Pierre qui a raconté l'histoire a Marc, lui l'avait pas les autres). Il agit comme le pasteur visible de l’Église. Et dans l’Apocalypse, Jésus détient les clefs de David, montrant que l’autorité du Royaume existe et qu’il en confie l’exercice à Pierre sur la terre.", 
   "scripture": ["Jean 10","Hébreux 13,20","Mt 16:18-19", "Jn 21:15-17", "Actes 1-10","1 Pierre 5,4" ,"Ap 3:7"]
 }
 ,
@@ -356,7 +380,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
     {
       "id": "hebreux-cite-septante",
       "question": "Les auteurs du Nouveau Testament citent la Septante, pourquoi cela compte ?",
-      "reponse": "Le Nouveau Testament reprend fréquemment des formulations qui proviennent de la Septante. La simple substitution par le texte massorétique postérieur (qui omet certains livres) laisse de côté la tradition scripturaire utilisée par l’Église apostolique.",
+      "reponse": "Le Nouveau Testament reprend fréquemment des formulations qui proviennent de la Septante. La simple substitution par le texte massorétique postérieur (qui omet certains livres) n'a aucune réelle base car les pharisiens avait plusieurs canons (Rabbah Ben Mare Talmud utilise Ben Sira par exemple). Jérôme dira à Ruffin d'arrêter des suivres les Juifs.",
       "scripture": ["Hébreux 10:5 (Ps 40)","Romain 9:21 (Sg 15:7)"]
     },
    
@@ -536,7 +560,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
          {
           id: "bebe-croit",
           question: "Pourquoi baptiser les bébés ?",
-          reponse: `L'autorité de cette pratique vient directement de la succession apostolique et est pratiquée par les Églises apostoliques. Dans Actes 2:38-39, le grec utilise le mot “teknon“ comme dans Apocalypse 12, cela désigne le petit enfant, le nouveau-né. Si le texte visait les générations futures, il aurait utilisé le mot genea.`,
+          reponse: `Saint Polycarpe de Smyrne, disciple de Jean, a était batpisé bébé. Dans Actes 2:38-39, le grec utilise le mot “teknon“ comme dans Apocalypse 12, cela désigne le petit enfant, le nouveau-né. Si le texte visait les générations futures, il aurait utilisé le mot genea.`,
           scripture: []
         },
          {
@@ -548,8 +572,8 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
         {
           id: "bebe-croit-pas",
           question: "Le baptême doit être réservé aux adultes, car un bébé ne peut pas croire.",
-          reponse: `Le baptême n’est pas d’abord un acte de l’homme, mais un acte de Dieu. C’est Dieu qui purifie, qui régénère, qui sauve (Tite 3,5). La foi du baptême n’est pas seulement individuelle, mais celle de l’Église tout entière.`,
-          scripture: ["Tite 3:5"]
+          reponse: `Le baptême est un acte de Dieu (Tite 3,5) : c’est la nouvelle circoncision. « Vos fils et vos filles prophétiseront » (Joël 2,28). Le déluge a aussi sauvé les enfants (1 Pierre 3,20) par leurs parents (1 Co 7). Irénée de Lyon nous dit de « sanctifier les enfants » au IIᵉ siècle, et Hippolyte de Rome, au IIIᵉ, de baptiser les enfants.`,
+          scripture: ["Tite 3:5","1 Col 2","1 Pierre 3","1 Co 7"]
         },
         {
           id: "bebe-foi-communaute",
@@ -768,6 +792,12 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
           id: "prieres-justes",
           question: "Paul et Barnabé ont refusé d'être vénérés !",
           reponse: `Ils ont refusé car la foule les prenait pour des dieux (Zeus et Hermès) !`,
+          scripture: []
+        },
+           {
+          id: "prieres",
+          question: "Des exemples bibliques ?",
+          reponse: `Les femmes sont toujours enterrées avec leur mari. Rachel, non : à Bethléem. On voit, chez les Juifs, dans le "Midrash Genesis Rabbah 82", que c’est pour faire miséricorde et prier. Matthieu 2 répond à Rachel (Jérémie 31).`,
           scripture: []
         },
         {
