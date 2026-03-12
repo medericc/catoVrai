@@ -560,7 +560,7 @@ Appeler un prêtre “père”, c’est reconnaître en lui un guide spirituel, 
          {
           id: "bebe-croit",
           question: "Pourquoi baptiser les bébés ?",
-          reponse: `Saint Polycarpe de Smyrne, disciple de Jean, a était batpisé bébé. Dans Actes 2:38-39, le grec utilise le mot “teknon“ comme dans Apocalypse 12, cela désigne le petit enfant, le nouveau-né. Si le texte visait les générations futures, il aurait utilisé le mot genea.`,
+          reponse: `Saint Polycarpe de Smyrne, disciple de Jean, a était batpisé bébé. Dans Actes 2:38-39, le grec utilise le mot “teknon“ comme dans Apocalypse 12, cela désigne le petit enfant, le nouveau-né. Si le texte visait les générations futures, il aurait utilisé le mot genea.  Le but d’un parent est de former des saints, pas d’habituer son enfant à vivre de manière désordonnée pour qu'il soit bleu-blanc-rouge à 18 ans. `,
           scripture: []
         },
          {
